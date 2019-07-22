@@ -1,0 +1,388 @@
+Airport Name,Airport Code
+Tokyo Narita,NRT-sky
+Soekarno-Hatta Jakarta,CGK-sky
+New York John F. Kennedy,JFK-sky
+Seoul Incheon Int'l,ICN-sky
+Manizales,MZL-sky
+Sao Paulo Guarulhos,GRU-sky
+Albuquerque,ABQ-sky
+Delingha,HXD-sky
+Osaka Kansai International,KIX-sky
+Cairns,CNS-sky
+Los Angeles International,LAX-sky
+Shanghai Pu Dong,PVG-sky
+Moscow Vnukovo,VKO-sky
+Buenos Aires Ministro Pistarini,EZE-sky
+Istanbul,IST-sky
+Rio De Janeiro Internacional,GIG-sky
+Paris Charles de Gaulle,CDG-sky
+Nagoya Chubu Centrair,NGO-sky
+Chicago O'Hare International,ORD-sky
+Valdivia,ZAL-sky
+London Heathrow,LHR-sky
+Bangkok Suvarnabhumi,BKK-sky
+Imam Khomeini International,IKA-sky
+Limbang,LMN-sky
+Durban King Shaka International,DUR-sky
+Melbourne Essendon,MEB-sky
+Bayannur Tianjitai,RLK-sky
+Hong Kong International,HKG-sky
+Taipei Taiwan Taoyuan,TPE-sky
+Mangalore,IXE-sky
+Hyderabad,HDD-sky
+Johannesburg O.R. Tambo,JNB-sky
+Toronto Pearson International,YYZ-sky
+Santiago,SCLA-sky
+Kuala Lumpur International,KUL-sky
+Quito,UIO-sky
+Philadelphia International,PHL-sky
+Wu Hai,WUA-sky
+Maamigili Island,VAM-sky
+Dallas Fort Worth International,DFW-sky
+Belo Horizonte Tancredo Neves Int'l.,CNF-sky
+Houston George Bush Intercntl.,IAH-sky
+Punta Cana,PUJ-sky
+Wadi Ad Dawasir,WAE-sky
+Singapore Changi,SIN-sky
+Washington Dulles,IAD-sky
+Milan Malpensa,MXP-sky
+Atlanta Hartsfield-Jackson,ATL-sky
+Zhoubai Airport,JIQ-sky
+Alexandria Borg El Arab,HBE-sky
+Nanning,NNG-sky
+Barcelona,BLA-sky
+Puning,CDE-sky
+Detroit Wayne County,DTW-sky
+Lankaran International,LLK-sky
+Berlin Tegel,TXL-sky
+Sydney,SYD-sky
+Carmel Monterey Peninsula,MRY-sky
+Phoenix Sky Harbor,PHX-sky
+Melbourne Tullamarine,MEL-sky
+Saurimo,VHC-sky
+Changzhou,CZX-sky
+Montreal Pierre Elliott Trudeau,YUL-sky
+Surat,STV-sky
+Medellin Jose Maria Cordova,MDE-sky
+Bengaluru,BLR-sky
+Kannur International,CNN-sky
+Nairobi Jomo Kenyatta,NBO-sky
+Blimbingsari,BWX-sky
+San Salvador,SAL-sky
+Kansas City International,MCI-sky
+San Diego International,SAN-sky
+Seattle / Tacoma International,SEA-sky
+Rome Fiumicino,FCO-sky
+Raipur,RPR-sky
+Carcassonne,CCF-sky
+Blaise Diagne International,DSS-sky
+Amman Queen Alia,AMM-sky
+Ben Gurion Intl,TLV-sky
+Kyiv Boryspil,KBP-sky
+Campina Grande,CPV-sky
+Changsha,CSX-sky
+San Juan,SJUA-sky
+Tires,CAT-sky
+Frankfurt am Main,FRA-sky
+Nanchong,NAO-sky
+Birmingham,BHM-sky
+Tampa International,TPA-sky
+Madinah,MED-sky
+Dalbandin,DBA-sky
+Tunisia,TN-sky
+Manchester,MHT-sky
+Portugal,PT-sky
+Kita Kyushu,KKJ-sky
+Santo Domingo Las Americas,SDQ-sky
+Los Angeles,LAXA-sky
+Denver International,DEN-sky
+Duluth,DLHA-sky
+Colombo Bandaranayake,CMB-sky
+Dubai,DXB-sky
+Sapporo Chitose,CTS-sky
+Vancouver International,YVR-sky
+Biju Patnaik International,BBI-sky
+Seville,SVQ-sky
+Warsaw Modlin,WMI-sky
+Bonaire,BON-sky
+Paducah,PAH-sky
+Libo,LLB-sky
+Taipei Taiwan Taoyuan,TPE-sky
+Wugang,WGN-sky
+Jazan,GIZ-sky
+Nanaimo Harbour,ZNA-sky
+Xuzhou,XUZ-sky
+Ganzhou,KOW-sky
+Cox's Bazar,CXB-sky
+Yanji,YNJ-sky
+Kilwa,KIY-sky
+Stockholm Arlanda,ARN-sky
+Kushok Bakula Rimpochhe,IXL-sky
+Abadan,ABD-sky
+Brisbane West Wellcamp,WTB-sky
+Nanchang,KHN-sky
+Nanking / Nanjing,NKG-sky
+Manaung,MGU-sky
+Fuzhou,FOC-sky
+Seoul Incheon Int'l,ICN-sky
+Hebei Handan,HDG-sky
+Limoges,LIG-sky
+Indonesia,ID-sky
+Belgrade Nikola Tesla,BEG-sky
+Fuzhou,FOC-sky
+Suzhou,SZV-sky
+Nauru,NR-sky
+Luanda,LAD-sky
+An Shun,AVA-sky
+Taipei,TPET-sky
+Dayong,DYG-sky
+København Kastrup,CPH-sky
+Hamadan,HDM-sky
+Kashan,KKS-sky
+Tripoli,TIP-sky
+Loyangalani,LOY-sky
+Iquitos,IQT-sky
+Jiujiang,JIU-sky
+Gwangju Muan International,MWX-sky
+Belep Island,BMY-sky
+Wuyishan,WUS-sky
+Mian Yang,MIG-sky
+Tenerife South,TFS-sky
+Xi An Xianyang,XIY-sky
+Charlotte Douglas,CLT-sky
+Diqing,DIG-sky
+Asuncion,ASU-sky
+Homalin,HOX-sky
+Sanya,SYX-sky
+Kochi,KCZ-sky
+Puning,CDE-sky
+Fuzhou,FOC-sky
+Ciudad Juarez,CJS-sky
+Belitung (Tanjung Pandan),TJQ-sky
+Orchid Island,KYD-sky
+Agartala,IXA-sky
+Bursa,YEI-sky
+Alicante,ALC-sky
+Taif,TIF-sky
+Yaounde Nsimalen,NSI-sky
+Monterrey Gen Mariano Escobedo,MTY-sky
+Buenos Aires Ministro Pistarini,EZE-sky
+Auckland International,AKL-sky
+Alicante,ALC-sky
+Surat Thani,URT-sky
+San Antonio International,SAT-sky
+Xi An Xianyang,XIY-sky
+Fuzhou,FOC-sky
+Taldy-Kurgan,TDK-sky
+Changsha,CSX-sky
+Luzhou,LZO-sky
+Zhangye Ganzhou,YZY-sky
+Tri-Cities,TRI-sky
+Karaganda,KGF-sky
+Monteria,MTR-sky
+French Guiana,GF-sky
+Hualien,HUN-sky
+Shirahama,SHM-sky
+Nur-Sultan,TSE-sky
+Yun Cheng,YCU-sky
+Groote Eylandt,GTE-sky
+Da Nang,DAD-sky
+Eesti Vabariik,EE-sky
+Xichang,XIC-sky
+Hyderabad,HDD-sky
+Xi An Xianyang,XIY-sky
+Paraparaumu,PPQ-sky
+Ottawa International,YOW-sky
+Kita Kyushu,KKJ-sky
+Beira,BEW-sky
+Huai'an Lianshui Airport,HIA-sky
+Xuzhou,XUZ-sky
+Asmara,ASM-sky
+Tomsk,TOF-sky
+Tacheng,TCG-sky
+Xuzhou,XUZ-sky
+Kazakhstan,KZ-sky
+Miyako Jima,MMY-sky
+Gassim,ELQ-sky
+Magnitogorsk,MQF-sky
+Hangzhou,HGH-sky
+Ulaanbaatar,ULN-sky
+Hangzhou,HGH-sky
+Essaouira,ESU-sky
+Jeki,JEK-sky
+Rostock,RLG-sky
+Wuxi,WUX-sky
+Ulanqab Jining,UCB-sky
+Edmonton International,YEG-sky
+Krivoy Rog,KWG-sky
+Xinzhou Wutaishan,WUT-sky
+USA,US-sky
+Zhoubai Airport,JIQ-sky
+Brussels International,BRU-sky
+Xuzhou,XUZ-sky
+Lublin,LUZ-sky
+San Juan Luis Munoz Marin,SJU-sky
+Benin City,BNI-sky
+Kaunas,KUN-sky
+Peru,PE-sky
+Odessa-Schlemeyer Field,ODO-sky
+Mumbai,BOM-sky
+Liuzhou,LZH-sky
+Bendigo,BXG-sky
+Yangzhou Taizhou Airport,YTY-sky
+Xingyi,ACX-sky
+Kolkata,CCU-sky
+Mian Yang,MIG-sky
+Livingstone,LVI-sky
+Abakan,ABA-sky
+Chiang Mai,CNX-sky
+Durham Tees Valley,MME-sky
+Xuzhou,XUZ-sky
+Thessaloniki,SKG-sky
+Yichun,YIC-sky
+Alicante,ALC-sky
+San Jose Cabo,SJD-sky
+Jijiga,JIJ-sky
+Mayaguana,MYG-sky
+Istanbul Sabiha,SAW-sky
+Kemi / Tornio,KEM-sky
+Merida,MRD-sky
+Yangzhou Taizhou Airport,YTY-sky
+Ganzhou,KOW-sky
+Adelaide,ADL-sky
+Rabat,RBA-sky
+Harbin,HRB-sky
+Nanyang,NNY-sky
+Dayong,DYG-sky
+Errachidia,ERH-sky
+Changbaishan,NBS-sky
+Ganzhou,KOW-sky
+La Paz,LAP-sky
+Shonai,SYO-sky
+Kaikoura,KBZ-sky
+Bogota,BOG-sky
+Nairobi,NBOA-sky
+Catumbela,CBT-sky
+Yining,YIN-sky
+Jinchuan,JIC-sky
+Alicante,ALC-sky
+Berdiansk,ERD-sky
+Durban King Shaka International,DUR-sky
+Marie Galante,GBJ-sky
+Vilnius,VNO-sky
+Dublin,DUB-sky
+Kangerlussuaq,SFJ-sky
+Sochi,AER-sky
+Urumqi,URC-sky
+Minggang,XAI-sky
+Kashi,KHG-sky
+San Rafael,AFA-sky
+Malaga,AGP-sky
+Palanga International,PLQ-sky
+Groote Eylandt,GTE-sky
+Ondangwa,OND-sky
+Anshan,AOG-sky
+Ciudad Juarez,CJS-sky
+Mara Lodges,MRE-sky
+Loyangalani,LOY-sky
+Ningbo,NGB-sky
+Pyongyang,FNJ-sky
+Livingstone,LVI-sky
+Salekhard,SLY-sky
+Izmir,ADB-sky
+Port Columbus,CMH-sky
+Liping City,HZH-sky
+Taipei,TPET-sky
+Riyadh,RUH-sky
+Montreal,YMQA-sky
+Whanganui,WAG-sky
+Ceduna,CED-sky
+Hamilton Island,HTI-sky
+Xichang,XIC-sky
+Hangzhou,HGH-sky
+Alicante,ALC-sky
+Bali (Denpasar),DPS-sky
+Port Harcourt,PHC-sky
+Jaipur,JAI-sky
+Wu Hai,WUA-sky
+Zhanjiang,ZHA-sky
+Nanyang,NNY-sky
+Zunyi,ZYI-sky
+Yun Cheng,YCU-sky
+Changuinola,CHX-sky
+Leknes,LKN-sky
+Sapporo Okadama,OKD-sky
+Rabaul,RAB-sky
+Amsterdam,AMS-sky
+Gazipasa Alanya,GZP-sky
+East Midlands,EMA-sky
+Metz / Nancy Lorraine,ETZ-sky
+Tetuan S. Ramel,TTU-sky
+Puebla,PBC-sky
+Changzhou,CZX-sky
+Delingha,HXD-sky
+Valera,VLV-sky
+Moroni Prince Said Ibrahim In,HAH-sky
+Castellon de la Plana,CDT-sky
+Doncaster Sheffield,DSA-sky
+Yun Cheng,YCU-sky
+Minatitlan,MTT-sky
+Ulyanovsk Baratayevka,ULV-sky
+Ji An,JGS-sky
+Fort Worth,FTW-sky
+Kashi,KHG-sky
+Minggang,XAI-sky
+Geneva,GVA-sky
+Delingha,HXD-sky
+Yichang,YIH-sky
+Colombo Bandaranayake,CMB-sky
+Medellin Jose Maria Cordova,MDE-sky
+Anguilla,AI-sky
+Palma De Mallorca,PMI-sky
+Beihai,BHY-sky
+Chaoyang,CHG-sky
+Leh,IXL-sky
+Lannion,LAI-sky
+Yancheng,YNZ-sky
+Okino Erabu,OKE-sky
+Pagadian,PAG-sky
+Xinzhou Wutaishan,WUT-sky
+Guiyang,KWE-sky
+Izumo,IZO-sky
+Sanqingshan,SQD-sky
+Zhoubai Airport,JIQ-sky
+Stuttgart,SGT-sky
+Kingston,YGK-sky
+Glasgow International,GLA-sky
+Komsomolsk Na Amure,KXK-sky
+Bratsk,BTK-sky
+AP Tumenggung Pranoto,AAP-sky
+Dusseldorf International,DUS-sky
+Reykjavik,REYK-sky
+Zhengzhou,CGO-sky
+Samarinda,SRI-sky
+Aksu,AKU-sky
+Madagascar,MG-sky
+Weihai,WEH-sky
+Louisville Standiford Field,SDF-sky
+Frankfurt,FRAN-sky
+Jinjiang,JJN-sky
+King Salmon,AKN-sky
+Bozoum,BOZ-sky
+Antananarivo,TNR-sky
+Batman,BAL-sky
+Orsk,OSW-sky
+Las Vegas Mccarran,LAS-sky
+Longana,LOD-sky
+Oslo Gardermoen,OSL-sky
+Bangalore,BLR-sky
+Aba/Hongyuan,AHJ-sky
+Sintang,SQG-sky
+Changzhou,CZX-sky
+Kermanshah,KSH-sky
+Beijing Capital,PEK-sky
+Abu Dhabi International,AUH-sky
+Athens International,ATH-sky
+Dali City,DLU-sky
+Miri,MYY-sky
+Novokuzinetsk,NOZ-sky
