@@ -17,11 +17,10 @@ CarrierId,Name
 1658,Royal Jordanian
 1713,Singapore Airlines
 1755,Turkish Airlines
+854,Avianca (Scheduled)
 857,Finnair
 870,jetBlue
 881,British Airways
-988,Delta
-1368,Lufthansa
 1467,Spirit Airlines
 1482,Air New Zealand
 1523,Austrian Airlines
@@ -31,25 +30,40 @@ CarrierId,Name
 898,EVA Air
 929,Air China
 1464,ANA
-1482,Air New Zealand
 1793,United
+835,Air Canada
 870,jetBlue
 881,British Airways
 988,Delta
 1035,Emirates
 1324,KLM
 1368,Lufthansa
+1618,Qatar Airways
+1755,Turkish Airlines
+838,Air France
+851,Alaska Airlines
+870,jetBlue
+988,Delta
+1065,Frontier Airlines
+1324,KLM
+1368,Lufthansa
+1467,Spirit Airlines
+1523,Austrian Airlines
+1707,SAS
+1710,Brussels Airlines
+1713,Singapore Airlines
 1755,Turkish Airlines
 833,American Airlines
 870,jetBlue
 988,Delta
 1065,Frontier Airlines
-898,EVA Air
+929,Air China
 952,Cathay Pacific
 1464,ANA
 1713,Singapore Airlines
+1793,United
 870,jetBlue
-881,British Airways
+1218,Iberia
 1467,Spirit Airlines
 1710,Brussels Airlines
 1755,Turkish Airlines
@@ -63,8 +77,8 @@ CarrierId,Name
 898,EVA Air
 1464,ANA
 1793,United
-838,Air France
 870,jetBlue
+881,British Airways
 1368,Lufthansa
 1384,SWISS
 1467,Spirit Airlines
@@ -82,15 +96,13 @@ CarrierId,Name
 1065,Frontier Airlines
 1467,Spirit Airlines
 1793,United
+870,jetBlue
 881,British Airways
 1035,Emirates
 1368,Lufthansa
 1467,Spirit Airlines
-1713,Singapore Airlines
 1755,Turkish Airlines
 833,American Airlines
-988,Delta
-1065,Frontier Airlines
 1467,Spirit Airlines
 1793,United
 898,EVA Air
@@ -102,6 +114,18 @@ CarrierId,Name
 1467,Spirit Airlines
 1707,SAS
 1713,Singapore Airlines
+1907,WestJet
+881,British Airways
+1218,Iberia
+1324,KLM
+1482,Air New Zealand
+1755,Turkish Airlines
+870,jetBlue
+881,British Airways
+1384,SWISS
+1467,Spirit Airlines
+1755,Turkish Airlines
+1793,United
 833,American Airlines
 988,Delta
 1065,Frontier Airlines
@@ -136,14 +160,13 @@ CarrierId,Name
 1523,Austrian Airlines
 1713,Singapore Airlines
 1793,United
-223,Interjet
 1467,Spirit Airlines
 1793,United
 851,Alaska Airlines
 870,jetBlue
 1907,WestJet
 881,British Airways
-1033,Aer Lingus
+1218,Iberia
 1324,KLM
 1482,Air New Zealand
 1755,Turkish Airlines
@@ -152,7 +175,6 @@ CarrierId,Name
 1467,Spirit Airlines
 1713,Singapore Airlines
 1755,Turkish Airlines
-857,Finnair
 952,Cathay Pacific
 954,China Southern
 1467,Spirit Airlines
@@ -178,19 +200,19 @@ CarrierId,Name
 1793,United
 1907,WestJet
 898,EVA Air
+1464,ANA
 1618,Qatar Airways
 1713,Singapore Airlines
 870,jetBlue
 881,British Airways
+981,Condor
 1368,Lufthansa
 1467,Spirit Airlines
 1482,Air New Zealand
 1523,Austrian Airlines
 1713,Singapore Airlines
-1755,Turkish Airlines
 1793,United
 857,Finnair
-881,British Airways
 929,Air China
 1755,Turkish Airlines
 223,Interjet
