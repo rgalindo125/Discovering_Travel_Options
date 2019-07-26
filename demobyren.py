@@ -7,5 +7,4 @@
   },
     data={'fuel': 'p', 'state': 'dl'}
 )
-
 price = response.json()
