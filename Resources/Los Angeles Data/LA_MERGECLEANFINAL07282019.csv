@@ -1,0 +1,1579 @@
+Departure City,City ID,City Name,Airport Name,Iata Code,Country Name,City ID Departure,Min Price,Airline ID,Non-Stop Flight,Departure Date,Quote ID,Airline Name
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,326,1192,True,12/1/2019,1,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,327,952,True,12/4/2019,2,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,286,1192,True,12/5/2019,3,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,357,1276,False,12/6/2019,4,Japan Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,522,952,True,12/6/2019,5,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,418,1414,False,12/8/2019,6,Xiamen Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,437,1192,True,12/8/2019,7,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,373,1317,False,12/9/2019,8,Korean Air
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,615,952,True,12/9/2019,9,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,429,937,False,12/10/2019,10,China Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,599,952,True,12/10/2019,11,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,429,937,False,12/11/2019,12,China Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,673,952,True,12/11/2019,13,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,492,1717,False,12/12/2019,14,Aeroflot
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,673,952,True,12/12/2019,15,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,492,1717,False,12/13/2019,16,Aeroflot
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,765,1192,True,12/13/2019,17,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,627,1530,False,12/14/2019,18,Asiana Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,770,1192,True,12/14/2019,19,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,682,1276,False,12/15/2019,20,Japan Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,945,1192,True,12/15/2019,21,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,493,1717,False,12/16/2019,22,Aeroflot
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,673,952,True,12/16/2019,23,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,726,1530,False,12/17/2019,24,Asiana Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,797,1192,True,12/17/2019,25,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,624,1276,False,12/18/2019,26,Japan Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,927,1192,True,12/18/2019,27,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,673,1276,False,12/19/2019,28,Japan Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,832,1192,True,12/19/2019,29,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,627,1530,False,12/20/2019,30,Asiana Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,868,952,True,12/20/2019,31,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,611,1530,False,12/21/2019,32,Asiana Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,823,952,True,12/21/2019,33,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,726,1530,False,12/22/2019,34,Asiana Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,1079,1192,True,12/22/2019,35,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,599,952,True,12/23/2019,36,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,599,952,True,12/24/2019,37,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,539,898,False,12/25/2019,38,EVA Air
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,595,952,True,12/25/2019,39,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,512,1414,False,12/26/2019,40,Xiamen Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,599,952,True,12/26/2019,41,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,813,954,False,12/27/2019,42,China Southern
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,853,1192,True,12/27/2019,43,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,535,937,False,12/28/2019,44,China Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,858,1192,True,12/28/2019,45,Hong Kong Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,454,937,False,12/29/2019,46,China Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,648,952,True,12/29/2019,47,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,426,937,False,12/30/2019,48,China Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,595,952,True,12/30/2019,49,Cathay Pacific
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,429,937,False,12/31/2019,50,China Airlines
+Los Angeles,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,65368,599,952,True,12/31/2019,51,Cathay Pacific
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,285,1192,False,12/1/2019,1,Hong Kong Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,416,929,False,12/2/2019,2,Air China
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,285,1192,False,12/3/2019,3,Hong Kong Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,384,929,False,12/4/2019,4,Air China
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,285,1192,False,12/5/2019,5,Hong Kong Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,421,181,False,12/6/2019,6,Sichuan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,372,1276,False,12/7/2019,7,Japan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,372,1276,False,12/8/2019,8,Japan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,426,181,False,12/9/2019,9,Sichuan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,375,1276,False,12/10/2019,10,Japan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,442,937,False,12/11/2019,11,China Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,534,833,False,12/12/2019,12,American Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,535,1276,False,12/13/2019,13,Japan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,554,1276,False,12/14/2019,14,Japan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,469,1276,False,12/15/2019,15,Japan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,472,1276,False,12/16/2019,16,Japan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,427,1276,False,12/17/2019,17,Japan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,503,1276,False,12/18/2019,18,Japan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,537,833,False,12/19/2019,19,American Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,537,833,False,12/20/2019,20,American Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,537,833,False,12/21/2019,21,American Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,457,833,False,12/22/2019,22,American Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,537,833,False,12/23/2019,23,American Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,561,857,False,12/24/2019,24,Finnair
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,543,898,False,12/25/2019,25,EVA Air
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,504,181,False,12/26/2019,26,Sichuan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,471,937,False,12/27/2019,27,China Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,471,937,False,12/28/2019,28,China Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,466,181,False,12/29/2019,29,Sichuan Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,442,937,False,12/30/2019,30,China Airlines
+Los Angeles,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,65368,446,937,False,12/31/2019,31,China Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,132,1710,True,12/1/2019,1,Brussels Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,243,1523,True,12/2/2019,2,Austrian Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,247,1717,False,12/3/2019,3,Aeroflot
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,412,857,True,12/3/2019,4,Finnair
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,132,1710,True,12/4/2019,5,Brussels Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,188,1218,True,12/5/2019,6,Iberia
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,180,1710,True,12/6/2019,7,Brussels Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,140,1530,False,12/7/2019,8,Asiana Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,187,1218,True,12/7/2019,9,Iberia
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,136,1218,True,12/8/2019,10,Iberia
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,132,1710,True,12/9/2019,11,Brussels Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,132,1710,True,12/10/2019,12,Brussels Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,132,1710,True,12/11/2019,13,Brussels Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,188,1218,True,12/12/2019,14,Iberia
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,319,1218,True,12/13/2019,15,Iberia
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,271,929,False,12/14/2019,16,Air China
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,366,1710,True,12/14/2019,17,Brussels Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,265,1218,True,12/15/2019,18,Iberia
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,334,1710,True,12/16/2019,19,Brussels Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,429,1001,False,12/17/2019,20,Norwegian
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,600,838,True,12/17/2019,21,Air France
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,498,1001,False,12/18/2019,22,Norwegian
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,805,1482,True,12/18/2019,23,Air New Zealand
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,540,1001,False,12/19/2019,24,Norwegian
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,833,1859,True,12/19/2019,25,Virgin Atlantic
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,603,1033,False,12/20/2019,26,Aer Lingus
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,798,857,True,12/20/2019,27,Finnair
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,604,1001,False,12/21/2019,28,Norwegian
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,932,1482,True,12/21/2019,29,Air New Zealand
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,471,1033,False,12/22/2019,30,Aer Lingus
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,810,881,True,12/22/2019,31,British Airways
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,400,1713,False,12/23/2019,32,Singapore Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,768,1482,True,12/23/2019,33,Air New Zealand
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,356,1001,False,12/24/2019,34,Norwegian
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,415,857,True,12/24/2019,35,Finnair
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,250,1324,False,12/25/2019,36,KLM
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,343,1713,True,12/25/2019,37,Singapore Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,247,1218,False,12/26/2019,38,Iberia
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,415,857,True,12/26/2019,39,Finnair
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,188,1218,True,12/27/2019,40,Iberia
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,141,954,False,12/28/2019,41,China Southern
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,343,1713,True,12/28/2019,42,Singapore Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,147,1384,False,12/29/2019,43,SWISS
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,245,1713,True,12/29/2019,44,Singapore Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,148,1384,False,12/30/2019,45,SWISS
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,277,1713,True,12/30/2019,46,Singapore Airlines
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,148,1384,False,12/31/2019,47,SWISS
+Los Angeles,65698,London,London Heathrow,LHR,United Kingdom,65368,343,1713,True,12/31/2019,48,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,343,1317,False,12/1/2019,1,Korean Air
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,731,1713,True,12/1/2019,2,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,332,929,False,12/2/2019,3,Air China
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,957,1713,True,12/2/2019,4,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,325,1317,False,12/4/2019,5,Korean Air
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,661,1713,True,12/4/2019,6,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,491,1317,False,12/5/2019,7,Korean Air
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1102,1713,True,12/5/2019,8,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,363,1793,False,12/6/2019,9,United
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,926,1713,True,12/6/2019,10,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,358,1793,False,12/7/2019,11,United
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,957,1713,True,12/7/2019,12,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,349,1793,False,12/9/2019,13,United
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1260,1713,True,12/9/2019,14,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,426,937,False,12/11/2019,15,China Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,921,1713,True,12/11/2019,16,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,591,1713,False,12/12/2019,17,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1302,1713,True,12/12/2019,18,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,646,1713,False,12/13/2019,19,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1352,1713,True,12/13/2019,20,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,706,937,False,12/14/2019,21,China Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1352,1713,True,12/14/2019,22,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,648,1793,False,12/15/2019,23,United
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1484,1713,True,12/15/2019,24,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,596,1713,False,12/16/2019,25,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1302,1713,True,12/16/2019,26,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,619,1276,False,12/17/2019,27,Japan Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,677,937,False,12/18/2019,28,China Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1660,1713,True,12/18/2019,29,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,810,937,False,12/19/2019,30,China Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,2480,1713,True,12/19/2019,31,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,793,937,False,12/20/2019,32,China Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1360,1713,True,12/20/2019,33,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,714,1324,False,12/21/2019,34,KLM
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1360,1713,True,12/21/2019,35,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,763,1317,False,12/22/2019,36,Korean Air
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1351,1713,True,12/22/2019,37,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,672,937,False,12/23/2019,38,China Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1405,1713,True,12/23/2019,39,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,507,1276,False,12/24/2019,40,Japan Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1303,1713,True,12/24/2019,41,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,556,1414,False,12/25/2019,42,Xiamen Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1268,1713,True,12/25/2019,43,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,488,1317,False,12/26/2019,44,Korean Air
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1260,1713,True,12/26/2019,45,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,497,937,False,12/27/2019,46,China Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,2471,1713,True,12/27/2019,47,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,480,1324,False,12/28/2019,48,KLM
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,2487,1713,True,12/28/2019,49,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,497,937,False,12/29/2019,50,China Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1409,1713,True,12/29/2019,51,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,421,1317,False,12/30/2019,52,Korean Air
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,1268,1713,True,12/30/2019,53,Singapore Airlines
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,327,1317,False,12/31/2019,54,Korean Air
+Los Angeles,81870,Singapore,Singapore Changi,SIN,Singapore,65368,993,1713,True,12/31/2019,55,Singapore Airlines
+Los Angeles,67901,Macau,Macau,MFM,Macau,65368,486,1414,False,12/26/2019,1,Xiamen Airlines
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,476,1717,False,12/1/2019,1,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,961,1035,True,12/1/2019,2,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,403,1001,False,12/2/2019,3,Norwegian
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,961,1035,True,12/2/2019,4,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,473,1717,False,12/3/2019,5,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,955,1035,True,12/3/2019,6,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1092,952,False,12/4/2019,7,Cathay Pacific
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,872,929,False,12/5/2019,8,Air China
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1076,952,False,12/6/2019,9,Cathay Pacific
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,476,1717,False,12/7/2019,10,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,961,1035,True,12/7/2019,11,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,473,1717,False,12/10/2019,12,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,967,1035,True,12/10/2019,13,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,429,1001,False,12/11/2019,14,Norwegian
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1004,1035,True,12/11/2019,15,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,892,929,False,12/12/2019,16,Air China
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,473,1717,False,12/13/2019,17,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1211,1035,True,12/13/2019,18,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,464,1001,False,12/15/2019,19,Norwegian
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1210,1035,True,12/15/2019,20,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,473,1717,False,12/16/2019,21,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1118,1035,True,12/16/2019,22,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,608,1717,False,12/17/2019,23,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1318,1035,True,12/17/2019,24,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,573,1717,False,12/18/2019,25,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1118,1035,True,12/18/2019,26,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,573,1717,False,12/19/2019,27,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1211,1035,True,12/19/2019,28,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,669,1717,False,12/20/2019,29,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1383,1035,True,12/20/2019,30,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,674,1717,False,12/21/2019,31,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1393,1035,True,12/21/2019,32,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1176,952,False,12/22/2019,33,Cathay Pacific
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,891,929,False,12/23/2019,34,Air China
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,4875,1035,True,12/23/2019,35,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1081,952,False,12/24/2019,36,Cathay Pacific
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,619,1717,False,12/25/2019,37,Aeroflot
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1082,1035,True,12/25/2019,38,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,614,1001,False,12/26/2019,39,Norwegian
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1168,870,True,12/26/2019,40,jetBlue
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,588,1001,False,12/27/2019,41,Norwegian
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1168,870,True,12/27/2019,42,jetBlue
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,554,1001,False,12/28/2019,43,Norwegian
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1177,870,True,12/28/2019,44,jetBlue
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,586,1001,False,12/29/2019,45,Norwegian
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,1058,1035,True,12/29/2019,46,Emirates
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,842,952,False,12/30/2019,47,Cathay Pacific
+Los Angeles,48018,Dubai,Dubai,DXB,United Arab Emirates,65368,840,952,False,12/31/2019,48,Cathay Pacific
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,169,1001,True,12/1/2019,1,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,169,1001,True,12/2/2019,2,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,170,1001,True,12/3/2019,3,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,167,1001,True,12/4/2019,4,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,169,1001,True,12/5/2019,5,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,200,1001,True,12/6/2019,6,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,167,1001,True,12/7/2019,7,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,169,1001,True,12/8/2019,8,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,167,1001,True,12/9/2019,9,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,167,1001,True,12/10/2019,10,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,190,1001,True,12/11/2019,11,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,214,1001,True,12/12/2019,12,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,247,1001,True,12/13/2019,13,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,283,1001,True,12/14/2019,14,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,279,1001,True,12/15/2019,15,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,279,1001,True,12/16/2019,16,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,312,1001,True,12/17/2019,17,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,379,1001,True,12/18/2019,18,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,416,1001,True,12/19/2019,19,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,453,1758,True,12/20/2019,20,Air Tahiti Nui
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,457,1001,True,12/21/2019,21,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,412,1001,True,12/22/2019,22,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,379,1001,True,12/23/2019,23,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,245,1001,True,12/24/2019,24,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,279,1001,True,12/25/2019,25,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,281,1001,True,12/26/2019,26,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,247,1001,True,12/27/2019,27,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,245,1001,True,12/28/2019,28,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,249,1001,True,12/29/2019,29,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,247,1001,True,12/30/2019,30,Norwegian
+Los Angeles,44759,Paris,Paris Charles de Gaulle,CDG,France,65368,245,1001,True,12/31/2019,31,Norwegian
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,422,870,False,12/1/2019,1,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,475,851,True,12/1/2019,2,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,237,870,True,12/2/2019,3,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,137,988,True,12/3/2019,4,Delta
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,135,851,True,12/4/2019,5,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,134,851,True,12/5/2019,6,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,135,851,True,12/6/2019,7,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,134,851,True,12/7/2019,8,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,137,833,True,12/8/2019,9,American Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,135,851,True,12/9/2019,10,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,135,851,True,12/10/2019,11,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,135,851,True,12/11/2019,12,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,135,851,True,12/12/2019,13,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,135,851,True,12/13/2019,14,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,137,833,True,12/14/2019,15,American Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,137,833,True,12/15/2019,16,American Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,134,851,True,12/16/2019,17,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,137,870,True,12/17/2019,18,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,137,988,True,12/18/2019,19,Delta
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,177,870,True,12/19/2019,20,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,254,870,True,12/20/2019,21,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,354,870,True,12/21/2019,22,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,227,851,True,12/22/2019,23,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,176,870,True,12/23/2019,24,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,136,870,True,12/24/2019,25,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,137,870,True,12/25/2019,26,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,167,870,True,12/26/2019,27,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,165,870,True,12/27/2019,28,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,233,870,True,12/28/2019,29,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,235,870,True,12/29/2019,30,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,224,851,False,12/30/2019,31,Alaska Airlines
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,231,870,True,12/30/2019,32,jetBlue
+Los Angeles,60987,New York,New York John F. Kennedy,JFK,United States,65368,219,870,True,12/31/2019,33,jetBlue
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,438,929,False,12/1/2019,1,Air China
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,486,1414,False,12/2/2019,2,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,439,929,False,12/3/2019,3,Air China
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,439,929,False,12/5/2019,4,Air China
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,454,1414,False,12/6/2019,5,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,525,1414,False,12/8/2019,6,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,490,1414,False,12/9/2019,7,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,500,937,False,12/10/2019,8,China Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,453,937,False,12/11/2019,9,China Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,782,1414,False,12/12/2019,10,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,741,937,False,12/14/2019,11,China Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,1047,1414,False,12/15/2019,12,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,678,1276,False,12/16/2019,13,Japan Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,941,1414,False,12/17/2019,14,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,986,1414,False,12/18/2019,15,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,864,929,False,12/19/2019,16,Air China
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,793,1276,False,12/20/2019,17,Japan Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,794,1276,False,12/21/2019,18,Japan Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,767,1276,False,12/22/2019,19,Japan Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,684,937,False,12/23/2019,20,China Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,846,1414,False,12/24/2019,21,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,558,898,False,12/25/2019,22,EVA Air
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,585,1189,False,12/26/2019,23,Hainan Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,586,1414,False,12/27/2019,24,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,586,1414,False,12/29/2019,25,Xiamen Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,429,937,False,12/30/2019,26,China Airlines
+Los Angeles,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,65368,587,1414,False,12/31/2019,27,Xiamen Airlines
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,240,1001,False,12/1/2019,1,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,998,858,True,12/1/2019,2,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,224,1001,False,12/3/2019,3,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,234,1001,False,12/4/2019,4,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,953,858,True,12/4/2019,5,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,234,1001,False,12/5/2019,6,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,819,1755,False,12/6/2019,7,Turkish Airlines
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,3441,858,True,12/6/2019,8,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,254,1001,False,12/7/2019,9,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,234,1001,False,12/8/2019,10,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,770,858,True,12/8/2019,11,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,240,1001,False,12/9/2019,12,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,234,1001,False,12/10/2019,13,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,270,1001,False,12/11/2019,14,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,669,858,True,12/11/2019,15,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,281,1001,False,12/12/2019,16,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,351,1001,False,12/13/2019,17,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,609,858,True,12/13/2019,18,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,367,1001,False,12/14/2019,19,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,344,1001,False,12/15/2019,20,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,609,858,True,12/15/2019,21,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,351,1001,False,12/16/2019,22,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,376,1001,False,12/17/2019,23,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,419,1717,False,12/18/2019,24,Aeroflot
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,1605,858,True,12/18/2019,25,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,455,1717,False,12/19/2019,26,Aeroflot
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,488,1717,False,12/20/2019,27,Aeroflot
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,1141,858,True,12/20/2019,28,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,533,1717,False,12/21/2019,29,Aeroflot
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,454,1717,False,12/22/2019,30,Aeroflot
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,991,858,True,12/22/2019,31,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,417,1717,False,12/23/2019,32,Aeroflot
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,335,1001,False,12/24/2019,33,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,341,1001,False,12/25/2019,34,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,792,858,True,12/25/2019,35,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,367,1001,False,12/26/2019,36,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,312,1001,False,12/27/2019,37,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,669,858,True,12/27/2019,38,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,290,1001,False,12/28/2019,39,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,299,1001,False,12/29/2019,40,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,669,858,True,12/29/2019,41,Alitalia
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,281,1001,False,12/30/2019,42,Norwegian
+Los Angeles,51631,Rome,Rome Fiumicino,FCO,Italy,65368,290,1001,False,12/31/2019,43,Norwegian
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,407,1192,False,12/1/2019,1,Hong Kong Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,462,1276,True,12/1/2019,2,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,405,1276,False,12/2/2019,3,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,406,1276,True,12/2/2019,4,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,339,1192,False,12/3/2019,5,Hong Kong Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,406,1276,True,12/3/2019,6,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,402,851,False,12/4/2019,7,Alaska Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,424,1713,True,12/4/2019,8,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,339,1192,False,12/5/2019,9,Hong Kong Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,406,1276,True,12/5/2019,10,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,443,851,False,12/6/2019,11,Alaska Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,448,1276,True,12/6/2019,12,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,446,1001,False,12/7/2019,13,Norwegian
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,474,1713,True,12/7/2019,14,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,438,1001,False,12/8/2019,15,Norwegian
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,477,1713,True,12/8/2019,16,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,424,1713,True,12/9/2019,17,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,447,1001,False,12/10/2019,18,Norwegian
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,472,1713,True,12/10/2019,19,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,469,1713,True,12/11/2019,20,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,535,1713,True,12/12/2019,21,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,579,1276,False,12/13/2019,22,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,584,1713,True,12/13/2019,23,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,708,1530,False,12/14/2019,24,Asiana Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,734,1713,True,12/14/2019,25,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,713,1530,False,12/15/2019,26,Asiana Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,714,1713,True,12/15/2019,27,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,564,1713,True,12/16/2019,28,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,560,1713,True,12/17/2019,29,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,684,1713,True,12/18/2019,30,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,718,857,False,12/19/2019,31,Finnair
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,809,1276,True,12/19/2019,32,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,732,1530,False,12/20/2019,33,Asiana Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,1022,1276,True,12/20/2019,34,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,713,1530,False,12/21/2019,35,Asiana Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,974,1276,True,12/21/2019,36,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,695,1276,False,12/22/2019,37,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,974,1276,True,12/22/2019,38,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,676,1276,True,12/23/2019,39,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,436,988,False,12/24/2019,40,Delta
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,559,1713,True,12/24/2019,41,Singapore Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,422,1317,False,12/25/2019,42,Korean Air
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,468,1276,True,12/25/2019,43,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,408,1317,False,12/26/2019,44,Korean Air
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,468,1276,True,12/26/2019,45,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,462,1276,True,12/27/2019,46,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,462,1276,True,12/28/2019,47,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,417,1276,False,12/29/2019,48,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,462,1276,True,12/29/2019,49,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,408,1317,False,12/30/2019,50,Korean Air
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,467,1276,True,12/30/2019,51,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,408,1276,False,12/31/2019,52,Japan Airlines
+Los Angeles,70788,Tokyo,Tokyo Narita,NRT,Japan,65368,468,1276,True,12/31/2019,53,Japan Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,423,1192,False,12/1/2019,1,Hong Kong Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,593,937,True,12/1/2019,2,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,389,929,False,12/2/2019,3,Air China
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,430,937,True,12/2/2019,4,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,292,1192,False,12/3/2019,5,Hong Kong Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,430,937,True,12/3/2019,6,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,387,929,False,12/4/2019,7,Air China
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,427,937,True,12/4/2019,8,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,290,1192,False,12/5/2019,9,Hong Kong Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,427,937,True,12/5/2019,10,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,455,937,True,12/6/2019,11,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,482,1192,False,12/7/2019,12,Hong Kong Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,592,937,True,12/7/2019,13,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,481,1192,False,12/8/2019,14,Hong Kong Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,594,937,True,12/8/2019,15,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,427,937,True,12/9/2019,16,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,427,937,True,12/10/2019,17,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,551,835,False,12/12/2019,18,Air Canada
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,671,937,True,12/12/2019,19,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,546,835,False,12/13/2019,20,Air Canada
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,705,937,True,12/13/2019,21,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,600,1793,False,12/14/2019,22,United
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,705,937,True,12/14/2019,23,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,652,1530,False,12/15/2019,24,Asiana Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,705,937,True,12/15/2019,25,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,648,1530,False,12/16/2019,26,Asiana Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,667,937,True,12/16/2019,27,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,513,1276,False,12/17/2019,28,Japan Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,667,937,True,12/17/2019,29,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,714,937,True,12/18/2019,30,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,769,1192,False,12/19/2019,31,Hong Kong Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,804,937,True,12/19/2019,32,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,708,1530,False,12/20/2019,33,Asiana Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,782,937,True,12/20/2019,34,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,638,1530,False,12/21/2019,35,Asiana Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,756,898,True,12/21/2019,36,EVA Air
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,786,1530,False,12/22/2019,37,Asiana Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,826,898,True,12/22/2019,38,EVA Air
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,553,1793,False,12/23/2019,39,United
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,667,937,True,12/23/2019,40,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,513,1276,False,12/24/2019,41,Japan Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,667,937,True,12/24/2019,42,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,531,952,False,12/25/2019,43,Cathay Pacific
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,563,898,True,12/25/2019,44,EVA Air
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,504,1414,False,12/26/2019,45,Xiamen Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,563,898,True,12/26/2019,46,EVA Air
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,433,835,False,12/27/2019,47,Air Canada
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,455,937,True,12/27/2019,48,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,433,835,False,12/28/2019,49,Air Canada
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,455,937,True,12/28/2019,50,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,402,835,False,12/29/2019,51,Air Canada
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,458,937,True,12/29/2019,52,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,402,835,False,12/30/2019,53,Air Canada
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,430,937,True,12/30/2019,54,China Airlines
+Los Angeles,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,65368,430,937,True,12/31/2019,55,China Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,364,1001,False,12/1/2019,1,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,998,1755,True,12/1/2019,2,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,323,1001,False,12/3/2019,3,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,997,1755,True,12/3/2019,4,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,300,1001,False,12/4/2019,5,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1106,1755,True,12/4/2019,6,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,300,1001,False,12/6/2019,7,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1145,1755,True,12/6/2019,8,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,2778,1368,False,12/10/2019,9,Lufthansa
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,469,1001,False,12/14/2019,10,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1126,1755,True,12/14/2019,11,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,398,1717,False,12/16/2019,12,Aeroflot
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1105,1755,True,12/16/2019,13,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,430,1717,False,12/17/2019,14,Aeroflot
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1082,1755,True,12/17/2019,15,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,504,1717,False,12/19/2019,16,Aeroflot
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1117,1755,True,12/19/2019,17,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,604,1717,False,12/20/2019,18,Aeroflot
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1145,1755,True,12/20/2019,19,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,604,1717,False,12/21/2019,20,Aeroflot
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1332,1755,True,12/21/2019,21,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1081,981,False,12/22/2019,22,Condor
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1177,1755,True,12/22/2019,23,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,481,1001,False,12/23/2019,24,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1106,1755,True,12/23/2019,25,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,411,1001,False,12/24/2019,26,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1113,1755,True,12/24/2019,27,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,410,1001,False,12/25/2019,28,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1106,1755,True,12/25/2019,29,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,418,1001,False,12/27/2019,30,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1126,1755,True,12/27/2019,31,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,792,1618,False,12/30/2019,32,Qatar Airways
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1180,1755,True,12/30/2019,33,Turkish Airlines
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,395,1001,False,12/31/2019,34,Norwegian
+Los Angeles,59316,Istanbul,Istanbul,IST,Turkey,65368,1045,1755,True,12/31/2019,35,Turkish Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,383,929,False,12/1/2019,1,Air China
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,639,1530,True,12/1/2019,2,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,383,929,False,12/2/2019,3,Air China
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,639,1530,True,12/2/2019,4,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,438,1192,False,12/3/2019,5,Hong Kong Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,772,1530,True,12/3/2019,6,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,383,929,False,12/4/2019,7,Air China
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,639,1530,True,12/4/2019,8,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,416,1192,False,12/5/2019,9,Hong Kong Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,462,1414,False,12/6/2019,10,Xiamen Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,643,1530,True,12/6/2019,11,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,421,1192,False,12/7/2019,12,Hong Kong Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,746,1317,True,12/7/2019,13,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,404,181,False,12/8/2019,14,Sichuan Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,765,1317,True,12/8/2019,15,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,491,937,False,12/9/2019,16,China Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,746,1317,True,12/9/2019,17,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,562,1414,False,12/10/2019,18,Xiamen Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,766,1317,True,12/10/2019,19,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,494,937,False,12/11/2019,20,China Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,751,1317,True,12/11/2019,21,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,539,1717,False,12/12/2019,22,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,747,1317,True,12/12/2019,23,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,539,1717,False,12/13/2019,24,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,765,1317,True,12/13/2019,25,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,704,1717,False,12/14/2019,26,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1021,1317,True,12/14/2019,27,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,704,1717,False,12/15/2019,28,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1029,1530,True,12/15/2019,29,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,539,1717,False,12/16/2019,30,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1028,1530,True,12/16/2019,31,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,590,1717,False,12/17/2019,32,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1015,1317,True,12/17/2019,33,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,707,1717,False,12/18/2019,34,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1035,1530,True,12/18/2019,35,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,703,1717,False,12/19/2019,36,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1021,1317,True,12/19/2019,37,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,850,937,False,12/20/2019,38,China Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1015,1317,True,12/20/2019,39,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,863,929,False,12/21/2019,40,Air China
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1035,1530,True,12/21/2019,41,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,753,954,False,12/22/2019,42,China Southern
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1015,1317,True,12/22/2019,43,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,704,1717,False,12/23/2019,44,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1021,1317,True,12/23/2019,45,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,708,1717,False,12/24/2019,46,Aeroflot
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,1035,1530,True,12/24/2019,47,Asiana Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,612,1429,False,12/25/2019,48,China Eastern
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,765,1317,True,12/25/2019,49,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,452,181,False,12/26/2019,50,Sichuan Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,762,1317,True,12/26/2019,51,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,522,937,False,12/27/2019,52,China Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,765,1317,True,12/27/2019,53,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,615,937,False,12/28/2019,54,China Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,840,988,True,12/28/2019,55,Delta
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,449,181,False,12/29/2019,56,Sichuan Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,760,1317,True,12/29/2019,57,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,518,937,False,12/30/2019,58,China Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,746,1317,True,12/30/2019,59,Korean Air
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,484,181,False,12/31/2019,60,Sichuan Airlines
+Los Angeles,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,65368,751,1317,True,12/31/2019,61,Korean Air
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,413,1192,False,12/1/2019,1,Hong Kong Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,518,1429,True,12/1/2019,2,China Eastern
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,394,1189,False,12/2/2019,3,Hainan Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,479,1793,True,12/2/2019,4,United
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,395,1192,False,12/3/2019,5,Hong Kong Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,479,1793,True,12/3/2019,6,United
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,354,1192,False,12/5/2019,7,Hong Kong Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,471,929,True,12/5/2019,8,Air China
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,451,851,False,12/6/2019,9,Alaska Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,529,988,True,12/6/2019,10,Delta
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,396,1192,False,12/8/2019,11,Hong Kong Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,512,1429,True,12/8/2019,12,China Eastern
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,360,1189,False,12/9/2019,13,Hainan Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,475,988,True,12/9/2019,14,Delta
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,533,1192,False,12/10/2019,15,Hong Kong Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,613,1793,True,12/10/2019,16,United
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,610,1793,True,12/11/2019,17,United
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,495,1717,False,12/12/2019,18,Aeroflot
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,608,929,True,12/12/2019,19,Air China
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,721,1907,False,12/14/2019,20,WestJet
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,833,833,True,12/14/2019,21,American Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,608,1793,True,12/16/2019,22,United
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,594,1482,False,12/18/2019,23,Air New Zealand
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,608,1793,True,12/18/2019,24,United
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,618,1793,False,12/19/2019,25,United
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,793,929,True,12/19/2019,26,Air China
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,714,929,True,12/20/2019,27,Air China
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,796,1530,False,12/21/2019,28,Asiana Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,823,929,True,12/21/2019,29,Air China
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,619,854,False,12/22/2019,30,Avianca (Scheduled)
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,648,929,True,12/22/2019,31,Air China
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,579,1907,False,12/23/2019,32,WestJet
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,610,1793,True,12/23/2019,33,United
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,586,929,False,12/24/2019,34,Air China
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,605,929,True,12/24/2019,35,Air China
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,554,898,False,12/25/2019,36,EVA Air
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,567,1429,True,12/25/2019,37,China Eastern
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,356,1189,False,12/26/2019,38,Hainan Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,570,1429,True,12/26/2019,39,China Eastern
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,450,1384,False,12/27/2019,40,SWISS
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,449,1384,False,12/28/2019,41,SWISS
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,597,988,True,12/28/2019,42,Delta
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,519,1192,False,12/29/2019,43,Hong Kong Airlines
+Los Angeles,75575,Shanghai,Shanghai Pu Dong,PVG,China,65368,603,1429,True,12/29/2019,44,China Eastern
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,79,1721,True,12/1/2019,1,Sun Country Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,79,851,True,12/2/2019,2,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,41,851,True,12/3/2019,3,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,39,1721,True,12/4/2019,4,Sun Country Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,42,851,True,12/5/2019,5,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,47,988,True,12/6/2019,6,Delta
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,39,1065,True,12/7/2019,7,Frontier Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,39,1721,True,12/8/2019,8,Sun Country Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,43,833,True,12/9/2019,9,American Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,41,851,True,12/10/2019,10,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,39,1721,True,12/11/2019,11,Sun Country Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,47,988,True,12/12/2019,12,Delta
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,59,988,True,12/13/2019,13,Delta
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,39,1065,True,12/14/2019,14,Frontier Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,39,1721,True,12/15/2019,15,Sun Country Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,41,851,True,12/16/2019,16,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,42,851,True,12/17/2019,17,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,42,851,True,12/18/2019,18,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,47,988,True,12/19/2019,19,Delta
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,129,851,True,12/20/2019,20,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,109,851,True,12/21/2019,21,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,80,851,True,12/22/2019,22,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,69,988,True,12/23/2019,23,Delta
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,56,851,True,12/24/2019,24,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,56,851,True,12/25/2019,25,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,80,851,True,12/26/2019,26,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,79,851,True,12/27/2019,27,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,79,851,True,12/28/2019,28,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,80,851,True,12/29/2019,29,Alaska Airlines
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,74,988,True,12/30/2019,30,Delta
+Los Angeles,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,65368,42,851,True,12/31/2019,31,Alaska Airlines
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,239,1001,False,12/1/2019,1,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,524,981,False,12/3/2019,2,Condor
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,252,1001,False,12/4/2019,3,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,252,1001,False,12/6/2019,4,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,254,1001,False,12/7/2019,5,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,580,981,False,12/8/2019,6,Condor
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,384,1760,False,12/11/2019,7,TAP
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,278,1001,False,12/12/2019,8,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,316,851,False,12/13/2019,9,Alaska Airlines
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,357,1001,False,12/14/2019,10,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,469,1001,False,12/18/2019,11,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,516,1717,False,12/19/2019,12,Aeroflot
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,552,1707,False,12/20/2019,13,SAS
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,571,1001,False,12/21/2019,14,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,522,1001,False,12/22/2019,15,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,432,1001,False,12/23/2019,16,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,324,1001,False,12/24/2019,17,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,330,1001,False,12/25/2019,18,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,328,1001,False,12/26/2019,19,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,327,1001,False,12/27/2019,20,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,299,1001,False,12/28/2019,21,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,315,1001,False,12/29/2019,22,Norwegian
+Los Angeles,68768,Milan,Milan Malpensa,MXP,Italy,65368,311,1001,False,12/30/2019,23,Norwegian
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,384,1192,False,12/1/2019,1,Hong Kong Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,512,1276,True,12/1/2019,2,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,433,1317,False,12/3/2019,3,Korean Air
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,485,1276,True,12/3/2019,4,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,494,937,False,12/11/2019,5,China Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,599,1276,True,12/11/2019,6,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,566,1317,False,12/12/2019,7,Korean Air
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,810,1276,True,12/12/2019,8,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,640,1169,False,12/14/2019,9,Hawaiian Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,1014,1276,True,12/14/2019,10,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,574,1169,False,12/15/2019,11,Hawaiian Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,1051,1276,True,12/15/2019,12,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,605,1169,False,12/17/2019,13,Hawaiian Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,891,1276,True,12/17/2019,14,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,591,1169,False,12/18/2019,15,Hawaiian Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,859,1276,True,12/18/2019,16,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,890,1464,False,12/19/2019,17,ANA
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,824,1530,False,12/20/2019,18,Asiana Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,2094,1276,True,12/20/2019,19,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,788,1530,False,12/21/2019,20,Asiana Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,1434,1276,True,12/21/2019,21,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,655,1907,False,12/23/2019,22,WestJet
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,793,1276,True,12/23/2019,23,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,455,988,False,12/24/2019,24,Delta
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,794,1276,True,12/24/2019,25,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,408,1317,False,12/25/2019,26,Korean Air
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,460,1276,True,12/25/2019,27,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,410,1317,False,12/26/2019,28,Korean Air
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,453,1276,True,12/26/2019,29,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,497,1192,False,12/27/2019,30,Hong Kong Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,654,1276,True,12/27/2019,31,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,496,1317,False,12/28/2019,32,Korean Air
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,550,1276,True,12/28/2019,33,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,423,1317,False,12/30/2019,34,Korean Air
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,455,1276,True,12/30/2019,35,Japan Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,391,1192,False,12/31/2019,36,Hong Kong Airlines
+Los Angeles,63448,Osaka,Osaka Kansai International,KIX,Japan,65368,453,1276,True,12/31/2019,37,Japan Airlines
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,259,1001,False,12/1/2019,1,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,255,1001,False,12/3/2019,2,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,259,1001,False,12/8/2019,3,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,290,1001,False,12/12/2019,4,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,331,851,False,12/13/2019,5,Alaska Airlines
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,568,981,False,12/15/2019,6,Condor
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,355,1001,False,12/16/2019,7,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,460,1001,False,12/18/2019,8,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,684,1755,False,12/19/2019,9,Turkish Airlines
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,1821,1755,False,12/20/2019,10,Turkish Airlines
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,600,1001,False,12/21/2019,11,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,494,1001,False,12/22/2019,12,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,442,1001,False,12/23/2019,13,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,314,1001,False,12/24/2019,14,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,321,1001,False,12/25/2019,15,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,348,1001,False,12/26/2019,16,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,340,1001,False,12/27/2019,17,Norwegian
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,635,981,False,12/29/2019,18,Condor
+Los Angeles,84892,Berlin,Berlin Tegel,TXL,Germany,65368,520,981,False,12/31/2019,19,Condor
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,1013,1618,False,12/1/2019,1,Qatar Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,894,1618,False,12/2/2019,2,Qatar Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,812,1049,False,12/3/2019,3,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,822,1049,False,12/4/2019,4,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,1013,1618,False,12/6/2019,5,Qatar Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,664,1218,False,12/7/2019,6,Iberia
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,822,1049,False,12/8/2019,7,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,894,1618,False,12/9/2019,8,Qatar Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,717,1044,False,12/11/2019,9,Ethiopian Airlines
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,966,1049,False,12/12/2019,10,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,1046,1049,False,12/13/2019,11,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,1034,1049,False,12/14/2019,12,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,965,1049,False,12/15/2019,13,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,970,1049,False,12/16/2019,14,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,966,1049,False,12/19/2019,15,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,1028,870,False,12/20/2019,16,jetBlue
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,1631,1618,False,12/21/2019,17,Qatar Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,1106,1049,False,12/22/2019,18,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,964,1049,False,12/23/2019,19,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,794,1049,False,12/24/2019,20,Etihad Airways
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,835,952,False,12/27/2019,21,Cathay Pacific
+Los Angeles,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,65368,799,1049,False,12/31/2019,22,Etihad Airways
+Los Angeles,88485,Venice,Venice Marco Polo,VCE,Italy,65368,238,1001,False,12/7/2019,1,Norwegian
+Los Angeles,88485,Venice,Venice Marco Polo,VCE,Italy,65368,351,1001,False,12/13/2019,2,Norwegian
+Los Angeles,88485,Venice,Venice Marco Polo,VCE,Italy,65368,769,981,False,12/19/2019,3,Condor
+Los Angeles,88485,Venice,Venice Marco Polo,VCE,Italy,65368,312,1001,False,12/24/2019,4,Norwegian
+Los Angeles,88485,Venice,Venice Marco Polo,VCE,Italy,65368,314,1001,False,12/25/2019,5,Norwegian
+Los Angeles,88485,Venice,Venice Marco Polo,VCE,Italy,65368,323,1001,False,12/26/2019,6,Norwegian
+Los Angeles,88485,Venice,Venice Marco Polo,VCE,Italy,65368,299,1001,False,12/28/2019,7,Norwegian
+Los Angeles,88485,Venice,Venice Marco Polo,VCE,Italy,65368,339,1001,False,12/29/2019,8,Norwegian
+Los Angeles,88485,Venice,Venice Marco Polo,VCE,Italy,65368,750,838,False,12/30/2019,9,Air France
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,294,833,True,12/1/2019,1,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,179,833,False,12/2/2019,2,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,229,988,True,12/2/2019,3,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,143,833,True,12/3/2019,4,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,114,1467,False,12/4/2019,5,Spirit Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,139,988,True,12/4/2019,6,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,143,833,True,12/5/2019,7,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,102,833,False,12/6/2019,8,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,144,833,True,12/6/2019,9,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,101,833,False,12/7/2019,10,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,139,988,True,12/7/2019,11,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,147,988,False,12/8/2019,12,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,164,988,True,12/8/2019,13,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,102,833,False,12/9/2019,14,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,114,833,True,12/9/2019,15,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,94,833,True,12/10/2019,16,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,102,833,False,12/11/2019,17,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,113,833,True,12/11/2019,18,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,144,833,True,12/12/2019,19,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,147,988,False,12/13/2019,20,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,171,1793,True,12/13/2019,21,United
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,137,1065,False,12/14/2019,22,Frontier Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,171,1793,True,12/14/2019,23,United
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,147,988,False,12/15/2019,24,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,171,1793,True,12/15/2019,25,United
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,122,833,False,12/16/2019,26,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,164,988,True,12/16/2019,27,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,142,1467,False,12/17/2019,28,Spirit Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,189,988,True,12/17/2019,29,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,167,851,False,12/18/2019,30,Alaska Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,264,988,True,12/18/2019,31,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,264,988,True,12/19/2019,32,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,349,988,True,12/20/2019,33,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,359,988,True,12/21/2019,34,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,294,833,True,12/22/2019,35,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,274,988,True,12/23/2019,36,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,179,1793,False,12/24/2019,37,United
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,222,988,True,12/24/2019,38,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,197,988,False,12/25/2019,39,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,222,988,True,12/25/2019,40,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,227,988,False,12/26/2019,41,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,252,988,True,12/26/2019,42,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,357,870,True,12/27/2019,43,jetBlue
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,219,988,True,12/28/2019,44,Delta
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,220,833,True,12/29/2019,45,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,143,833,True,12/30/2019,46,American Airlines
+Los Angeles,67759,Orlando,Orlando International,MCO,United States,65368,143,833,True,12/31/2019,47,American Airlines
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,304,1001,False,12/1/2019,1,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,317,1001,False,12/2/2019,2,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,295,1001,False,12/3/2019,3,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,310,1001,False,12/4/2019,4,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,305,1001,False,12/5/2019,5,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,295,1001,False,12/7/2019,6,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,321,1001,False,12/8/2019,7,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,324,1001,False,12/10/2019,8,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,720,1755,False,12/11/2019,9,Turkish Airlines
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,328,1001,False,12/12/2019,10,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,420,1001,False,12/13/2019,11,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,398,1001,False,12/14/2019,12,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,381,851,False,12/16/2019,13,Alaska Airlines
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,399,1001,False,12/17/2019,14,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,1563,1001,False,12/18/2019,15,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,646,1001,False,12/19/2019,16,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,668,1001,False,12/20/2019,17,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,636,1001,False,12/21/2019,18,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,603,1001,False,12/22/2019,19,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,492,1001,False,12/23/2019,20,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,393,1001,False,12/24/2019,21,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,724,1755,False,12/25/2019,22,Turkish Airlines
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,407,1001,False,12/26/2019,23,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,338,1001,False,12/28/2019,24,Norwegian
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,724,1755,False,12/29/2019,25,Turkish Airlines
+Los Angeles,88879,Moscow,Moscow Vnukovo,VKO,Russia,65368,352,1001,False,12/30/2019,26,Norwegian
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,191,1907,True,12/1/2019,1,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,194,1907,True,12/2/2019,2,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,150,988,False,12/3/2019,3,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,193,1907,True,12/3/2019,4,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,144,833,False,12/4/2019,5,American Airlines
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,191,1907,True,12/4/2019,6,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,156,833,False,12/5/2019,7,American Airlines
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,281,988,True,12/5/2019,8,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,156,988,False,12/6/2019,9,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,192,1907,True,12/6/2019,10,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,156,833,False,12/7/2019,11,American Airlines
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,192,1907,True,12/7/2019,12,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,156,988,False,12/8/2019,13,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,193,1907,True,12/8/2019,14,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,162,988,False,12/9/2019,15,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,193,1907,True,12/9/2019,16,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,144,833,False,12/10/2019,17,American Airlines
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,192,1907,True,12/10/2019,18,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,150,988,False,12/11/2019,19,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,194,1907,True,12/11/2019,20,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,162,988,False,12/12/2019,21,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,190,1907,True,12/12/2019,22,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,155,1606,False,12/13/2019,23,Qantas
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,191,1907,True,12/13/2019,24,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,184,1907,True,12/14/2019,25,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,227,988,False,12/15/2019,26,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,276,988,True,12/15/2019,27,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,159,1658,False,12/16/2019,28,Royal Jordanian
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,251,1907,True,12/16/2019,29,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,145,988,False,12/17/2019,30,Delta
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,221,1907,True,12/17/2019,31,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,150,833,False,12/18/2019,32,American Airlines
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,250,1907,True,12/18/2019,33,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,253,1793,False,12/19/2019,34,United
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,357,1907,True,12/19/2019,35,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,283,1907,True,12/20/2019,36,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,331,1907,False,12/21/2019,37,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,354,1907,True,12/21/2019,38,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,309,1907,True,12/22/2019,39,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,251,1793,False,12/23/2019,40,United
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,280,1907,True,12/23/2019,41,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,181,833,False,12/24/2019,42,American Airlines
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,220,1907,True,12/24/2019,43,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,143,1416,False,12/25/2019,44,Malaysia Airlines
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,220,1907,True,12/25/2019,45,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,251,1793,False,12/26/2019,46,United
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,318,1907,True,12/26/2019,47,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,155,1606,False,12/27/2019,48,Qantas
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,253,1907,True,12/27/2019,49,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,268,1793,False,12/28/2019,50,United
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,310,1907,True,12/28/2019,51,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,154,1658,False,12/29/2019,52,Royal Jordanian
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,341,1907,True,12/29/2019,53,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,222,1416,False,12/30/2019,54,Malaysia Airlines
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,341,1907,True,12/30/2019,55,WestJet
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,236,1793,False,12/31/2019,56,United
+Los Angeles,96474,Toronto,Toronto Pearson International,YYZ,Canada,65368,352,1793,True,12/31/2019,57,United
+Los Angeles,56138,Hannover,Hannover,HAJ,Germany,65368,643,1755,False,12/2/2019,1,Turkish Airlines
+Los Angeles,56138,Hannover,Hannover,HAJ,Germany,65368,683,1755,False,12/7/2019,2,Turkish Airlines
+Los Angeles,56138,Hannover,Hannover,HAJ,Germany,65368,492,1713,False,12/26/2019,3,Singapore Airlines
+Los Angeles,56138,Hannover,Hannover,HAJ,Germany,65368,333,1001,False,12/31/2019,4,Norwegian
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,407,1169,False,12/1/2019,1,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,506,1841,True,12/1/2019,2,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,395,1169,False,12/2/2019,3,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,452,1841,True,12/2/2019,4,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,464,1169,False,12/3/2019,5,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,502,1368,True,12/3/2019,6,Lufthansa
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,425,1169,False,12/4/2019,7,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,502,1368,True,12/4/2019,8,Lufthansa
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,429,1169,False,12/5/2019,9,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,501,1841,True,12/5/2019,10,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,428,1169,False,12/6/2019,11,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,551,1841,True,12/6/2019,12,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,539,1606,False,12/7/2019,13,Qantas
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,547,1368,True,12/7/2019,14,Lufthansa
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,435,1169,False,12/8/2019,15,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,561,1841,True,12/8/2019,16,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,504,1169,False,12/9/2019,17,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,576,1482,True,12/9/2019,18,Air New Zealand
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,549,1082,False,12/10/2019,19,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,649,1841,True,12/10/2019,20,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,548,1082,False,12/11/2019,21,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,601,1841,True,12/11/2019,22,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,579,1082,False,12/12/2019,23,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,781,1482,True,12/12/2019,24,Air New Zealand
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,547,1169,False,12/13/2019,25,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,877,1841,True,12/13/2019,26,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,680,1082,False,12/14/2019,27,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,878,1841,True,12/14/2019,28,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,609,1169,False,12/15/2019,29,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,829,1841,True,12/15/2019,30,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,539,1169,False,12/16/2019,31,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,893,1841,True,12/16/2019,32,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,675,1082,False,12/17/2019,33,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,882,1482,True,12/17/2019,34,Air New Zealand
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,673,1169,False,12/18/2019,35,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,1040,1841,True,12/18/2019,36,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,919,1082,False,12/19/2019,37,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,1171,1482,True,12/19/2019,38,Air New Zealand
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,853,1169,False,12/20/2019,39,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,1171,1482,True,12/20/2019,40,Air New Zealand
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,922,1082,False,12/21/2019,41,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,1081,1368,True,12/21/2019,42,Lufthansa
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,675,1169,False,12/22/2019,43,Hawaiian Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,893,1841,True,12/22/2019,44,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,679,1082,False,12/23/2019,45,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,827,1841,True,12/23/2019,46,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,679,1082,False,12/24/2019,47,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,950,1841,True,12/24/2019,48,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,671,1414,False,12/25/2019,49,Xiamen Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,951,1841,True,12/25/2019,50,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,631,1414,False,12/26/2019,51,Xiamen Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,878,1841,True,12/26/2019,52,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,678,1082,False,12/27/2019,53,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,876,1841,True,12/27/2019,54,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,612,1082,False,12/28/2019,55,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,876,1841,True,12/28/2019,56,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,579,1082,False,12/29/2019,57,Fiji Airways
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,935,1841,True,12/29/2019,58,Virgin Australia
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,669,1414,False,12/30/2019,59,Xiamen Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,890,1368,True,12/30/2019,60,Lufthansa
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,739,937,False,12/31/2019,61,China Airlines
+Los Angeles,82628,Sydney,Sydney,SYD,Australia,65368,890,1368,True,12/31/2019,62,Lufthansa
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,612,854,False,12/3/2019,1,Avianca (Scheduled)
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,612,1793,False,12/7/2019,2,United
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,294,1793,False,12/8/2019,3,United
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,294,870,False,12/9/2019,4,jetBlue
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,523,854,False,12/10/2019,5,Avianca (Scheduled)
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,368,870,False,12/12/2019,6,jetBlue
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,421,870,False,12/14/2019,7,jetBlue
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,428,1467,False,12/16/2019,8,Spirit Airlines
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,457,1467,False,12/17/2019,9,Spirit Airlines
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,722,854,False,12/18/2019,10,Avianca (Scheduled)
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,723,941,False,12/20/2019,11,Copa
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,485,941,False,12/21/2019,12,Copa
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,497,941,False,12/23/2019,13,Copa
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,411,870,False,12/24/2019,14,jetBlue
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,538,941,False,12/26/2019,15,Copa
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,722,854,False,12/27/2019,16,Avianca (Scheduled)
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,504,851,False,12/28/2019,17,Alaska Airlines
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,722,854,False,12/29/2019,18,Avianca (Scheduled)
+Los Angeles,86479,Quito,Quito,UIO,Ecuador,65368,722,854,False,12/31/2019,19,Avianca (Scheduled)
+Los Angeles,65634,Long Beach,Long Beach Municipal,LGB,United States,65368,312,1721,False,12/1/2019,1,Sun Country Airlines
+Los Angeles,65634,Long Beach,Long Beach Municipal,LGB,United States,65368,259,870,False,12/12/2019,2,jetBlue
+Los Angeles,65634,Long Beach,Long Beach Municipal,LGB,United States,65368,180,1902,False,12/20/2019,3,Southwest Airlines
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,218,1001,False,12/1/2019,1,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,220,1001,False,12/2/2019,2,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,239,1001,False,12/3/2019,3,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,218,1001,False,12/4/2019,4,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,218,1001,False,12/5/2019,5,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,256,1001,False,12/7/2019,6,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,260,1001,False,12/8/2019,7,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,218,1001,False,12/9/2019,8,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,217,1001,False,12/10/2019,9,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,238,1001,False,12/11/2019,10,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,261,1001,False,12/12/2019,11,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,340,1001,False,12/13/2019,12,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,327,1001,False,12/14/2019,13,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,352,1001,False,12/15/2019,14,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,333,851,False,12/16/2019,15,Alaska Airlines
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,366,1001,False,12/17/2019,16,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,471,1001,False,12/18/2019,17,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,456,1001,False,12/19/2019,18,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,495,857,False,12/20/2019,19,Finnair
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,546,1001,False,12/21/2019,20,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,457,1001,False,12/22/2019,21,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,270,1001,False,12/24/2019,22,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,250,1001,False,12/25/2019,23,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,313,1001,False,12/26/2019,24,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,309,1001,False,12/28/2019,25,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,299,1001,False,12/29/2019,26,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,271,1001,False,12/30/2019,27,Norwegian
+Los Angeles,45336,Copenhagen,Copenhagen,CPH,Denmark,65368,356,1001,False,12/31/2019,28,Norwegian
+Los Angeles,44809,Chiang Rai,Chiang Rai,CEI,Thailand,65368,608,1276,False,12/16/2019,1,Japan Airlines
+Los Angeles,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,65368,263,1001,False,12/1/2019,1,Norwegian
+Los Angeles,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,65368,275,1001,False,12/2/2019,2,Norwegian
+Los Angeles,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,65368,392,1001,False,12/17/2019,3,Norwegian
+Los Angeles,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,65368,539,1001,False,12/18/2019,4,Norwegian
+Los Angeles,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,65368,655,1001,False,12/19/2019,5,Norwegian
+Los Angeles,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,65368,948,851,False,12/23/2019,6,Alaska Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,442,1841,True,12/1/2019,1,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,463,1841,False,12/2/2019,2,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,547,1482,True,12/2/2019,3,Air New Zealand
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,477,1169,False,12/3/2019,4,Hawaiian Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,571,1793,True,12/3/2019,5,United
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,528,988,False,12/4/2019,6,Delta
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,591,1793,True,12/4/2019,7,United
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,480,1169,False,12/5/2019,8,Hawaiian Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,494,1841,True,12/5/2019,9,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,557,1414,False,12/6/2019,10,Xiamen Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,563,1482,True,12/6/2019,11,Air New Zealand
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,516,1169,False,12/7/2019,12,Hawaiian Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,563,1482,True,12/7/2019,13,Air New Zealand
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,548,1482,True,12/8/2019,14,Air New Zealand
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,510,1841,False,12/9/2019,15,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,719,1482,True,12/9/2019,16,Air New Zealand
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,577,1082,False,12/10/2019,17,Fiji Airways
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,646,1793,True,12/10/2019,18,United
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,572,1082,False,12/11/2019,19,Fiji Airways
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,848,1606,True,12/11/2019,20,Qantas
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,475,851,False,12/12/2019,21,Alaska Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,723,1841,True,12/12/2019,22,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,700,1082,False,12/13/2019,23,Fiji Airways
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,871,1841,True,12/13/2019,24,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,633,1169,False,12/14/2019,25,Hawaiian Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,868,1841,True,12/14/2019,26,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,940,937,False,12/15/2019,27,China Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1052,1841,True,12/15/2019,28,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,962,833,False,12/16/2019,29,American Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1627,833,True,12/16/2019,30,American Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,606,1169,False,12/17/2019,31,Hawaiian Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1018,1841,True,12/17/2019,32,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,939,937,False,12/18/2019,33,China Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1381,1606,True,12/18/2019,34,Qantas
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,711,1169,False,12/19/2019,35,Hawaiian Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1213,1841,True,12/19/2019,36,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,945,1082,False,12/20/2019,37,Fiji Airways
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1213,1841,True,12/20/2019,38,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,889,1169,False,12/21/2019,39,Hawaiian Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1182,1482,True,12/21/2019,40,Air New Zealand
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,911,1841,True,12/22/2019,41,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,703,1082,False,12/23/2019,42,Fiji Airways
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1027,1482,True,12/23/2019,43,Air New Zealand
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,706,1082,False,12/25/2019,44,Fiji Airways
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,883,1482,True,12/25/2019,45,Air New Zealand
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,634,1169,False,12/26/2019,46,Hawaiian Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,868,1841,True,12/26/2019,47,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,655,1414,False,12/27/2019,48,Xiamen Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,868,1841,True,12/27/2019,49,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,571,1082,False,12/28/2019,50,Fiji Airways
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,871,1841,True,12/28/2019,51,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,604,1082,False,12/29/2019,52,Fiji Airways
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,822,1841,True,12/29/2019,53,Virgin Australia
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,655,1414,False,12/30/2019,54,Xiamen Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1112,1793,True,12/30/2019,55,United
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,607,1189,False,12/31/2019,56,Hainan Airlines
+Los Angeles,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,65368,1053,1841,True,12/31/2019,57,Virgin Australia
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,313,1001,False,12/1/2019,1,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1477,1385,True,12/1/2019,2,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,278,1001,False,12/2/2019,3,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,332,1001,False,12/3/2019,4,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1209,1385,True,12/3/2019,5,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,769,981,False,12/4/2019,6,Condor
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,332,1001,False,12/5/2019,7,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1209,1385,True,12/5/2019,8,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,332,1001,False,12/8/2019,9,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1213,1385,True,12/8/2019,10,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,385,1001,False,12/12/2019,11,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1210,1385,True,12/12/2019,12,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,416,1001,False,12/13/2019,13,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,463,1001,False,12/15/2019,14,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1318,1385,True,12/15/2019,15,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,409,1717,False,12/16/2019,16,Aeroflot
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,409,1717,False,12/17/2019,17,Aeroflot
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1446,1385,True,12/17/2019,18,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,472,1717,False,12/18/2019,19,Aeroflot
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,507,1717,False,12/19/2019,20,Aeroflot
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1909,1385,True,12/19/2019,21,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1989,838,False,12/20/2019,22,Air France
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,504,1717,False,12/22/2019,23,Aeroflot
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,2177,1385,True,12/22/2019,24,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,469,1717,False,12/23/2019,25,Aeroflot
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,461,1001,False,12/24/2019,26,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,2061,1385,True,12/24/2019,27,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,433,1001,False,12/25/2019,28,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,487,857,False,12/26/2019,29,Finnair
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,2064,1385,True,12/26/2019,30,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,390,1001,False,12/28/2019,31,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,472,1001,False,12/29/2019,32,Norwegian
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,1381,1385,True,12/29/2019,33,EL AL Israel Airlines
+Los Angeles,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,65368,357,1001,False,12/30/2019,34,Norwegian
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,559,83896,False,12/1/2019,1,flythomascook
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,949,83896,False,12/2/2019,2,flythomascook
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,700,83896,False,12/9/2019,3,flythomascook
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,254,1001,False,12/10/2019,4,Norwegian
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,632,83896,False,12/12/2019,5,flythomascook
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,366,1001,False,12/14/2019,6,Norwegian
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,557,981,False,12/15/2019,7,Condor
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,351,1001,False,12/16/2019,8,Norwegian
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,502,981,False,12/17/2019,9,Condor
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,604,1717,False,12/20/2019,10,Aeroflot
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,497,1001,False,12/22/2019,11,Norwegian
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,343,1001,False,12/24/2019,12,Norwegian
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,351,1001,False,12/27/2019,13,Norwegian
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,330,1001,False,12/28/2019,14,Norwegian
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,334,1001,False,12/29/2019,15,Norwegian
+Los Angeles,43141,Brussels,Brussels International,BRU,Belgium,65368,787,83896,False,12/31/2019,16,flythomascook
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,529,1082,False,12/1/2019,1,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,579,1482,True,12/1/2019,2,Air New Zealand
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,529,1082,False,12/2/2019,3,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,624,1482,True,12/2/2019,4,Air New Zealand
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,526,1082,False,12/3/2019,5,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,602,833,True,12/3/2019,6,American Airlines
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,529,1082,False,12/4/2019,7,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,579,1482,True,12/4/2019,8,Air New Zealand
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,528,1082,False,12/5/2019,9,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,624,1482,True,12/5/2019,10,Air New Zealand
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,531,1082,False,12/6/2019,11,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,579,1482,True,12/6/2019,12,Air New Zealand
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,526,1082,False,12/7/2019,13,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,669,1606,True,12/7/2019,14,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,527,1082,False,12/8/2019,15,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,579,1482,True,12/8/2019,16,Air New Zealand
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,629,1169,False,12/9/2019,17,Hawaiian Airlines
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,796,1793,True,12/9/2019,18,United
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,530,1082,False,12/10/2019,19,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,647,1606,True,12/10/2019,20,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,529,1082,False,12/11/2019,21,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,830,1606,True,12/11/2019,22,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,559,1082,False,12/12/2019,23,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,835,1606,True,12/12/2019,24,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,655,1082,False,12/13/2019,25,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1137,1606,True,12/13/2019,26,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,814,1169,False,12/14/2019,27,Hawaiian Airlines
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1137,1606,True,12/14/2019,28,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,655,1082,False,12/15/2019,29,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,835,1606,True,12/15/2019,30,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,655,1082,False,12/16/2019,31,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,835,1606,True,12/16/2019,32,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,656,1082,False,12/17/2019,33,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1137,1606,True,12/17/2019,34,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,796,1169,False,12/18/2019,35,Hawaiian Airlines
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1310,1606,True,12/18/2019,36,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,894,1082,False,12/19/2019,37,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1467,1482,True,12/19/2019,38,Air New Zealand
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,897,1082,False,12/20/2019,39,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1352,1606,True,12/20/2019,40,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,900,1082,False,12/21/2019,41,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1352,1606,True,12/21/2019,42,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,898,1082,False,12/22/2019,43,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1352,1606,True,12/22/2019,44,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,658,1082,False,12/23/2019,45,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1137,1606,True,12/23/2019,46,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,660,1082,False,12/24/2019,47,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,835,1606,True,12/24/2019,48,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,660,1082,False,12/25/2019,49,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1136,1606,True,12/25/2019,50,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,658,1082,False,12/26/2019,51,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1137,1606,True,12/26/2019,52,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,655,1082,False,12/27/2019,53,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1137,1606,True,12/27/2019,54,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,556,1082,False,12/28/2019,55,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1137,1606,True,12/28/2019,56,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,558,1082,False,12/29/2019,57,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,830,1606,True,12/29/2019,58,Qantas
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,868,954,False,12/30/2019,59,China Southern
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1376,1793,True,12/30/2019,60,United
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,815,1082,False,12/31/2019,61,Fiji Airways
+Los Angeles,40492,Auckland,Auckland International,AKL,New Zealand,65368,1243,1482,True,12/31/2019,62,Air New Zealand
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,125,1907,True,12/1/2019,1,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,131,1793,True,12/2/2019,2,United
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,103,988,False,12/3/2019,3,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,104,1907,True,12/3/2019,4,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,97,988,False,12/4/2019,5,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,103,1907,True,12/4/2019,6,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,97,988,False,12/5/2019,7,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,125,1793,True,12/5/2019,8,United
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,98,988,False,12/6/2019,9,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,119,1482,True,12/6/2019,10,Air New Zealand
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,97,988,False,12/7/2019,11,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,131,1907,True,12/7/2019,12,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,87,1907,True,12/8/2019,13,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,103,988,False,12/9/2019,14,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,108,1793,True,12/9/2019,15,United
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,103,988,False,12/10/2019,16,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,104,1793,True,12/10/2019,17,United
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,103,988,False,12/11/2019,18,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,104,1907,True,12/11/2019,19,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,103,988,False,12/12/2019,20,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,125,1907,True,12/12/2019,21,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,108,1793,False,12/13/2019,22,United
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,133,1907,True,12/13/2019,23,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,125,1907,True,12/14/2019,24,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,123,1482,False,12/15/2019,25,Air New Zealand
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,124,1907,True,12/15/2019,26,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,103,988,False,12/16/2019,27,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,176,1793,True,12/16/2019,28,United
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,103,988,False,12/17/2019,29,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,170,1907,True,12/17/2019,30,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,109,1793,False,12/18/2019,31,United
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,193,1907,True,12/18/2019,32,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,185,851,False,12/19/2019,33,Alaska Airlines
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,204,1907,True,12/19/2019,34,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,224,1907,True,12/20/2019,35,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,249,1907,True,12/21/2019,36,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,225,1907,True,12/22/2019,37,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,203,1907,True,12/23/2019,38,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,166,1793,False,12/24/2019,39,United
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,201,988,True,12/24/2019,40,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,153,988,False,12/25/2019,41,Delta
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,171,1907,True,12/25/2019,42,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,225,1907,True,12/26/2019,43,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,224,1907,True,12/27/2019,44,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,249,1907,True,12/28/2019,45,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,329,835,True,12/29/2019,46,Air Canada
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,230,1907,True,12/30/2019,47,WestJet
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,167,1793,False,12/31/2019,48,United
+Los Angeles,96322,Vancouver,Vancouver International,YVR,Canada,65368,267,1793,True,12/31/2019,49,United
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,417,929,False,12/1/2019,1,Air China
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,387,929,False,12/2/2019,2,Air China
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,387,929,False,12/3/2019,3,Air China
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,528,1464,False,12/4/2019,4,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,528,1464,False,12/5/2019,5,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,528,1464,False,12/6/2019,6,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,531,1464,False,12/7/2019,7,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,455,833,False,12/8/2019,8,American Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,424,1713,False,12/9/2019,9,Singapore Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,432,1276,False,12/10/2019,10,Japan Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,442,1276,False,12/11/2019,11,Japan Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,456,833,False,12/12/2019,12,American Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,457,833,False,12/13/2019,13,American Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,682,1464,False,12/14/2019,14,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,678,1464,False,12/15/2019,15,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,1171,1414,False,12/16/2019,16,Xiamen Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,708,937,False,12/17/2019,17,China Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,686,937,False,12/18/2019,18,China Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,764,1464,False,12/19/2019,19,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,928,1464,False,12/20/2019,20,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,682,1464,False,12/22/2019,21,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,582,1713,False,12/23/2019,22,Singapore Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,730,1464,False,12/24/2019,23,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,554,898,False,12/25/2019,24,EVA Air
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,558,898,False,12/26/2019,25,EVA Air
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,729,1464,False,12/27/2019,26,ANA
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,735,1414,False,12/29/2019,27,Xiamen Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,735,1414,False,12/30/2019,28,Xiamen Airlines
+Los Angeles,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,65368,502,937,False,12/31/2019,29,China Airlines
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,252,1001,False,12/1/2019,1,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1062,1482,True,12/1/2019,2,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,261,1001,False,12/2/2019,3,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1004,1482,True,12/2/2019,4,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,262,1001,False,12/3/2019,5,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1244,1368,True,12/3/2019,6,Lufthansa
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,568,981,False,12/4/2019,7,Condor
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,3020,1793,True,12/4/2019,8,United
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,261,1001,False,12/5/2019,9,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1004,1482,True,12/5/2019,10,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,261,1001,False,12/6/2019,11,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,261,1001,False,12/7/2019,12,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1062,1482,True,12/7/2019,13,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,252,1001,False,12/8/2019,14,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1056,1482,True,12/8/2019,15,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,260,1001,False,12/10/2019,16,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,3011,1793,True,12/10/2019,17,United
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,286,1001,False,12/11/2019,18,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,985,1482,True,12/11/2019,19,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,312,1001,False,12/12/2019,20,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,985,1482,True,12/12/2019,21,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,351,1001,False,12/13/2019,22,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,3011,1793,True,12/13/2019,23,United
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,361,1001,False,12/14/2019,24,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,368,1001,False,12/15/2019,25,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,3011,1793,True,12/15/2019,26,United
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,361,1001,False,12/16/2019,27,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1358,1482,True,12/16/2019,28,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,378,851,False,12/17/2019,29,Alaska Airlines
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1436,1482,True,12/17/2019,30,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,509,1001,False,12/18/2019,31,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1518,1482,True,12/18/2019,32,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,510,1717,False,12/19/2019,33,Aeroflot
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1542,1482,True,12/19/2019,34,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,614,1717,False,12/20/2019,35,Aeroflot
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1688,1482,True,12/20/2019,36,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,510,1717,False,12/22/2019,37,Aeroflot
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1659,1482,True,12/22/2019,38,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,404,1713,False,12/23/2019,39,Singapore Airlines
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1468,1482,True,12/23/2019,40,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,333,1001,False,12/26/2019,41,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,991,1482,True,12/26/2019,42,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,332,1001,False,12/27/2019,43,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,1055,1482,True,12/27/2019,44,Air New Zealand
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,680,981,False,12/28/2019,45,Condor
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,3024,1793,True,12/28/2019,46,United
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,336,1001,False,12/29/2019,47,Norwegian
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,3012,1793,True,12/29/2019,48,United
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,379,981,False,12/31/2019,49,Condor
+Los Angeles,52337,Frankfurt,Frankfurt am Main,FRA,Germany,65368,3011,1793,True,12/31/2019,50,United
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,250,1001,False,12/1/2019,1,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,250,1001,False,12/2/2019,2,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,250,1001,False,12/3/2019,3,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,230,1001,False,12/4/2019,4,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,230,1001,False,12/5/2019,5,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,2341,838,False,12/6/2019,6,Air France
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,257,1001,False,12/7/2019,7,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,2567,1707,True,12/7/2019,8,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,234,1001,False,12/8/2019,9,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,226,1001,False,12/9/2019,10,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,230,1001,False,12/10/2019,11,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,250,1001,False,12/11/2019,12,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,250,1001,False,12/12/2019,13,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,369,1001,False,12/14/2019,14,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,933,1707,True,12/14/2019,15,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,322,1001,False,12/15/2019,16,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,340,1001,False,12/16/2019,17,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,933,1707,True,12/16/2019,18,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,393,1001,False,12/17/2019,19,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,527,1001,False,12/18/2019,20,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,602,1001,False,12/19/2019,21,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,583,857,False,12/20/2019,22,Finnair
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,980,1707,True,12/20/2019,23,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,597,1001,False,12/21/2019,24,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,2567,1707,True,12/21/2019,25,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,492,857,False,12/22/2019,26,Finnair
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,930,1707,True,12/22/2019,27,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,529,1001,False,12/23/2019,28,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,837,1707,True,12/23/2019,29,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,300,1001,False,12/24/2019,30,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,356,1001,False,12/25/2019,31,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,838,1707,True,12/25/2019,32,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,406,1001,False,12/26/2019,33,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,876,1707,True,12/26/2019,34,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,386,1001,False,12/27/2019,35,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,940,1707,True,12/27/2019,36,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,333,1001,False,12/28/2019,37,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,321,1001,False,12/29/2019,38,Norwegian
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,837,1707,True,12/29/2019,39,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,764,1755,False,12/30/2019,40,Turkish Airlines
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,2558,1707,True,12/30/2019,41,SAS
+Los Angeles,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,65368,470,1001,False,12/31/2019,42,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,426,1001,False,12/2/2019,1,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,521,1001,False,12/7/2019,2,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,727,1001,False,12/13/2019,3,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,655,1001,False,12/14/2019,4,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,874,1793,False,12/15/2019,5,United
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,829,1467,False,12/16/2019,6,Spirit Airlines
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,840,1467,False,12/17/2019,7,Spirit Airlines
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,751,1361,False,12/18/2019,8,LATAM Airlines Group
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,803,1361,False,12/19/2019,9,LATAM Airlines Group
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,825,1361,False,12/20/2019,10,LATAM Airlines Group
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,780,1482,False,12/21/2019,11,Air New Zealand
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,742,870,False,12/22/2019,12,jetBlue
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,646,1001,False,12/23/2019,13,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,836,1902,False,12/24/2019,14,Southwest Airlines
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,565,1001,False,12/26/2019,15,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,532,1001,False,12/27/2019,16,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,434,1001,False,12/28/2019,17,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,616,1001,False,12/30/2019,18,Norwegian
+Los Angeles,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,65368,777,870,False,12/31/2019,19,jetBlue
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,480,1001,False,12/1/2019,1,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,478,1001,False,12/2/2019,2,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,878,833,True,12/2/2019,3,American Airlines
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,495,1001,False,12/3/2019,4,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,459,1001,False,12/4/2019,5,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,878,833,True,12/4/2019,6,American Airlines
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,482,1001,False,12/5/2019,7,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,483,1001,False,12/6/2019,8,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,903,833,True,12/6/2019,9,American Airlines
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,511,1001,False,12/7/2019,10,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,538,851,False,12/8/2019,11,Alaska Airlines
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,543,1001,False,12/9/2019,12,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,878,833,True,12/9/2019,13,American Airlines
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,670,1361,False,12/10/2019,14,LATAM Airlines Group
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,605,223,False,12/11/2019,15,Interjet
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,878,833,True,12/11/2019,16,American Airlines
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,782,1001,False,12/13/2019,17,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,991,833,True,12/13/2019,18,American Airlines
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,726,1001,False,12/14/2019,19,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,853,1793,False,12/16/2019,20,United
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,731,1324,False,12/17/2019,21,KLM
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,805,941,False,12/18/2019,22,Copa
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,976,854,True,12/18/2019,23,Avianca (Scheduled)
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,800,941,False,12/19/2019,24,Copa
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,835,854,False,12/20/2019,25,Avianca (Scheduled)
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,828,941,False,12/21/2019,26,Copa
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,811,850,False,12/22/2019,27,Aerolineas Argentinas
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,879,941,False,12/23/2019,28,Copa
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,879,941,False,12/24/2019,29,Copa
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,608,1001,False,12/25/2019,30,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,607,1001,False,12/26/2019,31,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,654,1001,False,12/27/2019,32,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,486,1001,False,12/28/2019,33,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,590,1001,False,12/29/2019,34,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,523,1001,False,12/30/2019,35,Norwegian
+Los Angeles,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,65368,514,1001,False,12/31/2019,36,Norwegian
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,219,833,True,12/1/2019,1,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,118,833,True,12/2/2019,2,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,84,988,True,12/4/2019,3,Delta
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,83,833,True,12/6/2019,4,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,83,833,True,12/8/2019,5,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,83,833,True,12/10/2019,6,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,83,833,True,12/13/2019,7,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,83,833,True,12/14/2019,8,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,83,833,True,12/15/2019,9,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,83,988,True,12/18/2019,10,Delta
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,159,833,True,12/22/2019,11,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,84,833,True,12/24/2019,12,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,99,833,True,12/27/2019,13,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,98,833,True,12/29/2019,14,American Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,96,851,True,12/30/2019,15,Alaska Airlines
+Los Angeles,40065,Albuquerque,Albuquerque,ABQ,United States,65368,83,833,True,12/31/2019,16,American Airlines
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,243,1907,False,12/1/2019,1,WestJet
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,359,1793,True,12/1/2019,2,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,220,1907,False,12/2/2019,3,WestJet
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,363,1793,True,12/2/2019,4,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,169,1907,False,12/3/2019,5,WestJet
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,350,1793,True,12/3/2019,6,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,175,1793,False,12/4/2019,7,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,350,1793,True,12/4/2019,8,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,175,1793,False,12/5/2019,9,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,371,1793,True,12/5/2019,10,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,176,1793,False,12/6/2019,11,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,374,1793,True,12/6/2019,12,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,175,1793,False,12/7/2019,13,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,350,1793,True,12/7/2019,14,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,175,1793,False,12/8/2019,15,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,371,1793,True,12/8/2019,16,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,169,1907,False,12/9/2019,17,WestJet
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,361,1793,True,12/9/2019,18,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,172,1793,False,12/10/2019,19,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,344,1793,True,12/10/2019,20,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,175,1793,False,12/11/2019,21,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,350,1793,True,12/11/2019,22,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,218,1907,False,12/12/2019,23,WestJet
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,359,1793,True,12/12/2019,24,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,171,1793,False,12/14/2019,25,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,342,1793,True,12/14/2019,26,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,175,1793,False,12/15/2019,27,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,371,1793,True,12/15/2019,28,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,169,1793,False,12/16/2019,29,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,445,1793,True,12/16/2019,30,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,175,1793,False,12/17/2019,31,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,442,1793,True,12/17/2019,32,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,180,988,False,12/18/2019,33,Delta
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,442,1793,True,12/18/2019,34,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,435,1793,False,12/19/2019,35,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,486,1793,True,12/19/2019,36,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,307,1907,False,12/20/2019,37,WestJet
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,487,1482,True,12/20/2019,38,Air New Zealand
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,315,1793,False,12/21/2019,39,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,487,1482,True,12/21/2019,40,Air New Zealand
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,344,1907,False,12/22/2019,41,WestJet
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,487,1793,True,12/22/2019,42,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,222,929,False,12/23/2019,43,Air China
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,487,1482,True,12/23/2019,44,Air New Zealand
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,174,1606,False,12/24/2019,45,Qantas
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,237,1793,True,12/24/2019,46,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,222,1530,False,12/25/2019,47,Asiana Airlines
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,425,1793,True,12/25/2019,48,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,331,1907,False,12/26/2019,49,WestJet
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,278,1907,False,12/27/2019,50,WestJet
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,472,1793,True,12/27/2019,51,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,318,988,False,12/28/2019,52,Delta
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,234,1793,False,12/29/2019,53,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,453,1793,True,12/29/2019,54,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,169,1793,False,12/30/2019,55,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,445,1793,True,12/30/2019,56,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,232,1793,False,12/31/2019,57,United
+Los Angeles,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,65368,432,1793,True,12/31/2019,58,United
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,414,1721,False,12/1/2019,1,Sun Country Airlines
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,227,833,False,12/2/2019,2,American Airlines
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,217,988,False,12/3/2019,3,Delta
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,333,870,False,12/12/2019,4,jetBlue
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,150,833,False,12/17/2019,5,American Airlines
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,221,851,False,12/19/2019,6,Alaska Airlines
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,253,1902,False,12/21/2019,7,Southwest Airlines
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,496,870,False,12/25/2019,8,jetBlue
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,147,833,False,12/26/2019,9,American Airlines
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,232,833,False,12/27/2019,10,American Airlines
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,194,833,False,12/28/2019,11,American Airlines
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,231,833,False,12/29/2019,12,American Airlines
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,545,870,False,12/30/2019,13,jetBlue
+Los Angeles,75572,Providence,Providence,PVD,United States,65368,325,988,False,12/31/2019,14,Delta
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,699,1324,False,12/2/2019,1,KLM
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,695,1324,False,12/3/2019,2,KLM
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,583,1001,False,12/6/2019,3,Norwegian
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,695,1324,False,12/7/2019,4,KLM
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,695,988,False,12/10/2019,5,Delta
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,853,1049,True,12/10/2019,6,Etihad Airways
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,695,1324,False,12/14/2019,7,KLM
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,1123,1049,True,12/14/2019,8,Etihad Airways
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,623,1001,False,12/15/2019,9,Norwegian
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,699,1324,False,12/17/2019,10,KLM
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,984,838,False,12/19/2019,11,Air France
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,945,1001,False,12/20/2019,12,Norwegian
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,984,838,False,12/21/2019,13,Air France
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,759,838,False,12/25/2019,14,Air France
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,855,870,False,12/26/2019,15,jetBlue
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,861,1049,True,12/26/2019,16,Etihad Airways
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,3800,1324,False,12/27/2019,17,KLM
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,695,1324,False,12/30/2019,18,KLM
+Los Angeles,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,65368,695,988,False,12/31/2019,19,Delta
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,801,1618,False,12/2/2019,1,Qatar Airways
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,801,1618,False,12/9/2019,2,Qatar Airways
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,615,954,False,12/10/2019,3,China Southern
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,719,1618,False,12/11/2019,4,Qatar Airways
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,1006,952,False,12/12/2019,5,Cathay Pacific
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,533,1717,False,12/13/2019,6,Aeroflot
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,937,1804,False,12/14/2019,7,SriLankan Airlines
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,1037,954,False,12/15/2019,8,China Southern
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,1005,1049,False,12/16/2019,9,Etihad Airways
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,1984,952,False,12/17/2019,10,Cathay Pacific
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,1743,1717,False,12/19/2019,11,Aeroflot
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,1105,952,False,12/20/2019,12,Cathay Pacific
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,871,1717,False,12/21/2019,13,Aeroflot
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,928,954,False,12/22/2019,14,China Southern
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,1004,1049,False,12/23/2019,15,Etihad Airways
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,668,1618,False,12/24/2019,16,Qatar Airways
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,902,1049,False,12/26/2019,17,Etihad Airways
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,645,954,False,12/27/2019,18,China Southern
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,613,954,False,12/29/2019,19,China Southern
+Los Angeles,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,65368,790,1755,False,12/30/2019,20,Turkish Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,363,1793,False,12/1/2019,1,United
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,585,988,True,12/1/2019,2,Delta
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,162,1793,False,12/2/2019,3,United
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,375,851,True,12/2/2019,4,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,161,833,False,12/3/2019,5,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,208,833,True,12/3/2019,6,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,153,988,True,12/4/2019,7,Delta
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,150,851,True,12/5/2019,8,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,154,833,True,12/6/2019,9,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,153,833,True,12/7/2019,10,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,161,833,False,12/8/2019,11,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,259,833,True,12/8/2019,12,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,138,870,False,12/9/2019,13,jetBlue
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,155,851,True,12/9/2019,14,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,139,870,False,12/10/2019,15,jetBlue
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,147,851,True,12/10/2019,16,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,148,833,True,12/11/2019,17,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,151,851,True,12/12/2019,18,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,153,833,True,12/13/2019,19,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,151,851,True,12/14/2019,20,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,161,833,False,12/15/2019,21,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,189,851,True,12/15/2019,22,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,151,851,True,12/16/2019,23,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,149,833,True,12/17/2019,24,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,148,833,True,12/18/2019,25,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,218,833,False,12/19/2019,26,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,240,851,True,12/19/2019,27,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,327,851,True,12/20/2019,28,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,330,851,True,12/21/2019,29,Alaska Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,218,1793,False,12/22/2019,30,United
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,259,833,True,12/22/2019,31,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,162,833,False,12/23/2019,32,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,210,833,True,12/23/2019,33,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,161,833,False,12/24/2019,34,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,169,833,True,12/24/2019,35,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,162,1793,False,12/25/2019,36,United
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,169,833,True,12/25/2019,37,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,208,833,True,12/26/2019,38,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,208,833,True,12/27/2019,39,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,231,988,False,12/28/2019,40,Delta
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,257,833,True,12/28/2019,41,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,216,988,False,12/29/2019,42,Delta
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,257,833,True,12/29/2019,43,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,217,1793,False,12/30/2019,44,United
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,258,833,True,12/30/2019,45,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,177,833,False,12/31/2019,46,American Airlines
+Los Angeles,47009,Washington,Washington Ronald Reagan,DCA,United States,65368,258,833,True,12/31/2019,47,American Airlines

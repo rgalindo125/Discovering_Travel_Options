@@ -1,0 +1,867 @@
+Departure City,City ID,City Name,Airport Name,Iata Code,Country Name,City ID Departure,Min Price,Airline ID,Non-Stop Flight,Departure Date,Quote ID,Airline Name
+Houston,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,58440,454,1276,FALSE,12/1/2019,1,Japan Airlines
+Houston,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,58440,487,1467,FALSE,12/4/2019,2,Spirit Airlines
+Houston,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,58440,684,1065,FALSE,12/12/2019,3,Frontier Airlines
+Houston,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,58440,918,898,FALSE,12/14/2019,4,EVA Air
+Houston,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,58440,1022,1276,FALSE,12/20/2019,5,Japan Airlines
+Houston,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,58440,500,835,FALSE,12/25/2019,6,Air Canada
+Houston,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,58440,674,898,FALSE,12/26/2019,7,EVA Air
+Houston,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,58440,619,835,FALSE,12/27/2019,8,Air Canada
+Houston,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,58440,487,929,FALSE,12/31/2019,9,Air China
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,494,1713,FALSE,12/1/2019,1,Singapore Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,455,1276,FALSE,12/2/2019,2,Japan Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,497,1713,FALSE,12/3/2019,3,Singapore Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,464,1276,FALSE,12/4/2019,4,Japan Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,461,1276,FALSE,12/5/2019,5,Japan Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,493,1276,FALSE,12/6/2019,6,Japan Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,464,1713,FALSE,12/7/2019,7,Singapore Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,891,1713,FALSE,12/8/2019,8,Singapore Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,583,898,FALSE,12/10/2019,9,EVA Air
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,509,1713,FALSE,12/11/2019,10,Singapore Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,752,898,FALSE,12/12/2019,11,EVA Air
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,749,952,FALSE,12/13/2019,12,Cathay Pacific
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,687,954,FALSE,12/14/2019,13,China Southern
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,686,954,FALSE,12/15/2019,14,China Southern
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,967,898,FALSE,12/16/2019,15,EVA Air
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,878,1755,FALSE,12/17/2019,16,Turkish Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,884,1530,FALSE,12/18/2019,17,Asiana Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,928,1523,FALSE,12/19/2019,18,Austrian Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,1085,1755,FALSE,12/20/2019,19,Turkish Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,851,1713,FALSE,12/21/2019,20,Singapore Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,687,1658,FALSE,12/22/2019,21,Royal Jordanian
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,1139,929,FALSE,12/23/2019,22,Air China
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,639,1606,FALSE,12/24/2019,23,Qantas
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,605,1658,FALSE,12/25/2019,24,Royal Jordanian
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,624,898,FALSE,12/26/2019,25,EVA Air
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,503,1276,FALSE,12/27/2019,26,Japan Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,845,929,FALSE,12/28/2019,27,Air China
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,506,1276,FALSE,12/29/2019,28,Japan Airlines
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,522,898,FALSE,12/30/2019,29,EVA Air
+Houston,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,58440,516,857,FALSE,12/31/2019,30,Finnair
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,526,1482,FALSE,12/1/2019,1,Air New Zealand
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,548,1710,TRUE,12/1/2019,2,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,494,1523,TRUE,12/2/2019,3,Austrian Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,424,1384,TRUE,12/3/2019,4,SWISS
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,287,870,FALSE,12/4/2019,5,jetBlue
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,407,1710,TRUE,12/4/2019,6,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,272,870,FALSE,12/5/2019,7,jetBlue
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,407,1710,TRUE,12/5/2019,8,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,923,1755,FALSE,12/6/2019,9,Turkish Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1989,881,TRUE,12/6/2019,10,British Airways
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,308,870,FALSE,12/7/2019,11,jetBlue
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1989,881,TRUE,12/7/2019,12,British Airways
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,501,870,FALSE,12/9/2019,13,jetBlue
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1989,881,TRUE,12/9/2019,14,British Airways
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,424,1384,TRUE,12/10/2019,15,SWISS
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1490,929,FALSE,12/11/2019,16,Air China
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1965,881,TRUE,12/11/2019,17,British Airways
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,913,1755,FALSE,12/12/2019,18,Turkish Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1983,881,TRUE,12/12/2019,19,British Airways
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,405,1467,FALSE,12/14/2019,20,Spirit Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1971,881,TRUE,12/14/2019,21,British Airways
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,372,1467,FALSE,12/15/2019,22,Spirit Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,608,1710,TRUE,12/15/2019,23,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,406,1467,FALSE,12/16/2019,24,Spirit Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,578,1710,TRUE,12/16/2019,25,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,404,1467,FALSE,12/17/2019,26,Spirit Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1844,1523,TRUE,12/17/2019,27,Austrian Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,403,1467,FALSE,12/18/2019,28,Spirit Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1890,1523,TRUE,12/18/2019,29,Austrian Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,836,1755,FALSE,12/19/2019,30,Turkish Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1917,857,TRUE,12/19/2019,31,Finnair
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,765,870,FALSE,12/20/2019,32,jetBlue
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1930,857,TRUE,12/20/2019,33,Finnair
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,951,838,FALSE,12/21/2019,34,Air France
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1903,1523,TRUE,12/21/2019,35,Austrian Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1099,1755,FALSE,12/22/2019,36,Turkish Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,2011,881,TRUE,12/22/2019,37,British Airways
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,526,1482,FALSE,12/23/2019,38,Air New Zealand
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,1844,1710,TRUE,12/23/2019,39,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,426,1523,FALSE,12/24/2019,40,Austrian Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,489,1710,TRUE,12/24/2019,41,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,407,1710,TRUE,12/25/2019,42,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,426,1523,FALSE,12/26/2019,43,Austrian Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,528,1523,TRUE,12/26/2019,44,Austrian Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,466,1710,TRUE,12/27/2019,45,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,372,1710,TRUE,12/28/2019,46,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,426,1482,FALSE,12/29/2019,47,Air New Zealand
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,457,1710,TRUE,12/29/2019,48,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,407,1710,TRUE,12/30/2019,49,Brussels Airlines
+Houston,65698,London,London Heathrow,LHR,United Kingdom,58440,407,1710,TRUE,12/31/2019,50,Brussels Airlines
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,458,1793,FALSE,12/3/2019,1,United
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,457,1464,FALSE,12/4/2019,2,ANA
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,512,1793,FALSE,12/6/2019,3,United
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,479,1464,FALSE,12/10/2019,4,ANA
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,582,929,FALSE,12/14/2019,5,Air China
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,647,1793,FALSE,12/22/2019,6,United
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,603,1464,FALSE,12/23/2019,7,ANA
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,642,1793,FALSE,12/24/2019,8,United
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,900,952,FALSE,12/25/2019,9,Cathay Pacific
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,633,898,FALSE,12/26/2019,10,EVA Air
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,561,898,FALSE,12/27/2019,11,EVA Air
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,508,1482,FALSE,12/28/2019,12,Air New Zealand
+Houston,81870,Singapore,Singapore Changi,SIN,Singapore,58440,506,1464,FALSE,12/30/2019,13,ANA
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,902,835,FALSE,12/2/2019,1,Air Canada
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,938,1035,TRUE,12/2/2019,2,Emirates
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,656,881,FALSE,12/5/2019,3,British Airways
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,945,1035,TRUE,12/5/2019,4,Emirates
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,1014,1755,FALSE,12/6/2019,5,Turkish Airlines
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,656,881,FALSE,12/7/2019,6,British Airways
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,944,1035,TRUE,12/7/2019,7,Emirates
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,2668,988,FALSE,12/10/2019,8,Delta
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,2667,1324,FALSE,12/11/2019,9,KLM
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,665,881,FALSE,12/12/2019,10,British Airways
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,989,1035,TRUE,12/12/2019,11,Emirates
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,2649,1324,FALSE,12/13/2019,12,KLM
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,730,881,FALSE,12/16/2019,13,British Airways
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,1002,1035,TRUE,12/16/2019,14,Emirates
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,2650,988,FALSE,12/18/2019,15,Delta
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,1029,1755,FALSE,12/19/2019,16,Turkish Airlines
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,1141,870,TRUE,12/19/2019,17,jetBlue
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,1240,1755,FALSE,12/20/2019,18,Turkish Airlines
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,1006,1324,FALSE,12/21/2019,19,KLM
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,1154,870,TRUE,12/21/2019,20,jetBlue
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,2667,1324,FALSE,12/22/2019,21,KLM
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,2650,988,FALSE,12/23/2019,22,Delta
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,2651,988,FALSE,12/24/2019,23,Delta
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,2650,988,FALSE,12/25/2019,24,Delta
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,956,1618,FALSE,12/26/2019,25,Qatar Airways
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,2650,988,FALSE,12/27/2019,26,Delta
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,660,881,FALSE,12/28/2019,27,British Airways
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,985,1035,TRUE,12/28/2019,28,Emirates
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,660,881,FALSE,12/29/2019,29,British Airways
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,989,1035,TRUE,12/29/2019,30,Emirates
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,660,881,FALSE,12/30/2019,31,British Airways
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,989,1035,TRUE,12/30/2019,32,Emirates
+Houston,48018,Dubai,Dubai,DXB,United Arab Emirates,58440,982,1755,FALSE,12/31/2019,33,Turkish Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,600,1713,FALSE,12/1/2019,1,Singapore Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,1267,1324,TRUE,12/1/2019,2,KLM
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2834,1368,FALSE,12/2/2019,3,Lufthansa
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,345,1467,FALSE,12/4/2019,4,Spirit Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,1296,1324,TRUE,12/4/2019,5,KLM
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,290,1467,FALSE,12/5/2019,6,Spirit Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2962,838,TRUE,12/5/2019,7,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,886,1755,FALSE,12/8/2019,8,Turkish Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2838,1368,FALSE,12/9/2019,9,Lufthansa
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,358,1467,FALSE,12/10/2019,10,Spirit Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2959,838,TRUE,12/10/2019,11,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2838,1368,FALSE,12/11/2019,12,Lufthansa
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2944,838,TRUE,12/11/2019,13,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2833,1710,FALSE,12/12/2019,14,Brussels Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2834,1368,FALSE,12/13/2019,15,Lufthansa
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2839,1710,FALSE,12/14/2019,16,Brussels Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2834,1368,FALSE,12/15/2019,17,Lufthansa
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2834,1368,FALSE,12/16/2019,18,Lufthansa
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,683,1707,FALSE,12/17/2019,19,SAS
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,1146,838,TRUE,12/17/2019,20,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2884,1368,FALSE,12/18/2019,21,Lufthansa
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,696,857,FALSE,12/19/2019,22,Finnair
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,1380,838,TRUE,12/19/2019,23,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,753,870,FALSE,12/20/2019,24,jetBlue
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,3043,838,TRUE,12/20/2019,25,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2883,1710,FALSE,12/21/2019,26,Brussels Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,715,1713,FALSE,12/22/2019,27,Singapore Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,1173,838,TRUE,12/22/2019,28,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,505,1523,FALSE,12/23/2019,29,Austrian Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2943,838,TRUE,12/23/2019,30,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,882,1755,FALSE,12/24/2019,31,Turkish Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2944,838,TRUE,12/24/2019,32,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2838,1710,FALSE,12/25/2019,33,Brussels Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,739,1218,FALSE,12/26/2019,34,Iberia
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,1305,1324,TRUE,12/26/2019,35,KLM
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,600,870,FALSE,12/27/2019,36,jetBlue
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2957,838,TRUE,12/27/2019,37,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,600,1713,FALSE,12/28/2019,38,Singapore Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,1432,1324,TRUE,12/28/2019,39,KLM
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,624,1713,FALSE,12/29/2019,40,Singapore Airlines
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,1063,838,TRUE,12/29/2019,41,Air France
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,752,1707,FALSE,12/30/2019,42,SAS
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,1266,1324,TRUE,12/30/2019,43,KLM
+Houston,44759,Paris,Paris Charles de Gaulle,CDG,France,58440,2826,1710,FALSE,12/31/2019,44,Brussels Airlines
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,349,833,FALSE,12/1/2019,1,American Airlines
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,406,988,TRUE,12/1/2019,2,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,187,988,TRUE,12/2/2019,3,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,166,1065,FALSE,12/3/2019,4,Frontier Airlines
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,175,870,TRUE,12/3/2019,5,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,108,870,TRUE,12/4/2019,6,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,108,870,TRUE,12/5/2019,7,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,108,870,TRUE,12/6/2019,8,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,133,870,TRUE,12/7/2019,9,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,109,988,TRUE,12/8/2019,10,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,109,870,TRUE,12/9/2019,11,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,109,870,TRUE,12/10/2019,12,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,108,870,TRUE,12/11/2019,13,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,109,988,TRUE,12/12/2019,14,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,109,870,TRUE,12/13/2019,15,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,108,988,TRUE,12/14/2019,16,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,109,988,TRUE,12/15/2019,17,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,108,988,TRUE,12/16/2019,18,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,109,988,TRUE,12/18/2019,19,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,202,870,TRUE,12/19/2019,20,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,204,870,TRUE,12/20/2019,21,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,267,833,FALSE,12/21/2019,22,American Airlines
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,296,988,TRUE,12/21/2019,23,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,149,988,TRUE,12/22/2019,24,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,129,988,TRUE,12/23/2019,25,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,228,870,FALSE,12/24/2019,26,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,232,870,TRUE,12/24/2019,27,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,141,833,FALSE,12/25/2019,28,American Airlines
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,232,870,TRUE,12/25/2019,29,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,179,988,TRUE,12/26/2019,30,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,179,988,TRUE,12/27/2019,31,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,217,988,TRUE,12/28/2019,32,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,411,870,TRUE,12/29/2019,33,jetBlue
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,252,988,TRUE,12/30/2019,34,Delta
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,204,833,FALSE,12/31/2019,35,American Airlines
+Houston,60987,New York,New York John F. Kennedy,JFK,United States,58440,413,870,TRUE,12/31/2019,36,jetBlue
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,636,1793,FALSE,12/4/2019,1,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,510,1713,FALSE,12/6/2019,2,Singapore Airlines
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,511,1713,FALSE,12/7/2019,3,Singapore Airlines
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,836,1793,FALSE,12/8/2019,4,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,1128,929,FALSE,12/18/2019,5,Air China
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,1032,1793,FALSE,12/19/2019,6,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,1047,1793,FALSE,12/20/2019,7,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,964,1793,FALSE,12/21/2019,8,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,964,1793,FALSE,12/22/2019,9,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,963,1793,FALSE,12/23/2019,10,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,702,1793,FALSE,12/24/2019,11,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,636,1464,FALSE,12/25/2019,12,ANA
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,814,1793,FALSE,12/26/2019,13,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,690,1464,FALSE,12/27/2019,14,ANA
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,700,1793,FALSE,12/28/2019,15,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,600,1793,FALSE,12/29/2019,16,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,578,1793,FALSE,12/30/2019,17,United
+Houston,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,58440,578,1793,FALSE,12/31/2019,18,United
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,493,1760,FALSE,12/1/2019,1,TAP
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,847,1793,FALSE,12/8/2019,2,United
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,332,1467,FALSE,12/9/2019,3,Spirit Airlines
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,306,870,FALSE,12/10/2019,4,jetBlue
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,355,1467,FALSE,12/12/2019,5,Spirit Airlines
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,355,1467,FALSE,12/13/2019,6,Spirit Airlines
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,822,1755,FALSE,12/19/2019,7,Turkish Airlines
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,846,870,FALSE,12/20/2019,8,jetBlue
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,3312,1710,FALSE,12/21/2019,9,Brussels Airlines
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,3263,1710,FALSE,12/23/2019,10,Brussels Airlines
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,814,1218,FALSE,12/26/2019,11,Iberia
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,690,1713,FALSE,12/27/2019,12,Singapore Airlines
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,853,1793,FALSE,12/29/2019,13,United
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,705,1707,FALSE,12/30/2019,14,SAS
+Houston,51631,Rome,Rome Fiumicino,FCO,Italy,58440,846,1710,FALSE,12/31/2019,15,Brussels Airlines
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,730,898,FALSE,12/1/2019,1,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,693,898,FALSE,12/2/2019,2,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,689,898,FALSE,12/3/2019,3,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,691,898,FALSE,12/5/2019,4,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,691,898,FALSE,12/9/2019,5,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,659,898,FALSE,12/10/2019,6,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1615,1464,TRUE,12/10/2019,7,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1121,898,FALSE,12/11/2019,8,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,850,1755,FALSE,12/13/2019,9,Turkish Airlines
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1704,1464,TRUE,12/13/2019,10,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1086,898,FALSE,12/14/2019,11,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,810,1755,FALSE,12/15/2019,12,Turkish Airlines
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1769,1464,TRUE,12/15/2019,13,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1050,898,FALSE,12/16/2019,14,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,977,898,FALSE,12/18/2019,15,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1641,1464,TRUE,12/18/2019,16,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,953,1755,FALSE,12/19/2019,17,Turkish Airlines
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1653,1464,TRUE,12/19/2019,18,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1078,1755,FALSE,12/20/2019,19,Turkish Airlines
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1758,1464,TRUE,12/20/2019,20,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1150,929,FALSE,12/21/2019,21,Air China
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1816,1793,TRUE,12/21/2019,22,United
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,816,1755,FALSE,12/23/2019,23,Turkish Airlines
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1682,1464,TRUE,12/23/2019,24,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,870,1755,FALSE,12/24/2019,25,Turkish Airlines
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1716,1793,TRUE,12/24/2019,26,United
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,733,898,FALSE,12/25/2019,27,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1506,1464,TRUE,12/25/2019,28,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,691,898,FALSE,12/26/2019,29,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1517,1464,TRUE,12/26/2019,30,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,721,898,FALSE,12/27/2019,31,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1579,1464,TRUE,12/27/2019,32,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,613,898,FALSE,12/28/2019,33,EVA Air
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1615,1464,TRUE,12/28/2019,34,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,839,1755,FALSE,12/29/2019,35,Turkish Airlines
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,1627,1464,TRUE,12/29/2019,36,ANA
+Houston,70788,Tokyo,Tokyo Narita,NRT,Japan,58440,729,898,FALSE,12/30/2019,37,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,522,835,FALSE,12/2/2019,1,Air Canada
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,667,898,TRUE,12/2/2019,2,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,641,1464,FALSE,12/11/2019,3,ANA
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,1023,898,TRUE,12/11/2019,4,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,834,898,TRUE,12/14/2019,5,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,992,1467,FALSE,12/16/2019,6,Spirit Airlines
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,1171,898,TRUE,12/16/2019,7,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,844,1464,FALSE,12/19/2019,8,ANA
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,1373,898,TRUE,12/19/2019,9,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,943,1464,FALSE,12/20/2019,10,ANA
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,1394,898,TRUE,12/20/2019,11,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,993,898,TRUE,12/21/2019,12,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,631,851,FALSE,12/24/2019,13,Alaska Airlines
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,793,898,TRUE,12/24/2019,14,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,740,851,FALSE,12/25/2019,15,Alaska Airlines
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,1080,898,TRUE,12/25/2019,16,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,660,1464,FALSE,12/26/2019,17,ANA
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,765,898,TRUE,12/26/2019,18,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,672,898,TRUE,12/28/2019,19,EVA Air
+Houston,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,58440,636,898,TRUE,12/31/2019,20,EVA Air
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,600,881,FALSE,12/5/2019,1,British Airways
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,1043,1755,TRUE,12/5/2019,2,Turkish Airlines
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,410,870,FALSE,12/10/2019,3,jetBlue
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,1007,1755,TRUE,12/10/2019,4,Turkish Airlines
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,1114,1755,TRUE,12/13/2019,5,Turkish Airlines
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,436,1467,FALSE,12/16/2019,6,Spirit Airlines
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,988,1755,TRUE,12/16/2019,7,Turkish Airlines
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,2639,1368,FALSE,12/21/2019,8,Lufthansa
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,884,881,FALSE,12/23/2019,9,British Airways
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,1007,1755,TRUE,12/23/2019,10,Turkish Airlines
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,680,881,FALSE,12/24/2019,11,British Airways
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,994,1755,TRUE,12/24/2019,12,Turkish Airlines
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,715,881,FALSE,12/25/2019,13,British Airways
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,880,1618,FALSE,12/26/2019,14,Qatar Airways
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,1101,1755,TRUE,12/26/2019,15,Turkish Airlines
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,843,1713,FALSE,12/27/2019,16,Singapore Airlines
+Houston,59316,Istanbul,Istanbul,IST,Turkey,58440,1111,1755,TRUE,12/27/2019,17,Turkish Airlines
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,727,898,FALSE,12/7/2019,1,EVA Air
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,727,898,FALSE,12/8/2019,2,EVA Air
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,552,898,FALSE,12/9/2019,3,EVA Air
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,816,898,FALSE,12/10/2019,4,EVA Air
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,931,1755,FALSE,12/13/2019,5,Turkish Airlines
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,841,1755,FALSE,12/16/2019,6,Turkish Airlines
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,854,1467,FALSE,12/18/2019,7,Spirit Airlines
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,860,1755,FALSE,12/19/2019,8,Turkish Airlines
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,1100,1755,FALSE,12/20/2019,9,Turkish Airlines
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,825,1755,FALSE,12/23/2019,10,Turkish Airlines
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,613,898,FALSE,12/27/2019,11,EVA Air
+Houston,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,58440,691,898,FALSE,12/30/2019,12,EVA Air
+Houston,75575,Shanghai,Shanghai Pu Dong,PVG,China,58440,606,929,FALSE,12/4/2019,1,Air China
+Houston,75575,Shanghai,Shanghai Pu Dong,PVG,China,58440,652,929,FALSE,12/6/2019,2,Air China
+Houston,75575,Shanghai,Shanghai Pu Dong,PVG,China,58440,1083,952,FALSE,12/21/2019,3,Cathay Pacific
+Houston,75575,Shanghai,Shanghai Pu Dong,PVG,China,58440,659,1429,FALSE,12/25/2019,4,China Eastern
+Houston,75575,Shanghai,Shanghai Pu Dong,PVG,China,58440,691,898,FALSE,12/26/2019,5,EVA Air
+Houston,75575,Shanghai,Shanghai Pu Dong,PVG,China,58440,613,898,FALSE,12/27/2019,6,EVA Air
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,160,1793,TRUE,12/1/2019,1,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,134,1793,TRUE,12/2/2019,2,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,111,1793,TRUE,12/3/2019,3,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,54,1467,TRUE,12/4/2019,4,Spirit Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,63,1065,TRUE,12/5/2019,5,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,117,1065,TRUE,12/6/2019,6,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,54,1467,TRUE,12/7/2019,7,Spirit Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,85,833,FALSE,12/8/2019,8,American Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,143,1467,TRUE,12/8/2019,9,Spirit Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,53,1065,TRUE,12/9/2019,10,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,52,1793,TRUE,12/10/2019,11,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,55,1467,TRUE,12/11/2019,12,Spirit Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,68,1065,TRUE,12/12/2019,13,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,118,1065,TRUE,12/13/2019,14,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,55,1467,TRUE,12/14/2019,15,Spirit Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,52,1065,TRUE,12/15/2019,16,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,53,1065,TRUE,12/16/2019,17,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,54,1467,TRUE,12/17/2019,18,Spirit Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,56,1467,TRUE,12/18/2019,19,Spirit Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,239,1065,TRUE,12/19/2019,20,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,238,1065,TRUE,12/20/2019,21,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,211,1793,TRUE,12/21/2019,22,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,149,1793,TRUE,12/22/2019,23,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,149,1793,TRUE,12/23/2019,24,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,148,1793,TRUE,12/24/2019,25,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,149,1793,TRUE,12/25/2019,26,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,239,1065,TRUE,12/26/2019,27,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,206,833,FALSE,12/27/2019,28,American Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,244,1065,TRUE,12/27/2019,29,Frontier Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,205,833,FALSE,12/28/2019,30,American Airlines
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,309,1793,TRUE,12/28/2019,31,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,211,1793,TRUE,12/29/2019,32,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,148,1793,TRUE,12/30/2019,33,United
+Houston,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,58440,148,1793,TRUE,12/31/2019,34,United
+Houston,68768,Milan,Milan Malpensa,MXP,Italy,58440,320,870,FALSE,12/6/2019,1,jetBlue
+Houston,68768,Milan,Milan Malpensa,MXP,Italy,58440,351,1467,FALSE,12/12/2019,2,Spirit Airlines
+Houston,68768,Milan,Milan Malpensa,MXP,Italy,58440,366,1467,FALSE,12/14/2019,3,Spirit Airlines
+Houston,68768,Milan,Milan Malpensa,MXP,Italy,58440,1174,1755,FALSE,12/20/2019,4,Turkish Airlines
+Houston,68768,Milan,Milan Malpensa,MXP,Italy,58440,864,1368,FALSE,12/24/2019,5,Lufthansa
+Houston,68768,Milan,Milan Malpensa,MXP,Italy,58440,726,1035,FALSE,12/26/2019,6,Emirates
+Houston,68768,Milan,Milan Malpensa,MXP,Italy,58440,597,1713,FALSE,12/27/2019,7,Singapore Airlines
+Houston,68768,Milan,Milan Malpensa,MXP,Italy,58440,848,881,FALSE,12/31/2019,8,British Airways
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,199,1793,TRUE,12/1/2019,1,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,155,1793,TRUE,12/2/2019,2,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,141,1793,TRUE,12/3/2019,3,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,65,833,TRUE,12/4/2019,4,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,65,833,TRUE,12/5/2019,5,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,66,833,TRUE,12/6/2019,6,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,65,833,TRUE,12/7/2019,7,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,130,1467,TRUE,12/8/2019,8,Spirit Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,95,833,TRUE,12/9/2019,9,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,87,1793,TRUE,12/10/2019,10,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,65,833,TRUE,12/11/2019,11,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,96,833,TRUE,12/12/2019,12,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,95,833,TRUE,12/13/2019,13,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,141,1467,TRUE,12/14/2019,14,Spirit Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,112,1065,FALSE,12/15/2019,15,Frontier Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,131,1467,TRUE,12/15/2019,16,Spirit Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,130,1467,TRUE,12/16/2019,17,Spirit Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,94,1467,TRUE,12/17/2019,18,Spirit Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,94,1467,TRUE,12/18/2019,19,Spirit Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,144,833,TRUE,12/19/2019,20,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,199,1793,TRUE,12/20/2019,21,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,199,1793,TRUE,12/21/2019,22,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,144,1793,TRUE,12/22/2019,23,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,143,833,TRUE,12/23/2019,24,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,143,833,TRUE,12/24/2019,25,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,143,833,TRUE,12/25/2019,26,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,199,1793,TRUE,12/26/2019,27,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,199,1793,TRUE,12/27/2019,28,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,199,833,TRUE,12/28/2019,29,American Airlines
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,265,1793,TRUE,12/29/2019,30,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,144,1793,TRUE,12/30/2019,31,United
+Houston,65368,Los Angeles,Los Angeles International,LAX,United States,58440,143,833,TRUE,12/31/2019,32,American Airlines
+Houston,63448,Osaka,Osaka Kansai International,KIX,Japan,58440,688,1065,FALSE,12/15/2019,1,Frontier Airlines
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,2985,881,FALSE,12/1/2019,1,British Airways
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,812,1755,FALSE,12/2/2019,2,Turkish Airlines
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,2995,838,FALSE,12/3/2019,3,Air France
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,2996,838,FALSE,12/10/2019,4,Air France
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,2996,838,FALSE,12/13/2019,5,Air France
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,373,1467,FALSE,12/14/2019,6,Spirit Airlines
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,2996,838,FALSE,12/15/2019,7,Air France
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,400,1467,FALSE,12/18/2019,8,Spirit Airlines
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,3071,838,FALSE,12/19/2019,9,Air France
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,869,1707,FALSE,12/20/2019,10,SAS
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,802,1707,FALSE,12/21/2019,11,SAS
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,765,1713,FALSE,12/22/2019,12,Singapore Airlines
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,2996,838,FALSE,12/23/2019,13,Air France
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,628,870,FALSE,12/24/2019,14,jetBlue
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,583,870,FALSE,12/25/2019,15,jetBlue
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,579,870,FALSE,12/26/2019,16,jetBlue
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,579,870,FALSE,12/27/2019,17,jetBlue
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,613,857,FALSE,12/28/2019,18,Finnair
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,646,1907,FALSE,12/30/2019,19,WestJet
+Houston,84892,Berlin,Berlin Tegel,TXL,Germany,58440,596,1218,FALSE,12/31/2019,20,Iberia
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,824,1618,FALSE,12/1/2019,1,Qatar Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,703,1618,FALSE,12/3/2019,2,Qatar Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,641,1218,FALSE,12/4/2019,3,Iberia
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,890,1755,FALSE,12/14/2019,4,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,967,1755,FALSE,12/16/2019,5,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1082,1482,FALSE,12/19/2019,6,Air New Zealand
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1072,1324,FALSE,12/20/2019,7,KLM
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1374,1755,FALSE,12/21/2019,8,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,647,881,FALSE,12/24/2019,9,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,648,881,FALSE,12/25/2019,10,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,648,881,FALSE,12/28/2019,11,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,824,1618,FALSE,12/1/2019,1,Qatar Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,703,1618,FALSE,12/3/2019,2,Qatar Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,641,1218,FALSE,12/4/2019,3,Iberia
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,890,1755,FALSE,12/14/2019,4,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,967,1755,FALSE,12/16/2019,5,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1082,1482,FALSE,12/19/2019,6,Air New Zealand
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1072,1324,FALSE,12/20/2019,7,KLM
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1374,1755,FALSE,12/21/2019,8,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,647,881,FALSE,12/24/2019,9,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,648,881,FALSE,12/25/2019,10,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,648,881,FALSE,12/28/2019,11,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,824,1618,FALSE,12/1/2019,1,Qatar Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,703,1618,FALSE,12/3/2019,2,Qatar Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,641,1218,FALSE,12/4/2019,3,Iberia
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,890,1755,FALSE,12/14/2019,4,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,967,1755,FALSE,12/16/2019,5,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1082,1482,FALSE,12/19/2019,6,Air New Zealand
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1072,1324,FALSE,12/20/2019,7,KLM
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1374,1755,FALSE,12/21/2019,8,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,647,881,FALSE,12/24/2019,9,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,648,881,FALSE,12/25/2019,10,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,648,881,FALSE,12/28/2019,11,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,824,1618,FALSE,12/1/2019,1,Qatar Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,703,1618,FALSE,12/3/2019,2,Qatar Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,641,1218,FALSE,12/4/2019,3,Iberia
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,890,1755,FALSE,12/14/2019,4,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,967,1755,FALSE,12/16/2019,5,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1082,1482,FALSE,12/19/2019,6,Air New Zealand
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1072,1324,FALSE,12/20/2019,7,KLM
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,1374,1755,FALSE,12/21/2019,8,Turkish Airlines
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,647,881,FALSE,12/24/2019,9,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,648,881,FALSE,12/25/2019,10,British Airways
+Houston,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,58440,648,881,FALSE,12/28/2019,11,British Airways
+Houston,88485,Venice,Venice Marco Polo,VCE,Italy,58440,302,870,FALSE,12/10/2019,1,jetBlue
+Houston,88485,Venice,Venice Marco Polo,VCE,Italy,58440,1711,881,FALSE,12/11/2019,2,British Airways
+Houston,88485,Venice,Venice Marco Polo,VCE,Italy,58440,336,1467,FALSE,12/12/2019,3,Spirit Airlines
+Houston,88485,Venice,Venice Marco Polo,VCE,Italy,58440,337,1467,FALSE,12/15/2019,4,Spirit Airlines
+Houston,88485,Venice,Venice Marco Polo,VCE,Italy,58440,3327,1384,FALSE,12/18/2019,5,SWISS
+Houston,88485,Venice,Venice Marco Polo,VCE,Italy,58440,825,870,FALSE,12/19/2019,6,jetBlue
+Houston,88485,Venice,Venice Marco Polo,VCE,Italy,58440,947,1755,FALSE,12/27/2019,7,Turkish Airlines
+Houston,88485,Venice,Venice Marco Polo,VCE,Italy,58440,863,1793,FALSE,12/29/2019,8,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,179,1793,TRUE,12/1/2019,1,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,184,1793,TRUE,12/2/2019,2,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,63,1065,TRUE,12/3/2019,3,Frontier Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,80,1467,TRUE,12/4/2019,4,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,55,1467,TRUE,12/5/2019,5,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,80,1467,TRUE,12/6/2019,6,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,59,1467,TRUE,12/7/2019,7,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,60,833,FALSE,12/8/2019,8,American Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,79,1467,TRUE,12/8/2019,9,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,56,1467,TRUE,12/9/2019,10,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,57,1065,TRUE,12/10/2019,11,Frontier Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,59,1467,TRUE,12/11/2019,12,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,60,1467,TRUE,12/12/2019,13,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,80,1467,TRUE,12/13/2019,14,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,80,1467,TRUE,12/14/2019,15,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,79,1467,TRUE,12/15/2019,16,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,59,1467,TRUE,12/16/2019,17,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,55,1467,TRUE,12/17/2019,18,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,79,1467,TRUE,12/18/2019,19,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,254,1793,TRUE,12/19/2019,20,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,339,1793,TRUE,12/20/2019,21,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,399,1467,TRUE,12/21/2019,22,Spirit Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,205,1065,TRUE,12/22/2019,23,Frontier Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,194,1793,TRUE,12/23/2019,24,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,124,1793,TRUE,12/24/2019,25,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,194,988,FALSE,12/25/2019,26,Delta
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,221,1793,TRUE,12/25/2019,27,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,229,1065,TRUE,12/26/2019,28,Frontier Airlines
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,236,988,FALSE,12/27/2019,29,Delta
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,310,1793,TRUE,12/27/2019,30,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,245,988,FALSE,12/28/2019,31,Delta
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,256,1793,TRUE,12/28/2019,32,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,159,1793,TRUE,12/29/2019,33,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,124,1793,TRUE,12/30/2019,34,United
+Houston,67759,Orlando,Orlando International,MCO,United States,58440,124,1793,TRUE,12/31/2019,35,United
+Houston,88879,Moscow,Moscow Vnukovo,VKO,Russia,58440,664,1713,FALSE,12/7/2019,1,Singapore Airlines
+Houston,88879,Moscow,Moscow Vnukovo,VKO,Russia,58440,419,1467,FALSE,12/12/2019,2,Spirit Airlines
+Houston,88879,Moscow,Moscow Vnukovo,VKO,Russia,58440,458,1467,FALSE,12/15/2019,3,Spirit Airlines
+Houston,88879,Moscow,Moscow Vnukovo,VKO,Russia,58440,412,1467,FALSE,12/16/2019,4,Spirit Airlines
+Houston,88879,Moscow,Moscow Vnukovo,VKO,Russia,58440,1159,1755,FALSE,12/20/2019,5,Turkish Airlines
+Houston,88879,Moscow,Moscow Vnukovo,VKO,Russia,58440,663,1755,FALSE,12/22/2019,6,Turkish Airlines
+Houston,88879,Moscow,Moscow Vnukovo,VKO,Russia,58440,914,1755,FALSE,12/26/2019,7,Turkish Airlines
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,581,835,FALSE,12/1/2019,1,Air Canada
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,658,929,TRUE,12/1/2019,2,Air China
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,552,898,FALSE,12/2/2019,3,EVA Air
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,653,929,TRUE,12/2/2019,4,Air China
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,1214,1618,FALSE,12/4/2019,5,Qatar Airways
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,2016,1618,FALSE,12/17/2019,6,Qatar Airways
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,780,851,FALSE,12/23/2019,7,Alaska Airlines
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,1328,929,TRUE,12/23/2019,8,Air China
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,704,1606,FALSE,12/25/2019,9,Qantas
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,851,929,TRUE,12/25/2019,10,Air China
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,670,851,FALSE,12/26/2019,11,Alaska Airlines
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,538,1907,FALSE,12/27/2019,12,WestJet
+Houston,74763,Beijing,Beijing Capital,PEK,China,58440,857,929,TRUE,12/27/2019,13,Air China
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,200,223,FALSE,12/1/2019,1,Interjet
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,306,1482,TRUE,12/1/2019,2,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,287,988,FALSE,12/2/2019,3,Delta
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,350,1793,TRUE,12/2/2019,4,United
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,157,988,FALSE,12/3/2019,5,Delta
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,154,1658,FALSE,12/5/2019,6,Royal Jordanian
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,378,1482,TRUE,12/5/2019,7,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,154,1606,FALSE,12/12/2019,8,Qantas
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,378,1482,TRUE,12/12/2019,9,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,153,1606,FALSE,12/15/2019,10,Qantas
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,375,1482,TRUE,12/15/2019,11,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,163,988,FALSE,12/16/2019,12,Delta
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,154,1606,FALSE,12/17/2019,13,Qantas
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,378,1482,TRUE,12/17/2019,14,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,163,988,FALSE,12/18/2019,15,Delta
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,155,952,FALSE,12/19/2019,16,Cathay Pacific
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,352,1793,TRUE,12/19/2019,17,United
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,273,1907,FALSE,12/20/2019,18,WestJet
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,375,1482,TRUE,12/20/2019,19,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,339,1793,FALSE,12/21/2019,20,United
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,351,1793,TRUE,12/21/2019,21,United
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,156,952,FALSE,12/22/2019,22,Cathay Pacific
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,350,1793,TRUE,12/22/2019,23,United
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,153,1658,FALSE,12/23/2019,24,Royal Jordanian
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,360,1793,TRUE,12/23/2019,25,United
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,157,833,FALSE,12/24/2019,26,American Airlines
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,410,1907,FALSE,12/25/2019,27,WestJet
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,155,952,FALSE,12/26/2019,28,Cathay Pacific
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,375,1482,TRUE,12/26/2019,29,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,155,1658,FALSE,12/27/2019,30,Royal Jordanian
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,375,1482,TRUE,12/27/2019,31,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,155,952,FALSE,12/28/2019,32,Cathay Pacific
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,375,1482,TRUE,12/28/2019,33,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,155,952,FALSE,12/30/2019,34,Cathay Pacific
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,375,1482,TRUE,12/30/2019,35,Air New Zealand
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,156,952,FALSE,12/31/2019,36,Cathay Pacific
+Houston,96474,Toronto,Toronto Pearson International,YYZ,Canada,58440,363,1793,TRUE,12/31/2019,37,United
+Houston,56138,Hannover,Hannover,HAJ,Germany,58440,823,1713,FALSE,12/21/2019,1,Singapore Airlines
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,931,1793,TRUE,12/1/2019,1,United
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1448,1482,FALSE,12/3/2019,2,Air New Zealand
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1654,1793,TRUE,12/3/2019,3,United
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,614,1467,FALSE,12/11/2019,4,Spirit Airlines
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1184,1793,TRUE,12/11/2019,5,United
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1210,1482,FALSE,12/13/2019,6,Air New Zealand
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1561,1793,TRUE,12/13/2019,7,United
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1289,1429,FALSE,12/19/2019,8,China Eastern
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1660,1368,TRUE,12/19/2019,9,Lufthansa
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1111,929,FALSE,12/21/2019,10,Air China
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1374,1368,TRUE,12/21/2019,11,Lufthansa
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1150,1713,FALSE,12/22/2019,12,Singapore Airlines
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,2469,1368,TRUE,12/22/2019,13,Lufthansa
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1767,1482,FALSE,12/24/2019,14,Air New Zealand
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1008,898,FALSE,12/27/2019,15,EVA Air
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1224,1793,TRUE,12/27/2019,16,United
+Houston,82628,Sydney,Sydney,SYD,Australia,58440,1946,1276,FALSE,12/28/2019,17,Japan Airlines
+Houston,86479,Quito,Quito,UIO,Ecuador,58440,962,1793,TRUE,12/8/2019,1,United
+Houston,86479,Quito,Quito,UIO,Ecuador,58440,326,1467,FALSE,12/9/2019,2,Spirit Airlines
+Houston,86479,Quito,Quito,UIO,Ecuador,58440,346,1467,FALSE,12/15/2019,3,Spirit Airlines
+Houston,86479,Quito,Quito,UIO,Ecuador,58440,474,1467,FALSE,12/18/2019,4,Spirit Airlines
+Houston,86479,Quito,Quito,UIO,Ecuador,58440,1109,1793,TRUE,12/18/2019,5,United
+Houston,65634,Long Beach,Long Beach Municipal,LGB,United States,58440,568,1907,FALSE,12/1/2019,1,WestJet
+Houston,65634,Long Beach,Long Beach Municipal,LGB,United States,58440,353,851,FALSE,12/5/2019,2,Alaska Airlines
+Houston,65634,Long Beach,Long Beach Municipal,LGB,United States,58440,442,870,FALSE,12/26/2019,3,jetBlue
+Houston,45336,Copenhagen,Copenhagen,CPH,Denmark,58440,347,870,FALSE,12/7/2019,1,jetBlue
+Houston,45336,Copenhagen,Copenhagen,CPH,Denmark,58440,849,1755,FALSE,12/15/2019,2,Turkish Airlines
+Houston,45336,Copenhagen,Copenhagen,CPH,Denmark,58440,849,1755,FALSE,12/17/2019,3,Turkish Airlines
+Houston,45336,Copenhagen,Copenhagen,CPH,Denmark,58440,909,1467,FALSE,12/21/2019,4,Spirit Airlines
+Houston,45336,Copenhagen,Copenhagen,CPH,Denmark,58440,767,1713,FALSE,12/22/2019,5,Singapore Airlines
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,700,1482,FALSE,12/1/2019,1,Air New Zealand
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,821,1793,FALSE,12/7/2019,2,United
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,922,1793,FALSE,12/8/2019,3,United
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,588,1467,FALSE,12/10/2019,4,Spirit Airlines
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,517,1467,FALSE,12/11/2019,5,Spirit Airlines
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,1498,1793,FALSE,12/17/2019,6,United
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,868,1467,FALSE,12/18/2019,7,Spirit Airlines
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,1205,952,FALSE,12/19/2019,8,Cathay Pacific
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,1384,954,FALSE,12/20/2019,9,China Southern
+Houston,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,58440,1177,1793,FALSE,12/29/2019,10,United
+Houston,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,58440,2372,838,FALSE,12/12/2019,1,Air France
+Houston,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,58440,465,1467,FALSE,12/15/2019,2,Spirit Airlines
+Houston,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,58440,647,1467,FALSE,12/18/2019,3,Spirit Airlines
+Houston,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,58440,825,870,FALSE,12/20/2019,4,jetBlue
+Houston,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,58440,882,1713,FALSE,12/24/2019,5,Singapore Airlines
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,2917,988,FALSE,12/8/2019,1,Delta
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,2916,988,FALSE,12/16/2019,2,Delta
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,1301,1755,FALSE,12/21/2019,3,Turkish Airlines
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,631,881,FALSE,12/22/2019,4,British Airways
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,574,1842,FALSE,12/24/2019,5,Viva Aerobus
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,2917,988,FALSE,12/26/2019,6,Delta
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,2917,988,FALSE,12/27/2019,7,Delta
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,2918,988,FALSE,12/29/2019,8,Delta
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,2918,988,FALSE,12/30/2019,9,Delta
+Houston,43141,Brussels,Brussels International,BRU,Belgium,58440,2936,988,FALSE,12/31/2019,10,Delta
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,926,1618,FALSE,12/1/2019,1,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1097,1482,TRUE,12/1/2019,2,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,907,1618,FALSE,12/2/2019,3,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1216,1793,TRUE,12/2/2019,4,United
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,906,1618,FALSE,12/3/2019,5,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,907,1618,FALSE,12/5/2019,6,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,779,1324,FALSE,12/6/2019,7,KLM
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1096,1482,TRUE,12/6/2019,8,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,869,1618,FALSE,12/9/2019,9,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1059,1482,TRUE,12/9/2019,10,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,863,1618,FALSE,12/10/2019,11,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1042,1482,TRUE,12/10/2019,12,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1089,1467,FALSE,12/12/2019,13,Spirit Airlines
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1556,1482,TRUE,12/12/2019,14,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1306,952,FALSE,12/13/2019,15,Cathay Pacific
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1613,1482,TRUE,12/13/2019,16,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1148,1482,TRUE,12/14/2019,17,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1004,1324,FALSE,12/15/2019,18,KLM
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1148,1482,TRUE,12/15/2019,19,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1009,1324,FALSE,12/16/2019,20,KLM
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1567,1482,TRUE,12/16/2019,21,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1955,1618,FALSE,12/17/2019,22,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1356,1467,FALSE,12/18/2019,23,Spirit Airlines
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1914,1793,TRUE,12/18/2019,24,United
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1635,1035,FALSE,12/19/2019,25,Emirates
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1751,1482,TRUE,12/19/2019,26,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1435,857,FALSE,12/20/2019,27,Finnair
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,2425,1482,TRUE,12/20/2019,28,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1579,1035,FALSE,12/21/2019,29,Emirates
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1818,1482,TRUE,12/21/2019,30,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1209,1713,FALSE,12/22/2019,31,Singapore Airlines
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1624,1482,TRUE,12/22/2019,32,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1305,952,FALSE,12/23/2019,33,Cathay Pacific
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1556,1482,TRUE,12/23/2019,34,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1064,1618,FALSE,12/24/2019,35,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1006,1618,FALSE,12/25/2019,36,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1065,1618,FALSE,12/26/2019,37,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,974,1618,FALSE,12/27/2019,38,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,925,1618,FALSE,12/28/2019,39,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1612,1482,TRUE,12/28/2019,40,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,925,1618,FALSE,12/29/2019,41,Qatar Airways
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,1612,1482,TRUE,12/29/2019,42,Air New Zealand
+Houston,40492,Auckland,Auckland International,AKL,New Zealand,58440,907,1618,FALSE,12/31/2019,43,Qatar Airways
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/1/2019,1,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/2/2019,2,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/3/2019,3,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/4/2019,4,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/5/2019,5,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/6/2019,6,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/7/2019,7,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/8/2019,8,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/9/2019,9,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,176,1793,TRUE,12/10/2019,10,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/11/2019,11,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/12/2019,12,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,179,1793,TRUE,12/13/2019,13,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/14/2019,14,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/15/2019,15,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,178,1793,TRUE,12/16/2019,16,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/17/2019,17,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/18/2019,18,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,211,835,FALSE,12/19/2019,19,Air Canada
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,455,1793,TRUE,12/19/2019,20,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,340,954,FALSE,12/20/2019,21,China Southern
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,452,1793,TRUE,12/20/2019,22,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,384,1907,FALSE,12/21/2019,23,WestJet
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,452,1793,TRUE,12/21/2019,24,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,203,1907,FALSE,12/22/2019,25,WestJet
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,273,1793,TRUE,12/22/2019,26,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,202,1907,FALSE,12/23/2019,27,WestJet
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,273,1793,TRUE,12/23/2019,28,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,178,1793,TRUE,12/24/2019,29,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,175,1793,TRUE,12/25/2019,30,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,204,1907,FALSE,12/26/2019,31,WestJet
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,436,1793,TRUE,12/26/2019,32,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,275,1907,FALSE,12/27/2019,33,WestJet
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,440,1793,TRUE,12/27/2019,34,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,308,835,FALSE,12/28/2019,35,Air Canada
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,467,854,TRUE,12/28/2019,36,Avianca (Scheduled)
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,279,1793,FALSE,12/29/2019,37,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,452,1793,TRUE,12/29/2019,38,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,179,1793,FALSE,12/30/2019,39,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,438,1793,TRUE,12/30/2019,40,United
+Houston,96322,Vancouver,Vancouver International,YVR,Canada,58440,176,1793,TRUE,12/31/2019,41,United
+Houston,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,58440,592,1618,FALSE,12/10/2019,1,Qatar Airways
+Houston,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,58440,756,1464,FALSE,12/18/2019,2,ANA
+Houston,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,58440,611,1713,FALSE,12/22/2019,3,Singapore Airlines
+Houston,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,58440,561,898,FALSE,12/29/2019,4,EVA Air
+Houston,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,58440,531,898,FALSE,12/30/2019,5,EVA Air
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,355,1467,FALSE,12/5/2019,1,Spirit Airlines
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,2968,1793,TRUE,12/5/2019,2,United
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,336,870,FALSE,12/10/2019,3,jetBlue
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,2972,1793,TRUE,12/10/2019,4,United
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,2990,1368,TRUE,12/12/2019,5,Lufthansa
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,476,1467,FALSE,12/18/2019,6,Spirit Airlines
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,1279,1482,TRUE,12/18/2019,7,Air New Zealand
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,748,1713,FALSE,12/19/2019,8,Singapore Airlines
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,1303,1482,TRUE,12/19/2019,9,Air New Zealand
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,818,870,FALSE,12/20/2019,10,jetBlue
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,821,1523,FALSE,12/21/2019,11,Austrian Airlines
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,1421,1482,TRUE,12/21/2019,12,Air New Zealand
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,757,881,FALSE,12/22/2019,13,British Airways
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,1421,1482,TRUE,12/22/2019,14,Air New Zealand
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,534,1713,FALSE,12/25/2019,15,Singapore Airlines
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,796,1482,TRUE,12/25/2019,16,Air New Zealand
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,537,1713,FALSE,12/27/2019,17,Singapore Airlines
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,872,1482,TRUE,12/27/2019,18,Air New Zealand
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,791,981,FALSE,12/28/2019,19,Condor
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,2972,1793,TRUE,12/28/2019,20,United
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,789,981,FALSE,12/30/2019,21,Condor
+Houston,52337,Frankfurt,Frankfurt am Main,FRA,Germany,58440,2971,1793,TRUE,12/30/2019,22,United
+Houston,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,58440,2393,857,FALSE,12/7/2019,1,Finnair
+Houston,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,58440,2402,857,FALSE,12/12/2019,2,Finnair
+Houston,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,58440,991,1755,FALSE,12/16/2019,3,Turkish Airlines
+Houston,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,58440,1802,929,FALSE,12/18/2019,4,Air China
+Houston,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,58440,1239,1755,FALSE,12/20/2019,5,Turkish Airlines
+Houston,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,58440,2474,857,FALSE,12/21/2019,6,Finnair
+Houston,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,58440,2401,857,FALSE,12/28/2019,7,Finnair
+Houston,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,58440,2393,857,FALSE,12/30/2019,8,Finnair
+Houston,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,58440,2401,857,FALSE,12/31/2019,9,Finnair
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,923,835,FALSE,12/21/2019,1,Air Canada
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,2653,836,TRUE,12/21/2019,2,Azul Airlines
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,803,854,FALSE,12/25/2019,3,Avianca (Scheduled)
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,3198,1793,TRUE,12/25/2019,4,United
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,803,854,FALSE,12/26/2019,5,Avianca (Scheduled)
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,3196,1793,TRUE,12/26/2019,6,United
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,720,941,FALSE,12/27/2019,7,Copa
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,2634,836,TRUE,12/27/2019,8,Azul Airlines
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,592,223,FALSE,12/28/2019,9,Interjet
+Houston,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,58440,2634,836,TRUE,12/28/2019,10,Azul Airlines
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,657,1467,FALSE,12/4/2019,1,Spirit Airlines
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,2367,1793,TRUE,12/4/2019,2,United
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,762,223,FALSE,12/11/2019,3,Interjet
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,542,223,FALSE,12/14/2019,4,Interjet
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,828,854,FALSE,12/17/2019,5,Avianca (Scheduled)
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,2367,1793,TRUE,12/17/2019,6,United
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,872,854,FALSE,12/20/2019,7,Avianca (Scheduled)
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,2366,1793,TRUE,12/20/2019,8,United
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,2367,988,FALSE,12/21/2019,9,Delta
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,757,835,FALSE,12/24/2019,10,Air Canada
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,813,1793,FALSE,12/25/2019,11,United
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,2368,1793,TRUE,12/25/2019,12,United
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,531,854,FALSE,12/27/2019,13,Avianca (Scheduled)
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,2367,1793,TRUE,12/27/2019,14,United
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,519,854,FALSE,12/28/2019,15,Avianca (Scheduled)
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,991,929,FALSE,12/29/2019,16,Air China
+Houston,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,58440,2370,1793,TRUE,12/29/2019,17,United
+Houston,40065,Albuquerque,Albuquerque,ABQ,United States,58440,203,1793,TRUE,12/2/2019,1,United
+Houston,40065,Albuquerque,Albuquerque,ABQ,United States,58440,142,1065,FALSE,12/12/2019,2,Frontier Airlines
+Houston,40065,Albuquerque,Albuquerque,ABQ,United States,58440,239,1793,TRUE,12/12/2019,3,United
+Houston,40065,Albuquerque,Albuquerque,ABQ,United States,58440,125,1065,FALSE,12/14/2019,4,Frontier Airlines
+Houston,40065,Albuquerque,Albuquerque,ABQ,United States,58440,529,851,FALSE,12/22/2019,5,Alaska Airlines
+Houston,40065,Albuquerque,Albuquerque,ABQ,United States,58440,203,1793,TRUE,12/23/2019,6,United
+Houston,40065,Albuquerque,Albuquerque,ABQ,United States,58440,205,1793,TRUE,12/25/2019,7,United
+Houston,40065,Albuquerque,Albuquerque,ABQ,United States,58440,334,1793,TRUE,12/26/2019,8,United
+Houston,40065,Albuquerque,Albuquerque,ABQ,United States,58440,353,210,FALSE,12/31/2019,9,Boutique Air
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,276,223,FALSE,12/1/2019,1,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,255,1907,FALSE,12/2/2019,2,WestJet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,211,223,FALSE,12/3/2019,3,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,371,1793,TRUE,12/3/2019,4,United
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,214,223,FALSE,12/4/2019,5,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,216,223,FALSE,12/5/2019,6,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,208,223,FALSE,12/6/2019,7,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,163,833,FALSE,12/7/2019,8,American Airlines
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,163,988,FALSE,12/8/2019,9,Delta
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,216,1793,TRUE,12/9/2019,10,United
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,162,988,FALSE,12/10/2019,11,Delta
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,231,223,FALSE,12/11/2019,12,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,183,223,FALSE,12/12/2019,13,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,286,223,FALSE,12/13/2019,14,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,303,223,FALSE,12/14/2019,15,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,223,223,FALSE,12/15/2019,16,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,162,988,FALSE,12/16/2019,17,Delta
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,276,223,FALSE,12/17/2019,18,Interjet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,162,988,FALSE,12/18/2019,19,Delta
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,278,988,FALSE,12/20/2019,20,Delta
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,442,1907,FALSE,12/21/2019,21,WestJet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,381,988,FALSE,12/22/2019,22,Delta
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,417,1907,FALSE,12/24/2019,23,WestJet
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,407,1793,FALSE,12/26/2019,24,United
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,421,1793,TRUE,12/26/2019,25,United
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,322,1606,FALSE,12/27/2019,26,Qantas
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,291,988,FALSE,12/29/2019,27,Delta
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,306,1793,FALSE,12/30/2019,28,United
+Houston,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,58440,368,1793,TRUE,12/30/2019,29,United
+Houston,75572,Providence,Providence,PVD,United States,58440,647,870,FALSE,12/2/2019,1,jetBlue
+Houston,75572,Providence,Providence,PVD,United States,58440,281,870,FALSE,12/10/2019,2,jetBlue
+Houston,75572,Providence,Providence,PVD,United States,58440,132,1467,FALSE,12/11/2019,3,Spirit Airlines
+Houston,75572,Providence,Providence,PVD,United States,58440,468,870,FALSE,12/18/2019,4,jetBlue
+Houston,75572,Providence,Providence,PVD,United States,58440,182,1793,FALSE,12/23/2019,5,United
+Houston,75572,Providence,Providence,PVD,United States,58440,830,870,FALSE,12/28/2019,6,jetBlue
+Houston,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,58440,694,838,FALSE,12/3/2019,1,Air France
+Houston,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,58440,695,838,FALSE,12/10/2019,2,Air France
+Houston,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,58440,699,838,FALSE,12/17/2019,3,Air France
+Houston,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,58440,3678,1324,FALSE,12/27/2019,4,KLM
+Houston,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,58440,695,838,FALSE,12/31/2019,5,Air France
+Houston,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,58440,629,954,FALSE,12/3/2019,1,China Southern
+Houston,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,58440,1412,898,FALSE,12/21/2019,2,EVA Air
+Houston,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,58440,589,881,FALSE,12/29/2019,3,British Airways
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,237,1793,TRUE,12/1/2019,1,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,184,1793,TRUE,12/2/2019,2,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,546,1793,TRUE,12/3/2019,3,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,385,1793,TRUE,12/4/2019,4,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,457,1065,FALSE,12/5/2019,5,Frontier Airlines
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,546,1793,TRUE,12/5/2019,6,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,160,1065,FALSE,12/7/2019,7,Frontier Airlines
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,217,1793,TRUE,12/7/2019,8,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,546,1793,TRUE,12/8/2019,9,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,182,1793,TRUE,12/9/2019,10,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,128,1793,TRUE,12/11/2019,11,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,184,1793,TRUE,12/12/2019,12,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,182,1793,TRUE,12/13/2019,13,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,217,1793,TRUE,12/14/2019,14,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,182,1793,TRUE,12/16/2019,15,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,171,988,FALSE,12/17/2019,16,Delta
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,182,1793,TRUE,12/17/2019,17,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,129,1793,TRUE,12/18/2019,18,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,172,988,FALSE,12/19/2019,19,Delta
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,184,1793,TRUE,12/19/2019,20,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,334,870,FALSE,12/20/2019,21,jetBlue
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,182,1793,TRUE,12/21/2019,22,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,184,1793,TRUE,12/22/2019,23,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,182,1793,TRUE,12/23/2019,24,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,182,1793,TRUE,12/24/2019,25,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,177,988,FALSE,12/25/2019,26,Delta
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,184,1793,TRUE,12/25/2019,27,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,200,1793,TRUE,12/26/2019,28,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,182,1793,TRUE,12/27/2019,29,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,182,1793,TRUE,12/29/2019,30,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,218,1793,TRUE,12/30/2019,31,United
+Houston,47009,Washington,Washington Ronald Reagan,DCA,United States,58440,307,870,FALSE,12/31/2019,32,jetBlue

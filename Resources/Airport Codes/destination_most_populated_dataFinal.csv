@@ -1,0 +1,68 @@
+City Name,Country Name,Airport Name,Airport Code
+Mumbai,India,Mumbai,BOM-sky
+Kolkata,India,Kolkata,CCU-sky
+Los Angeles,United States,Los Angeles,LAXA-sky
+Guangzhou,China,Guangzhou,CAN-sky
+Istanbul,Turkey,Istanbul,IST-sky
+Bogota,Colombia,Bogota,BOG-sky
+Taipei,Taiwan,Taipei,TPET-sky
+Bangalore,India,Bangalore,BLR-sky
+Hyderabad,India,Hyderabad,HDD-sky
+Riyadh,Saudi Arabia,Riyadh,RUH-sky
+Barcelona,Spain,Barcelona,BLA-sky
+Athens International,Greece,Athens International,ATH-sky
+Sydney,Australia,Sydney,SYD-sky
+Monterrey,Mexico,Monterrey Gen Mariano Escobedo,MTY-sky
+Luanda,Angola,Luanda,LAD-sky
+Hangzhou,China,Hangzhou,HGH-sky
+Montreal,Canada,Montreal,YMQA-sky
+Pyongyang,North Korea,Pyongyang,FNJ-sky
+Surat Thani,Thailand,Surat Thani,URT-sky
+Jaipur,India,Jaipur,JAI-sky
+Izmir,Turkey,Izmir,ADB-sky
+Changsha,China,Changsha,CSX-sky
+Frankfurt ,Germany,Frankfurt am Main,FRA-sky
+Nanchang,China,Nanchang,KHN-sky
+Birmingham,United Kingdom,Birmingham,BHM-sky
+Manchester,United Kingdom,Manchester,MHT-sky
+Dubai,United Arab Emirates,Dubai,DXB-sky
+Guiyang,China,Guiyang,KWE-sky
+Seoul ,South Korea,Seoul Incheon Int'l,ICN-sky
+Zhengzhou,China,Zhengzhou,CGO-sky
+Chaoyang,China,Chaoyang,CHG-sky
+Fuzhou,China,Fuzhou,FOC-sky
+Puebla,Mexico,Puebla,PBC-sky
+Puning,China,Puning,CDE-sky
+Nanchong,China,Nanchong,NAO-sky
+Urumqi,China,Urumqi,URC-sky
+Asuncion,Paraguay,Asuncion,ASU-sky
+Suzhou,China,Suzhou,SZV-sky
+Nanyang,China,Nanyang,NNY-sky
+Ningbo,China,Ningbo,NGB-sky
+Anshan,China,Anshan,AOG-sky
+Tripoli,Libya,Tripoli,TIP-sky
+Yangzhou Taizhou ,China,Yangzhou Taizhou Airport,YTY-sky
+Quito,Ecuador,Quito,UIO-sky
+Jinjiang,China,Jinjiang,JJN-sky
+Wuxi,China,Wuxi,WUX-sky
+Seville,Spain,Seville,SVQ-sky
+Bozoum,Central African Republic,Bozoum,BOZ-sky
+Zhanjiang,China,Zhanjiang,ZHA-sky
+Bursa,Turkey,Bursa,YEI-sky
+Sao Paulo ,Brazil,Sao Paulo Guarulhos,GRU-sky
+Adelaide,Australia,Adelaide,ADL-sky
+Amsterdam,Netherlands,Amsterdam,AMS-sky
+Dublin,Ireland,Dublin,DUB-sky
+Kita Kyushu,Japan,Kita Kyushu,KKJ-sky
+Chicago ,United States,Chicago O'Hare International,ORD-sky
+Merida,Mexico,Merida,MRD-sky
+Saratov,Russia,Saratov,RTW-sky
+Santiago,Dominican Republic,Santiago,SCLA-sky
+La Paz,Bolivia,La Paz,LAP-sky
+Santa Cruz,Bolivia,Santa Cruz,VVI-sky
+Port Harcourt,Nigeria,Port Harcourt,PHC-sky
+Singapore ,Singapore,Singapore Changi,SIN-sky
+Dallas,United States,Dallas Fort Worth International,DFW-sky
+Charlotte,United States,Charlotte Douglas,CLT-sky
+Stuttgart,Germany,Stuttgart,SGT-sky
+Malaga,Spain,Malaga,AGP-sky

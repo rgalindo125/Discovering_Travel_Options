@@ -1,0 +1,935 @@
+Departure City,City ID,City Name,Airport Name,Iata Code,Country Name,City ID Departure,Min Price,Airline ID,Non-Stop Flight,Departure Date,Quote ID,Airline Name
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,1070,988,False,12/7/2019,1,Delta
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,577,851,False,12/10/2019,2,Alaska Airlines
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,1634,1276,False,12/13/2019,3,Japan Airlines
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,1687,1276,False,12/14/2019,4,Japan Airlines
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,991,870,False,12/17/2019,5,jetBlue
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,841,1065,False,12/18/2019,6,Frontier Airlines
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,1047,952,False,12/19/2019,7,Cathay Pacific
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,1045,952,False,12/20/2019,8,Cathay Pacific
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,1668,833,False,12/21/2019,9,American Airlines
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,846,835,False,12/23/2019,10,Air Canada
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,692,835,False,12/27/2019,11,Air Canada
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,1630,1276,False,12/29/2019,12,Japan Airlines
+Atlanta,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,40924,1570,1276,False,12/30/2019,13,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,648,1755,False,12/1/2019,1,Turkish Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,737,1276,False,12/2/2019,2,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,555,1324,False,12/3/2019,3,KLM
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,737,1276,False,12/4/2019,4,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,651,870,False,12/5/2019,5,jetBlue
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,810,1276,False,12/6/2019,6,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,609,1467,False,12/8/2019,7,Spirit Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,781,1276,False,12/9/2019,8,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,781,1276,False,12/10/2019,9,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,943,1276,False,12/11/2019,10,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,952,1276,False,12/12/2019,11,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,839,988,False,12/13/2019,12,Delta
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,1671,1276,False,12/14/2019,13,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,935,988,False,12/15/2019,14,Delta
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,671,1065,False,12/16/2019,15,Frontier Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,812,1467,False,12/18/2019,16,Spirit Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,920,1317,False,12/19/2019,17,Korean Air
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,987,870,False,12/20/2019,18,jetBlue
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,981,1317,False,12/21/2019,19,Korean Air
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,1813,1276,False,12/22/2019,20,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,1603,1276,False,12/23/2019,21,Japan Airlines
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,768,988,False,12/24/2019,22,Delta
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,730,870,False,12/25/2019,23,jetBlue
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,755,1317,False,12/26/2019,24,Korean Air
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,792,1317,False,12/27/2019,25,Korean Air
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,809,1317,False,12/28/2019,26,Korean Air
+Atlanta,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,40924,853,851,False,12/31/2019,27,Alaska Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,358,1107,False,12/1/2019,1,GOL Linhas Aéreas
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,571,1218,True,12/1/2019,2,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,370,870,False,12/2/2019,3,jetBlue
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,564,857,True,12/2/2019,4,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,340,1523,False,12/3/2019,5,Austrian Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,568,1218,True,12/3/2019,6,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,294,1760,False,12/4/2019,7,TAP
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,564,857,True,12/4/2019,8,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,344,1467,False,12/7/2019,9,Spirit Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,2472,881,True,12/7/2019,10,British Airways
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,270,1467,False,12/8/2019,11,Spirit Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,567,857,True,12/8/2019,12,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,269,1902,False,12/9/2019,13,Southwest Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,567,857,True,12/9/2019,14,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,304,1755,False,12/10/2019,15,Turkish Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,568,1218,True,12/10/2019,16,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,338,1760,False,12/11/2019,17,TAP
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,568,1218,True,12/11/2019,18,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,912,1793,False,12/12/2019,19,United
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,2469,881,True,12/12/2019,20,British Airways
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,496,1760,False,12/13/2019,21,TAP
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,701,1218,True,12/13/2019,22,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,581,870,False,12/14/2019,23,jetBlue
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,883,881,True,12/14/2019,24,British Airways
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,388,1107,False,12/15/2019,25,GOL Linhas Aéreas
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,480,1218,True,12/15/2019,26,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,372,1523,False,12/16/2019,27,Austrian Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,480,857,True,12/16/2019,28,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,378,1467,False,12/17/2019,29,Spirit Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,2544,881,True,12/17/2019,30,British Airways
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,366,1467,False,12/18/2019,31,Spirit Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,2351,857,True,12/18/2019,32,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,594,1760,False,12/19/2019,33,TAP
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,1116,857,True,12/19/2019,34,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,637,870,False,12/20/2019,35,jetBlue
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,2374,857,True,12/20/2019,36,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,733,870,False,12/21/2019,37,jetBlue
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,2365,857,True,12/21/2019,38,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,495,1902,False,12/22/2019,39,Southwest Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,1179,857,True,12/22/2019,40,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,433,838,False,12/23/2019,41,Air France
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,1041,1218,True,12/23/2019,42,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,356,941,False,12/24/2019,43,Copa
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,2630,838,True,12/24/2019,44,Air France
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,356,941,False,12/25/2019,45,Copa
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,568,1218,True,12/25/2019,46,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,597,1368,False,12/26/2019,47,Lufthansa
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,705,1218,True,12/26/2019,48,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,421,941,False,12/27/2019,49,Copa
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,704,1218,True,12/27/2019,50,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,353,1755,False,12/28/2019,51,Turkish Airlines
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,628,1218,True,12/28/2019,52,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,356,1482,False,12/29/2019,53,Air New Zealand
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,645,1218,True,12/29/2019,54,Iberia
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,307,1482,False,12/30/2019,55,Air New Zealand
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,403,857,True,12/30/2019,56,Finnair
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,356,1482,False,12/31/2019,57,Air New Zealand
+Atlanta,65698,London,London Heathrow,LHR,United Kingdom,40924,568,1218,True,12/31/2019,58,Iberia
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,669,1618,False,12/2/2019,1,Qatar Airways
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,702,1618,False,12/5/2019,2,Qatar Airways
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,669,1713,False,12/6/2019,3,Singapore Airlines
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,669,1618,False,12/10/2019,4,Qatar Airways
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,1608,1618,False,12/13/2019,5,Qatar Airways
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,1193,1755,False,12/14/2019,6,Turkish Airlines
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,902,1902,False,12/18/2019,7,Southwest Airlines
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,1530,1618,False,12/19/2019,8,Qatar Airways
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,989,1416,False,12/22/2019,9,Malaysia Airlines
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,1394,1618,False,12/24/2019,10,Qatar Airways
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,815,954,False,12/25/2019,11,China Southern
+Atlanta,81870,Singapore,Singapore Changi,SIN,Singapore,40924,660,1713,False,12/28/2019,12,Singapore Airlines
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,833,870,False,12/1/2019,1,jetBlue
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,441,870,False,12/2/2019,2,jetBlue
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4074,1324,False,12/3/2019,3,KLM
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,521,1717,False,12/4/2019,4,Aeroflot
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,461,870,False,12/5/2019,5,jetBlue
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4077,988,False,12/6/2019,6,Delta
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,773,1707,False,12/8/2019,7,SAS
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4077,988,False,12/9/2019,8,Delta
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,485,870,False,12/10/2019,9,jetBlue
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4074,1324,False,12/11/2019,10,KLM
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4102,988,False,12/12/2019,11,Delta
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,551,1467,False,12/13/2019,12,Spirit Airlines
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,563,870,False,12/14/2019,13,jetBlue
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,2039,870,False,12/15/2019,14,jetBlue
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,652,1467,False,12/16/2019,15,Spirit Airlines
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,741,1065,False,12/17/2019,16,Frontier Airlines
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,760,1324,False,12/18/2019,17,KLM
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,762,1324,False,12/19/2019,18,KLM
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,980,1658,False,12/20/2019,19,Royal Jordanian
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4076,988,False,12/21/2019,20,Delta
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4077,988,False,12/22/2019,21,Delta
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,893,1658,False,12/23/2019,22,Royal Jordanian
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,827,952,False,12/24/2019,23,Cathay Pacific
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,823,870,False,12/25/2019,24,jetBlue
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,903,1618,False,12/26/2019,25,Qatar Airways
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4077,988,False,12/27/2019,26,Delta
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,828,1755,False,12/28/2019,27,Turkish Airlines
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,857,1618,False,12/29/2019,28,Qatar Airways
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4076,988,False,12/30/2019,29,Delta
+Atlanta,48018,Dubai,Dubai,DXB,United Arab Emirates,40924,4074,988,False,12/31/2019,30,Delta
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,385,1902,False,12/1/2019,1,Southwest Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1068,838,True,12/1/2019,2,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,272,1324,False,12/3/2019,3,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1034,1324,True,12/3/2019,4,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,277,1324,False,12/4/2019,5,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1035,838,True,12/4/2019,6,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,267,870,False,12/5/2019,7,jetBlue
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1095,838,True,12/5/2019,8,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,287,1467,False,12/6/2019,9,Spirit Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,277,1467,False,12/7/2019,10,Spirit Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1095,838,True,12/7/2019,11,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,566,83896,False,12/8/2019,12,flythomascook
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1068,838,True,12/8/2019,13,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,285,1065,False,12/9/2019,14,Frontier Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1035,838,True,12/9/2019,15,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,247,1467,False,12/11/2019,16,Spirit Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1068,838,True,12/11/2019,17,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,328,870,False,12/13/2019,18,jetBlue
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1176,1324,True,12/13/2019,19,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,273,1467,False,12/14/2019,20,Spirit Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1169,1324,True,12/14/2019,21,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,286,1467,False,12/15/2019,22,Spirit Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1105,838,True,12/15/2019,23,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,758,83896,False,12/16/2019,24,flythomascook
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1127,838,True,12/16/2019,25,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,320,1065,False,12/17/2019,26,Frontier Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,3434,838,True,12/17/2019,27,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,336,1467,False,12/18/2019,28,Spirit Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,3484,838,True,12/18/2019,29,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,524,1324,False,12/19/2019,30,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1390,838,True,12/19/2019,31,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,562,870,False,12/20/2019,32,jetBlue
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,3513,988,True,12/20/2019,33,Delta
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,618,1523,False,12/21/2019,34,Austrian Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1611,838,True,12/21/2019,35,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,511,1902,False,12/22/2019,36,Southwest Airlines
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1479,1324,True,12/22/2019,37,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,415,1324,False,12/24/2019,38,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1034,1324,True,12/24/2019,39,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,414,1324,False,12/25/2019,40,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,981,838,True,12/25/2019,41,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,609,83896,False,12/26/2019,42,flythomascook
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,717,838,True,12/26/2019,43,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,486,1324,False,12/27/2019,44,KLM
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,709,838,True,12/27/2019,45,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,442,881,False,12/28/2019,46,British Airways
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1095,838,True,12/28/2019,47,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,463,881,False,12/29/2019,48,British Airways
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1068,838,True,12/29/2019,49,Air France
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,422,857,False,12/31/2019,50,Finnair
+Atlanta,44759,Paris,Paris Charles de Gaulle,CDG,France,40924,1068,838,True,12/31/2019,51,Air France
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,307,833,False,12/1/2019,1,American Airlines
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,462,870,True,12/1/2019,2,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,129,870,True,12/2/2019,3,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,98,870,True,12/3/2019,4,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,98,870,True,12/4/2019,5,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,870,True,12/5/2019,6,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,98,988,True,12/6/2019,7,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,98,988,True,12/7/2019,8,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/8/2019,9,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/9/2019,10,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,870,True,12/10/2019,11,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,98,870,True,12/11/2019,12,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/12/2019,13,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/13/2019,14,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/14/2019,15,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/15/2019,16,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/16/2019,17,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,98,870,True,12/17/2019,18,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,98,870,True,12/18/2019,19,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/19/2019,20,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,139,988,True,12/20/2019,21,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,184,870,True,12/21/2019,22,jetBlue
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,107,833,False,12/22/2019,23,American Airlines
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,129,988,True,12/22/2019,24,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,107,833,False,12/23/2019,25,American Airlines
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,109,988,True,12/23/2019,26,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/24/2019,27,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,99,988,True,12/25/2019,28,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,179,988,True,12/26/2019,29,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,139,988,True,12/27/2019,30,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,139,988,True,12/28/2019,31,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,154,988,True,12/29/2019,32,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,119,988,True,12/30/2019,33,Delta
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,107,833,False,12/31/2019,34,American Airlines
+Atlanta,60987,New York,New York John F. Kennedy,JFK,United States,40924,109,988,True,12/31/2019,35,Delta
+Atlanta,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,40924,1680,1618,False,12/13/2019,1,Qatar Airways
+Atlanta,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,40924,1612,1618,False,12/17/2019,2,Qatar Airways
+Atlanta,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,40924,847,1416,False,12/18/2019,3,Malaysia Airlines
+Atlanta,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,40924,1161,1618,False,12/26/2019,4,Qatar Airways
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,784,1755,False,12/1/2019,1,Turkish Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,867,838,True,12/1/2019,2,Air France
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,867,838,True,12/2/2019,3,Air France
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,784,1755,False,12/3/2019,4,Turkish Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,784,1755,False,12/4/2019,5,Turkish Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,867,838,True,12/4/2019,6,Air France
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,299,1467,False,12/5/2019,7,Spirit Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,286,870,False,12/6/2019,8,jetBlue
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1005,858,True,12/6/2019,9,Alitalia
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,415,1760,False,12/7/2019,10,TAP
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1005,858,True,12/7/2019,11,Alitalia
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,295,1065,False,12/8/2019,12,Frontier Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,796,858,True,12/8/2019,13,Alitalia
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,325,870,False,12/9/2019,14,jetBlue
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,831,858,True,12/9/2019,15,Alitalia
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,784,1755,False,12/10/2019,16,Turkish Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,305,870,False,12/11/2019,17,jetBlue
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,579,838,True,12/11/2019,18,Air France
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,328,1467,False,12/12/2019,19,Spirit Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,329,1467,False,12/13/2019,20,Spirit Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1086,858,True,12/13/2019,21,Alitalia
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,818,1755,False,12/14/2019,22,Turkish Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1117,838,True,12/14/2019,23,Air France
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,448,1467,False,12/15/2019,24,Spirit Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,885,858,True,12/15/2019,25,Alitalia
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,917,838,True,12/16/2019,26,Air France
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,866,1755,False,12/17/2019,27,Turkish Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,509,870,False,12/18/2019,28,jetBlue
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1673,1324,True,12/18/2019,29,KLM
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,602,1760,False,12/19/2019,30,TAP
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1798,1324,True,12/19/2019,31,KLM
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,887,1707,False,12/20/2019,32,SAS
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1723,1324,True,12/20/2019,33,KLM
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1072,1755,False,12/21/2019,34,Turkish Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,3698,838,True,12/21/2019,35,Air France
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,685,1760,False,12/22/2019,36,TAP
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1704,1324,True,12/22/2019,37,KLM
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,500,881,False,12/23/2019,38,British Airways
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1572,858,True,12/23/2019,39,Alitalia
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,416,1902,False,12/24/2019,40,Southwest Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,434,1218,False,12/25/2019,41,Iberia
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,796,858,True,12/25/2019,42,Alitalia
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,538,1065,False,12/26/2019,43,Frontier Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1012,988,True,12/27/2019,44,Delta
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,818,1755,False,12/28/2019,45,Turkish Airlines
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,1046,838,True,12/28/2019,46,Air France
+Atlanta,51631,Rome,Rome Fiumicino,FCO,Italy,40924,784,1755,False,12/31/2019,47,Turkish Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,769,952,False,12/1/2019,1,Cathay Pacific
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,625,1065,False,12/3/2019,2,Frontier Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1075,988,True,12/3/2019,3,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,580,1467,False,12/4/2019,4,Spirit Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,740,1467,False,12/5/2019,5,Spirit Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,750,1467,False,12/11/2019,6,Spirit Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1154,1854,True,12/11/2019,7,Vietnam Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,871,1065,False,12/12/2019,8,Frontier Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1155,988,True,12/12/2019,9,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,878,835,False,12/13/2019,10,Air Canada
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1254,988,True,12/13/2019,11,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,873,870,False,12/15/2019,12,jetBlue
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,885,1065,False,12/16/2019,13,Frontier Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1317,988,True,12/16/2019,14,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,992,1467,False,12/17/2019,15,Spirit Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1243,988,True,12/17/2019,16,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,887,1065,False,12/18/2019,17,Frontier Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1382,988,True,12/18/2019,18,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1167,1755,False,12/19/2019,19,Turkish Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1243,988,True,12/19/2019,20,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1040,1755,False,12/20/2019,21,Turkish Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1113,870,False,12/21/2019,22,jetBlue
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,2069,988,True,12/21/2019,23,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,866,1902,False,12/22/2019,24,Southwest Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1342,988,True,12/22/2019,25,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,863,1065,False,12/23/2019,26,Frontier Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,885,870,False,12/24/2019,27,jetBlue
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1068,988,True,12/24/2019,28,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,833,851,False,12/25/2019,29,Alaska Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1017,988,True,12/25/2019,30,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,786,1065,False,12/26/2019,31,Frontier Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,848,1065,False,12/27/2019,32,Frontier Airlines
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,1116,988,True,12/27/2019,33,Delta
+Atlanta,70788,Tokyo,Tokyo Narita,NRT,Japan,40924,857,1902,False,12/29/2019,34,Southwest Airlines
+Atlanta,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,40924,677,1276,False,12/1/2019,1,Japan Airlines
+Atlanta,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,40924,693,1317,False,12/8/2019,2,Korean Air
+Atlanta,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,40924,821,1467,False,12/18/2019,3,Spirit Airlines
+Atlanta,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,40924,831,1464,False,12/19/2019,4,ANA
+Atlanta,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,40924,879,954,False,12/20/2019,5,China Southern
+Atlanta,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,40924,855,1317,False,12/23/2019,6,Korean Air
+Atlanta,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,40924,693,1317,False,12/28/2019,7,Korean Air
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,416,870,False,12/3/2019,1,jetBlue
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,1033,1755,True,12/3/2019,2,Turkish Airlines
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,445,870,False,12/12/2019,3,jetBlue
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,437,870,False,12/13/2019,4,jetBlue
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,1194,1755,True,12/13/2019,5,Turkish Airlines
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,438,1467,False,12/14/2019,6,Spirit Airlines
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,1089,1755,True,12/14/2019,7,Turkish Airlines
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,2368,1324,False,12/17/2019,8,KLM
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,690,870,False,12/19/2019,9,jetBlue
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,986,1760,False,12/20/2019,10,TAP
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,1243,1755,True,12/20/2019,11,Turkish Airlines
+Atlanta,59316,Istanbul,Istanbul,IST,Turkey,40924,2390,838,False,12/23/2019,12,Air France
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,808,1065,False,12/1/2019,1,Frontier Airlines
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1146,1317,True,12/1/2019,2,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,703,857,False,12/2/2019,3,Finnair
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1150,1317,True,12/2/2019,4,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,618,870,False,12/4/2019,5,jetBlue
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1143,1317,True,12/4/2019,6,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,657,870,False,12/5/2019,7,jetBlue
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1155,1317,True,12/5/2019,8,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1017,1755,False,12/6/2019,9,Turkish Airlines
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1182,988,True,12/6/2019,10,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,749,1324,False,12/8/2019,11,KLM
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1298,1317,True,12/8/2019,12,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,753,870,False,12/10/2019,13,jetBlue
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1299,1317,True,12/10/2019,14,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,753,870,False,12/11/2019,15,jetBlue
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1299,1317,True,12/11/2019,16,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1343,988,True,12/12/2019,17,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1024,1755,False,12/13/2019,18,Turkish Airlines
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1352,988,True,12/13/2019,19,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1024,1755,False,12/14/2019,20,Turkish Airlines
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1385,988,True,12/14/2019,21,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,970,1467,False,12/15/2019,22,Spirit Airlines
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1385,988,True,12/15/2019,23,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1376,988,True,12/16/2019,24,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,878,870,False,12/17/2019,25,jetBlue
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1329,1317,True,12/17/2019,26,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,877,870,False,12/18/2019,27,jetBlue
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1330,1317,True,12/18/2019,28,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1083,1065,False,12/19/2019,29,Frontier Airlines
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1385,988,True,12/19/2019,30,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1100,1755,False,12/20/2019,31,Turkish Airlines
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1376,988,True,12/20/2019,32,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,985,1755,False,12/25/2019,33,Turkish Airlines
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1343,988,True,12/25/2019,34,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1022,1755,False,12/27/2019,35,Turkish Airlines
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1342,988,True,12/27/2019,36,Delta
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,838,857,False,12/28/2019,37,Finnair
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1298,1317,True,12/28/2019,38,Korean Air
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1148,1618,False,12/30/2019,39,Qatar Airways
+Atlanta,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,40924,1342,988,True,12/30/2019,40,Delta
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,437,870,False,12/3/2019,1,jetBlue
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,481,870,False,12/8/2019,2,jetBlue
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,952,1429,True,12/8/2019,3,China Eastern
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,637,870,False,12/12/2019,4,jetBlue
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,1949,988,True,12/12/2019,5,Delta
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,626,870,False,12/13/2019,6,jetBlue
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,2005,1429,True,12/13/2019,7,China Eastern
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,603,870,False,12/14/2019,8,jetBlue
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,2013,988,True,12/14/2019,9,Delta
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,923,870,False,12/19/2019,10,jetBlue
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,1934,1429,True,12/19/2019,11,China Eastern
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,1089,1793,False,12/20/2019,12,United
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,2012,988,True,12/20/2019,13,Delta
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,509,870,False,12/25/2019,14,jetBlue
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,724,1189,False,12/26/2019,15,Hainan Airlines
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,889,1429,True,12/26/2019,16,China Eastern
+Atlanta,75575,Shanghai,Shanghai Pu Dong,PVG,China,40924,613,1189,False,12/29/2019,17,Hainan Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,272,1065,True,12/1/2019,1,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,174,1065,True,12/2/2019,2,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,90,1065,True,12/3/2019,3,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,90,1467,True,12/4/2019,4,Spirit Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,101,1065,True,12/5/2019,5,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,101,1065,True,12/6/2019,6,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,90,1467,True,12/7/2019,7,Spirit Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,100,1065,True,12/8/2019,8,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,100,1065,True,12/9/2019,9,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,90,1467,True,12/10/2019,10,Spirit Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,89,1467,True,12/11/2019,11,Spirit Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,101,1065,True,12/12/2019,12,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,106,1065,True,12/13/2019,13,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,90,1467,True,12/14/2019,14,Spirit Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,101,1065,True,12/15/2019,15,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,101,1065,True,12/16/2019,16,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,89,1467,True,12/17/2019,17,Spirit Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,89,1467,True,12/18/2019,18,Spirit Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,138,988,True,12/19/2019,19,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,272,1065,True,12/20/2019,20,Frontier Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,240,1793,False,12/21/2019,21,United
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,266,988,True,12/21/2019,22,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,166,833,False,12/22/2019,23,American Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,242,988,True,12/22/2019,24,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,166,833,False,12/23/2019,25,American Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,169,988,True,12/23/2019,26,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,122,1793,False,12/24/2019,27,United
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,231,988,True,12/24/2019,28,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,161,833,False,12/25/2019,29,American Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,231,988,True,12/25/2019,30,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,261,988,True,12/26/2019,31,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,241,1793,False,12/27/2019,32,United
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,246,988,True,12/27/2019,33,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,253,1902,False,12/28/2019,34,Southwest Airlines
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,256,988,True,12/28/2019,35,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,241,1793,False,12/29/2019,36,United
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,256,988,True,12/29/2019,37,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,178,988,True,12/30/2019,38,Delta
+Atlanta,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,40924,133,988,True,12/31/2019,39,Delta
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,363,1902,False,12/2/2019,1,Southwest Airlines
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,931,858,False,12/3/2019,2,Alitalia
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,306,870,False,12/4/2019,3,jetBlue
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,853,858,False,12/15/2019,4,Alitalia
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,853,858,False,12/16/2019,5,Alitalia
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,3576,858,False,12/17/2019,6,Alitalia
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,3629,858,False,12/18/2019,7,Alitalia
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,623,870,False,12/20/2019,8,jetBlue
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,458,870,False,12/23/2019,9,jetBlue
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,931,858,False,12/24/2019,10,Alitalia
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,452,870,False,12/25/2019,11,jetBlue
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,501,1324,False,12/27/2019,12,KLM
+Atlanta,68768,Milan,Milan Malpensa,MXP,Italy,40924,721,1035,False,12/30/2019,13,Emirates
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,349,1065,True,12/1/2019,1,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,247,1065,False,12/2/2019,2,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,329,851,True,12/2/2019,3,Alaska Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,95,1065,True,12/3/2019,4,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,141,1467,True,12/4/2019,5,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,121,1065,True,12/5/2019,6,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,160,1065,False,12/6/2019,7,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,181,1467,True,12/6/2019,8,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,134,1065,False,12/7/2019,9,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,168,1467,True,12/7/2019,10,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,121,1065,True,12/8/2019,11,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,159,1467,False,12/9/2019,12,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,181,1467,True,12/9/2019,13,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,101,1065,True,12/10/2019,14,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,141,1467,True,12/11/2019,15,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,120,1065,True,12/12/2019,16,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,172,1467,False,12/13/2019,17,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,181,1467,True,12/13/2019,18,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,131,1467,False,12/14/2019,19,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,168,1467,True,12/14/2019,20,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,115,1065,True,12/15/2019,21,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,171,1467,False,12/16/2019,22,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,181,1467,True,12/16/2019,23,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,100,1065,True,12/17/2019,24,Frontier Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,141,1467,True,12/18/2019,25,Spirit Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,219,988,True,12/19/2019,26,Delta
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,267,833,False,12/20/2019,27,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,339,988,True,12/20/2019,28,Delta
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,259,833,True,12/21/2019,29,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,192,833,False,12/22/2019,30,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,219,833,True,12/22/2019,31,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,185,833,True,12/23/2019,32,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,185,833,True,12/24/2019,33,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,185,833,True,12/25/2019,34,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,248,1793,False,12/26/2019,35,United
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,291,851,True,12/26/2019,36,Alaska Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,248,1793,False,12/27/2019,37,United
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,258,851,True,12/27/2019,38,Alaska Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,219,833,True,12/28/2019,39,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,257,833,True,12/29/2019,40,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,212,1793,False,12/30/2019,41,United
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,257,833,True,12/30/2019,42,American Airlines
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,193,1793,False,12/31/2019,43,United
+Atlanta,65368,Los Angeles,Los Angeles International,LAX,United States,40924,257,988,True,12/31/2019,44,Delta
+Atlanta,63448,Osaka,Osaka Kansai International,KIX,Japan,40924,1161,1276,False,12/11/2019,1,Japan Airlines
+Atlanta,63448,Osaka,Osaka Kansai International,KIX,Japan,40924,2081,1276,False,12/18/2019,2,Japan Airlines
+Atlanta,63448,Osaka,Osaka Kansai International,KIX,Japan,40924,2428,1276,False,12/19/2019,3,Japan Airlines
+Atlanta,63448,Osaka,Osaka Kansai International,KIX,Japan,40924,2084,1276,False,12/21/2019,4,Japan Airlines
+Atlanta,63448,Osaka,Osaka Kansai International,KIX,Japan,40924,1131,1276,False,12/27/2019,5,Japan Airlines
+Atlanta,63448,Osaka,Osaka Kansai International,KIX,Japan,40924,1036,1276,False,12/31/2019,6,Japan Airlines
+Atlanta,84892,Berlin,Berlin Tegel,TXL,Germany,40924,306,870,False,12/4/2019,1,jetBlue
+Atlanta,84892,Berlin,Berlin Tegel,TXL,Germany,40924,1116,1755,False,12/21/2019,2,Turkish Airlines
+Atlanta,84892,Berlin,Berlin Tegel,TXL,Germany,40924,554,870,False,12/26/2019,3,jetBlue
+Atlanta,84892,Berlin,Berlin Tegel,TXL,Germany,40924,877,1755,False,12/27/2019,4,Turkish Airlines
+Atlanta,84892,Berlin,Berlin Tegel,TXL,Germany,40924,549,870,False,12/28/2019,5,jetBlue
+Atlanta,84892,Berlin,Berlin Tegel,TXL,Germany,40924,607,1902,False,12/29/2019,6,Southwest Airlines
+Atlanta,84892,Berlin,Berlin Tegel,TXL,Germany,40924,554,870,False,12/30/2019,7,jetBlue
+Atlanta,84892,Berlin,Berlin Tegel,TXL,Germany,40924,554,870,False,12/31/2019,8,jetBlue
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1242,1218,False,12/2/2019,1,Iberia
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1213,1065,False,12/3/2019,2,Frontier Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1242,1218,False,12/4/2019,3,Iberia
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,905,1755,False,12/10/2019,4,Turkish Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,848,870,False,12/12/2019,5,jetBlue
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1945,1324,True,12/12/2019,6,KLM
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,926,1907,False,12/13/2019,7,WestJet
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,4088,988,True,12/13/2019,8,Delta
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1024,1755,False,12/14/2019,9,Turkish Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,975,1467,False,12/15/2019,10,Spirit Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1837,1324,True,12/15/2019,11,KLM
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1336,1755,False,12/17/2019,12,Turkish Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,4086,988,True,12/17/2019,13,Delta
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1341,1755,False,12/18/2019,14,Turkish Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,4088,988,True,12/18/2019,15,Delta
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1269,1902,False,12/20/2019,16,Southwest Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1945,1324,True,12/20/2019,17,KLM
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1376,1755,False,12/21/2019,18,Turkish Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,4088,988,True,12/21/2019,19,Delta
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1411,870,False,12/22/2019,20,jetBlue
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1090,870,False,12/23/2019,21,jetBlue
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,4113,988,True,12/23/2019,22,Delta
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,773,1218,False,12/24/2019,23,Iberia
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,984,1755,False,12/25/2019,24,Turkish Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,4113,988,True,12/25/2019,25,Delta
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1090,870,False,12/26/2019,26,jetBlue
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,4114,988,True,12/26/2019,27,Delta
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,767,1044,False,12/27/2019,28,Ethiopian Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,1017,1755,False,12/28/2019,29,Turkish Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,727,1044,False,12/29/2019,30,Ethiopian Airlines
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,910,1618,False,12/30/2019,31,Qatar Airways
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,4113,988,True,12/30/2019,32,Delta
+Atlanta,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,40924,793,1755,False,12/31/2019,33,Turkish Airlines
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,392,1902,False,12/1/2019,1,Southwest Airlines
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,342,1902,False,12/2/2019,2,Southwest Airlines
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,354,870,False,12/6/2019,3,jetBlue
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,814,858,False,12/15/2019,4,Alitalia
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,805,881,False,12/16/2019,5,British Airways
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,624,1760,False,12/19/2019,6,TAP
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,533,1902,False,12/22/2019,7,Southwest Airlines
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,3490,1368,False,12/23/2019,8,Lufthansa
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,564,1065,False,12/26/2019,9,Frontier Airlines
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,878,858,False,12/27/2019,10,Alitalia
+Atlanta,88485,Venice,Venice Marco Polo,VCE,Italy,40924,524,870,False,12/28/2019,11,jetBlue
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,149,988,True,12/1/2019,1,Delta
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,103,988,True,12/2/2019,2,Delta
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,67,870,True,12/3/2019,3,jetBlue
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,64,988,True,12/4/2019,4,Delta
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,54,1467,True,12/5/2019,5,Spirit Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,54,1467,True,12/6/2019,6,Spirit Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,54,1467,True,12/7/2019,7,Spirit Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,61,833,False,12/8/2019,8,American Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,64,1065,True,12/8/2019,9,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,51,1065,True,12/9/2019,10,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,49,1065,True,12/10/2019,11,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,39,1065,True,12/11/2019,12,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,55,1467,True,12/12/2019,13,Spirit Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,55,1467,True,12/13/2019,14,Spirit Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,54,1467,True,12/14/2019,15,Spirit Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,64,1065,True,12/15/2019,16,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,52,1065,True,12/16/2019,17,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,24,1065,True,12/17/2019,18,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,48,1467,True,12/18/2019,19,Spirit Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,69,988,True,12/19/2019,20,Delta
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,159,1065,True,12/20/2019,21,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,158,1065,True,12/21/2019,22,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,139,988,True,12/22/2019,23,Delta
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,114,870,True,12/23/2019,24,jetBlue
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,70,988,True,12/24/2019,25,Delta
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,109,988,True,12/25/2019,26,Delta
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,159,1065,True,12/26/2019,27,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,159,1065,True,12/27/2019,28,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,114,988,True,12/28/2019,29,Delta
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,159,1065,True,12/29/2019,30,Frontier Airlines
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,83,988,True,12/30/2019,31,Delta
+Atlanta,67759,Orlando,Orlando International,MCO,United States,40924,64,988,True,12/31/2019,32,Delta
+Atlanta,88879,Moscow,Moscow Vnukovo,VKO,Russia,40924,436,1467,False,12/18/2019,1,Spirit Airlines
+Atlanta,88879,Moscow,Moscow Vnukovo,VKO,Russia,40924,564,870,False,12/28/2019,2,jetBlue
+Atlanta,74763,Beijing,Beijing Capital,PEK,China,40924,1436,988,False,12/15/2019,1,Delta
+Atlanta,74763,Beijing,Beijing Capital,PEK,China,40924,820,870,False,12/24/2019,2,jetBlue
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,170,988,True,12/1/2019,1,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,260,1793,True,12/2/2019,2,United
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,121,833,False,12/3/2019,3,American Airlines
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,170,988,True,12/3/2019,4,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,988,True,12/4/2019,5,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,121,833,False,12/5/2019,6,American Airlines
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,169,988,True,12/5/2019,7,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,120,838,False,12/6/2019,8,Air France
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,1907,True,12/6/2019,9,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,121,833,False,12/7/2019,10,American Airlines
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,988,True,12/7/2019,11,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,121,833,False,12/8/2019,12,American Airlines
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,171,988,True,12/8/2019,13,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,173,1793,False,12/9/2019,14,United
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,260,1793,True,12/9/2019,15,United
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,173,1793,False,12/10/2019,16,United
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,260,1793,True,12/10/2019,17,United
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,120,1361,False,12/11/2019,18,LATAM Airlines Group
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,165,1907,True,12/11/2019,19,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,120,1361,False,12/12/2019,20,LATAM Airlines Group
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,988,True,12/12/2019,21,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,168,1907,True,12/13/2019,22,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,119,1907,False,12/14/2019,23,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,163,1907,True,12/14/2019,24,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,119,1907,False,12/15/2019,25,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,163,1907,True,12/15/2019,26,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,121,833,False,12/16/2019,27,American Airlines
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,988,True,12/16/2019,28,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,121,833,False,12/17/2019,29,American Airlines
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,988,True,12/17/2019,30,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,119,1907,False,12/18/2019,31,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,163,1907,True,12/18/2019,32,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,165,1907,True,12/19/2019,33,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,1907,True,12/20/2019,34,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,165,1907,True,12/21/2019,35,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,211,1793,False,12/22/2019,36,United
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,267,1793,True,12/22/2019,37,United
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,121,833,False,12/23/2019,38,American Airlines
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,169,988,True,12/23/2019,39,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,121,833,False,12/24/2019,40,American Airlines
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,169,988,True,12/24/2019,41,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,988,True,12/25/2019,42,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,163,1907,True,12/26/2019,43,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,988,True,12/27/2019,44,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,988,True,12/28/2019,45,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,165,1907,True,12/29/2019,46,WestJet
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,171,988,True,12/30/2019,47,Delta
+Atlanta,96474,Toronto,Toronto Pearson International,YYZ,Canada,40924,164,1907,True,12/31/2019,48,WestJet
+Atlanta,56138,Hannover,Hannover,HAJ,Germany,40924,3013,838,False,12/21/2019,1,Air France
+Atlanta,56138,Hannover,Hannover,HAJ,Germany,40924,2912,838,False,12/23/2019,2,Air France
+Atlanta,56138,Hannover,Hannover,HAJ,Germany,40924,2914,838,False,12/25/2019,3,Air France
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,758,1841,False,12/1/2019,1,Virgin Australia
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,763,1841,False,12/2/2019,2,Virgin Australia
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,738,1841,False,12/5/2019,3,Virgin Australia
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,779,1482,False,12/9/2019,4,Air New Zealand
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,542,1467,False,12/10/2019,5,Spirit Airlines
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,694,851,False,12/11/2019,6,Alaska Airlines
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,1121,1082,False,12/14/2019,7,Fiji Airways
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,757,1467,False,12/16/2019,8,Spirit Airlines
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,999,1482,False,12/25/2019,9,Air New Zealand
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,1086,1902,False,12/26/2019,10,Southwest Airlines
+Atlanta,82628,Sydney,Sydney,SYD,Australia,40924,1329,1618,False,12/27/2019,11,Qatar Airways
+Atlanta,86479,Quito,Quito,UIO,Ecuador,40924,191,870,False,12/3/2019,1,jetBlue
+Atlanta,86479,Quito,Quito,UIO,Ecuador,40924,381,988,True,12/6/2019,2,Delta
+Atlanta,86479,Quito,Quito,UIO,Ecuador,40924,469,988,True,12/21/2019,3,Delta
+Atlanta,86479,Quito,Quito,UIO,Ecuador,40924,237,870,False,12/31/2019,4,jetBlue
+Atlanta,86479,Quito,Quito,UIO,Ecuador,40924,374,988,True,12/31/2019,5,Delta
+Atlanta,65634,Long Beach,Long Beach Municipal,LGB,United States,40924,316,833,False,12/2/2019,1,American Airlines
+Atlanta,65634,Long Beach,Long Beach Municipal,LGB,United States,40924,191,833,False,12/25/2019,2,American Airlines
+Atlanta,45336,Copenhagen,Copenhagen,CPH,Denmark,40924,303,1467,False,12/8/2019,1,Spirit Airlines
+Atlanta,45336,Copenhagen,Copenhagen,CPH,Denmark,40924,622,83896,False,12/15/2019,2,flythomascook
+Atlanta,45336,Copenhagen,Copenhagen,CPH,Denmark,40924,2549,857,False,12/17/2019,3,Finnair
+Atlanta,45336,Copenhagen,Copenhagen,CPH,Denmark,40924,2572,857,False,12/18/2019,4,Finnair
+Atlanta,45336,Copenhagen,Copenhagen,CPH,Denmark,40924,567,870,False,12/20/2019,5,jetBlue
+Atlanta,45336,Copenhagen,Copenhagen,CPH,Denmark,40924,768,83896,False,12/21/2019,6,flythomascook
+Atlanta,45336,Copenhagen,Copenhagen,CPH,Denmark,40924,2549,857,False,12/23/2019,7,Finnair
+Atlanta,45336,Copenhagen,Copenhagen,CPH,Denmark,40924,627,870,False,12/30/2019,8,jetBlue
+Atlanta,45336,Copenhagen,Copenhagen,CPH,Denmark,40924,448,870,False,12/31/2019,9,jetBlue
+Atlanta,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,40924,643,870,False,12/20/2019,1,jetBlue
+Atlanta,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,40924,609,1902,False,12/21/2019,2,Southwest Airlines
+Atlanta,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,40924,477,1902,False,12/30/2019,3,Southwest Airlines
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,915,988,False,12/1/2019,1,Delta
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,807,1841,False,12/2/2019,2,Virgin Australia
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,915,988,False,12/3/2019,3,Delta
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,700,1482,False,12/4/2019,4,Air New Zealand
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,980,988,False,12/5/2019,5,Delta
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,867,1482,False,12/6/2019,6,Air New Zealand
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,655,1169,False,12/7/2019,7,Hawaiian Airlines
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,601,1065,False,12/12/2019,8,Frontier Airlines
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,1514,1276,False,12/13/2019,9,Japan Airlines
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,1445,1276,False,12/16/2019,10,Japan Airlines
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,1440,1276,False,12/17/2019,11,Japan Airlines
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,1649,1276,False,12/18/2019,12,Japan Airlines
+Atlanta,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,40924,1485,1618,False,12/27/2019,13,Qatar Airways
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,398,870,False,12/3/2019,1,jetBlue
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,363,870,False,12/4/2019,2,jetBlue
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,438,1467,False,12/13/2019,3,Spirit Airlines
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,423,1467,False,12/14/2019,4,Spirit Airlines
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,2374,1368,False,12/19/2019,5,Lufthansa
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,701,870,False,12/20/2019,6,jetBlue
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,597,1571,False,12/21/2019,7,Ukraine International
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,761,870,False,12/22/2019,8,jetBlue
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,708,1571,False,12/23/2019,9,Ukraine International
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,597,1571,False,12/26/2019,10,Ukraine International
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,2389,1368,False,12/27/2019,11,Lufthansa
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,2389,1368,False,12/29/2019,12,Lufthansa
+Atlanta,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,40924,594,1571,False,12/30/2019,13,Ukraine International
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,650,83896,False,12/1/2019,1,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,2620,838,True,12/1/2019,2,Air France
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,587,83896,False,12/3/2019,3,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,532,83896,False,12/5/2019,4,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,625,83896,False,12/10/2019,5,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,784,1755,False,12/11/2019,6,Turkish Airlines
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,548,83896,False,12/12/2019,7,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,543,83896,False,12/15/2019,8,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,697,83896,False,12/16/2019,9,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,2620,838,True,12/16/2019,10,Air France
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,700,83896,False,12/17/2019,11,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,869,83896,False,12/20/2019,12,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,735,83896,False,12/21/2019,13,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,2738,838,True,12/21/2019,14,Air France
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,664,870,False,12/23/2019,15,jetBlue
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,2622,988,True,12/23/2019,16,Delta
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,1079,1755,False,12/24/2019,17,Turkish Airlines
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,784,1755,False,12/25/2019,18,Turkish Airlines
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,502,870,False,12/26/2019,19,jetBlue
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,2639,838,True,12/26/2019,20,Air France
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,706,83896,False,12/27/2019,21,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,736,83896,False,12/30/2019,22,flythomascook
+Atlanta,43141,Brussels,Brussels International,BRU,Belgium,40924,669,83896,False,12/31/2019,23,flythomascook
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,915,1841,False,12/1/2019,1,Virgin Australia
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,909,1082,False,12/11/2019,2,Fiji Airways
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1049,1082,False,12/17/2019,3,Fiji Airways
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1294,1082,False,12/18/2019,4,Fiji Airways
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1297,1082,False,12/19/2019,5,Fiji Airways
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1298,1082,False,12/20/2019,6,Fiji Airways
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1284,1082,False,12/21/2019,7,Fiji Airways
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1288,1082,False,12/22/2019,8,Fiji Airways
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1041,1082,False,12/23/2019,9,Fiji Airways
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1041,1082,False,12/24/2019,10,Fiji Airways
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1995,1793,False,12/25/2019,11,United
+Atlanta,40492,Auckland,Auckland International,AKL,New Zealand,40924,1164,851,False,12/26/2019,12,Alaska Airlines
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,194,1907,False,12/1/2019,1,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,194,1907,False,12/2/2019,2,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/3/2019,3,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/4/2019,4,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/5/2019,5,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/6/2019,6,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/7/2019,7,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/8/2019,8,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/9/2019,9,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/10/2019,10,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,154,1606,False,12/11/2019,11,Qantas
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/12/2019,12,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/13/2019,13,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,291,988,True,12/13/2019,14,Delta
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/14/2019,15,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/15/2019,16,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/16/2019,17,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/17/2019,18,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/18/2019,19,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/19/2019,20,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,193,1907,False,12/20/2019,21,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,406,988,True,12/20/2019,22,Delta
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,177,1907,False,12/21/2019,23,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,191,1907,False,12/22/2019,24,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,186,1907,False,12/23/2019,25,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/24/2019,26,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,177,1907,False,12/25/2019,27,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,195,1907,False,12/26/2019,28,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,414,988,True,12/26/2019,29,Delta
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,176,1907,False,12/27/2019,30,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,414,988,True,12/27/2019,31,Delta
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,208,1907,False,12/28/2019,32,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,365,988,True,12/28/2019,33,Delta
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,319,1907,False,12/29/2019,34,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,365,988,True,12/29/2019,35,Delta
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,186,1907,False,12/30/2019,36,WestJet
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,291,988,True,12/30/2019,37,Delta
+Atlanta,96322,Vancouver,Vancouver International,YVR,Canada,40924,199,1907,False,12/31/2019,38,WestJet
+Atlanta,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,40924,536,1464,False,12/2/2019,1,ANA
+Atlanta,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,40924,607,1464,False,12/7/2019,2,ANA
+Atlanta,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,40924,922,1276,False,12/8/2019,3,Japan Airlines
+Atlanta,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,40924,571,1464,False,12/9/2019,4,ANA
+Atlanta,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,40924,1041,1464,False,12/12/2019,5,ANA
+Atlanta,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,40924,1074,1464,False,12/14/2019,6,ANA
+Atlanta,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,40924,1068,1464,False,12/22/2019,7,ANA
+Atlanta,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,40924,849,988,False,12/28/2019,8,Delta
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,433,870,False,12/3/2019,1,jetBlue
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,863,1854,True,12/3/2019,2,Vietnam Airlines
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,672,83896,False,12/5/2019,3,flythomascook
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,2731,838,True,12/5/2019,4,Air France
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,732,83896,False,12/10/2019,5,flythomascook
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,2751,838,True,12/10/2019,6,Air France
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,2751,838,True,12/11/2019,7,Air France
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,464,1467,False,12/13/2019,8,Spirit Airlines
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,356,1467,False,12/15/2019,9,Spirit Airlines
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,2630,1368,True,12/15/2019,10,Lufthansa
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,2751,838,True,12/16/2019,11,Air France
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,475,1902,False,12/17/2019,12,Southwest Airlines
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,1285,1751,True,12/17/2019,13,Thai Airways
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,497,1760,False,12/18/2019,14,TAP
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,1335,1751,True,12/18/2019,15,Thai Airways
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,650,1760,False,12/19/2019,16,TAP
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,1383,1751,True,12/19/2019,17,Thai Airways
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,671,1713,False,12/20/2019,18,Singapore Airlines
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,1119,1854,True,12/20/2019,19,Vietnam Airlines
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,671,1713,False,12/21/2019,20,Singapore Airlines
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,1244,1324,True,12/21/2019,21,KLM
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,699,870,False,12/22/2019,22,jetBlue
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,1376,1751,True,12/22/2019,23,Thai Airways
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,526,870,False,12/23/2019,24,jetBlue
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,1309,1751,True,12/23/2019,25,Thai Airways
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,695,83896,False,12/26/2019,26,flythomascook
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,2731,1793,True,12/26/2019,27,United
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,811,83896,False,12/27/2019,28,flythomascook
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,2729,1793,True,12/27/2019,29,United
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,842,83896,False,12/29/2019,30,flythomascook
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,2733,1793,True,12/29/2019,31,United
+Atlanta,52337,Frankfurt,Frankfurt am Main,FRA,Germany,40924,2750,1324,True,12/30/2019,32,KLM
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2491,857,False,12/14/2019,1,Finnair
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2546,838,False,12/18/2019,2,Air France
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2571,838,False,12/19/2019,3,Air France
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,443,870,False,12/20/2019,4,jetBlue
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2611,838,False,12/21/2019,5,Air France
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2612,838,False,12/22/2019,6,Air France
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2511,838,False,12/23/2019,7,Air France
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2511,838,False,12/24/2019,8,Air France
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2492,857,False,12/25/2019,9,Finnair
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,621,870,False,12/26/2019,10,jetBlue
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2494,857,False,12/27/2019,11,Finnair
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2511,838,False,12/28/2019,12,Air France
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2511,838,False,12/29/2019,13,Air France
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2511,838,False,12/30/2019,14,Air France
+Atlanta,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,40924,2511,838,False,12/31/2019,15,Air France
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1278,1793,False,12/12/2019,1,United
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1553,988,True,12/12/2019,2,Delta
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1001,1107,False,12/16/2019,3,GOL Linhas Aéreas
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1542,1107,True,12/16/2019,4,GOL Linhas Aéreas
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,667,1467,False,12/17/2019,5,Spirit Airlines
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1543,988,True,12/17/2019,6,Delta
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1647,1107,False,12/20/2019,7,GOL Linhas Aéreas
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,3113,1107,True,12/20/2019,8,GOL Linhas Aéreas
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,675,857,False,12/24/2019,9,Finnair
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1295,1107,True,12/24/2019,10,GOL Linhas Aéreas
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,894,1902,False,12/25/2019,11,Southwest Airlines
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1294,1107,True,12/25/2019,12,GOL Linhas Aéreas
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,748,870,False,12/26/2019,13,jetBlue
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1294,988,True,12/26/2019,14,Delta
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,648,857,False,12/27/2019,15,Finnair
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1309,1107,True,12/27/2019,16,GOL Linhas Aéreas
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,569,870,False,12/31/2019,17,jetBlue
+Atlanta,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,40924,1294,1107,True,12/31/2019,18,GOL Linhas Aéreas
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,640,870,False,12/3/2019,1,jetBlue
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1196,850,True,12/3/2019,2,Aerolineas Argentinas
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,699,1065,False,12/9/2019,3,Frontier Airlines
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1196,850,True,12/9/2019,4,Aerolineas Argentinas
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,811,1065,False,12/13/2019,5,Frontier Airlines
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1379,850,True,12/13/2019,6,Aerolineas Argentinas
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1022,870,False,12/16/2019,7,jetBlue
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1353,850,True,12/16/2019,8,Aerolineas Argentinas
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,810,1324,False,12/17/2019,9,KLM
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1359,850,True,12/17/2019,10,Aerolineas Argentinas
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1135,1467,False,12/18/2019,11,Spirit Airlines
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1573,988,True,12/18/2019,12,Delta
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1113,870,False,12/19/2019,13,jetBlue
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1307,870,False,12/20/2019,14,jetBlue
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1550,850,True,12/20/2019,15,Aerolineas Argentinas
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,942,1065,False,12/22/2019,16,Frontier Airlines
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1418,988,True,12/22/2019,17,Delta
+Atlanta,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,40924,1408,988,True,12/29/2019,18,Delta
+Atlanta,40065,Albuquerque,Albuquerque,ABQ,United States,40924,286,833,False,12/26/2019,1,American Airlines
+Atlanta,40065,Albuquerque,Albuquerque,ABQ,United States,40924,292,988,True,12/26/2019,2,Delta
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,207,1107,False,12/1/2019,1,GOL Linhas Aéreas
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/1/2019,2,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/2/2019,3,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,170,1907,True,12/3/2019,4,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,169,1907,True,12/4/2019,5,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/5/2019,6,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/6/2019,7,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,169,1907,True,12/7/2019,8,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,137,833,False,12/8/2019,9,American Airlines
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/8/2019,10,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/9/2019,11,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,137,833,False,12/10/2019,12,American Airlines
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,169,988,True,12/10/2019,13,Delta
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,169,1907,True,12/11/2019,14,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/12/2019,15,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,187,988,False,12/13/2019,16,Delta
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/13/2019,17,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,169,1907,True,12/14/2019,18,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/15/2019,19,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/16/2019,20,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,135,1107,False,12/17/2019,21,GOL Linhas Aéreas
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,168,1907,True,12/17/2019,22,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,171,1907,True,12/18/2019,23,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,137,1107,False,12/19/2019,24,GOL Linhas Aéreas
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,218,1907,True,12/19/2019,25,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,225,1907,False,12/20/2019,26,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,225,988,True,12/20/2019,27,Delta
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,217,988,False,12/22/2019,28,Delta
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,225,988,True,12/22/2019,29,Delta
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,219,1907,True,12/23/2019,30,WestJet
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,176,988,True,12/25/2019,31,Delta
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,225,988,True,12/26/2019,32,Delta
+Atlanta,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,40924,220,1907,True,12/27/2019,33,WestJet
+Atlanta,75572,Providence,Providence,PVD,United States,40924,148,988,True,12/5/2019,1,Delta
+Atlanta,75572,Providence,Providence,PVD,United States,40924,187,988,True,12/20/2019,2,Delta
+Atlanta,75572,Providence,Providence,PVD,United States,40924,138,988,True,12/24/2019,3,Delta
+Atlanta,75572,Providence,Providence,PVD,United States,40924,155,833,False,12/26/2019,4,American Airlines
+Atlanta,75572,Providence,Providence,PVD,United States,40924,178,988,True,12/26/2019,5,Delta
+Atlanta,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,40924,926,1755,False,12/13/2019,1,Turkish Airlines
+Atlanta,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,40924,873,881,False,12/23/2019,2,British Airways
+Atlanta,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,40924,837,881,False,12/31/2019,3,British Airways
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,589,881,False,12/10/2019,1,British Airways
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,692,870,False,12/12/2019,2,jetBlue
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,772,870,False,12/14/2019,3,jetBlue
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,1328,1755,False,12/15/2019,4,Turkish Airlines
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,968,881,False,12/17/2019,5,British Airways
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,1080,870,False,12/19/2019,6,jetBlue
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,1130,870,False,12/20/2019,7,jetBlue
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,913,881,False,12/21/2019,8,British Airways
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,833,881,False,12/22/2019,9,British Airways
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,884,1107,False,12/25/2019,10,GOL Linhas Aéreas
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,593,881,False,12/27/2019,11,British Airways
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,589,881,False,12/28/2019,12,British Airways
+Atlanta,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,40924,589,881,False,12/30/2019,13,British Airways
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,216,833,True,12/1/2019,1,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,196,988,True,12/2/2019,2,Delta
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,89,833,True,12/4/2019,3,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,135,833,True,12/5/2019,4,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,109,870,False,12/6/2019,5,jetBlue
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/6/2019,6,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,109,870,False,12/7/2019,7,jetBlue
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/7/2019,8,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,109,870,False,12/8/2019,9,jetBlue
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/8/2019,10,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,109,870,False,12/9/2019,11,jetBlue
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,109,870,False,12/13/2019,12,jetBlue
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/13/2019,13,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,128,870,False,12/14/2019,14,jetBlue
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/14/2019,15,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/15/2019,16,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,89,988,True,12/17/2019,17,Delta
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,89,988,True,12/18/2019,18,Delta
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,128,870,False,12/19/2019,19,jetBlue
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/20/2019,20,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,256,870,False,12/21/2019,21,jetBlue
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/22/2019,22,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/23/2019,23,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,128,870,False,12/25/2019,24,jetBlue
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/26/2019,25,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,134,833,True,12/27/2019,26,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,135,833,True,12/28/2019,27,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,135,833,True,12/29/2019,28,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,135,833,True,12/30/2019,29,American Airlines
+Atlanta,47009,Washington,Washington Ronald Reagan,DCA,United States,40924,135,833,True,12/31/2019,30,American Airlines
