@@ -1,0 +1,68 @@
+City Name,Country Name,Airport Name,Airport Code,lat,long
+Mumbai,India,Mumbai,BOM-sky,18.9387711,72.8353355
+Kolkata,India,Kolkata,CCU-sky,22.5677459,88.3476023
+Los Angeles,United States,Los Angeles,LAXA-sky,34.0536909,-118.2427666
+Guangzhou,China,Guangzhou,CAN-sky,23.1301964,113.2592945
+Istanbul,Turkey,Istanbul,IST-sky,41.0096334,28.9651646
+Bogota,Colombia,Bogota,BOG-sky,4.59808,-74.0760439
+Taipei,Taiwan,Taipei,TPET-sky,25.0375198,121.5636796
+Bangalore,India,Bangalore,BLR-sky,12.9791198,77.5912997
+Hyderabad,India,Hyderabad,HDD-sky,17.4263524,78.4349399
+Riyadh,Saudi Arabia,Riyadh,RUH-sky,24.6319692,46.7150648
+Barcelona,Spain,Barcelona,BLA-sky,41.3828939,2.1774322
+Athens International,Greece,Athens International,ATH-sky,37.9373271,23.9465285
+Sydney,Australia,Sydney,SYD-sky,-33.8548157,151.2164539
+Monterrey,Mexico,Monterrey Gen Mariano Escobedo,MTY-sky,25.6397836,-100.2931016
+Luanda,Angola,Luanda,LAD-sky,-8.8272699,13.2439512
+Hangzhou,China,Hangzhou,HGH-sky,30.2489634,120.2052342
+Montreal,Canada,Montreal,YMQA-sky,45.4972159,-73.6103642
+Pyongyang,North Korea,Pyongyang,FNJ-sky,39.0194741,125.753388
+Surat Thani,Thailand,Surat Thani,URT-sky,9.4674663,98.830042
+Jaipur,India,Jaipur,JAI-sky,26.916194,75.820349
+Izmir,Turkey,Izmir,ADB-sky,38.4153421,27.144474
+Changsha,China,Changsha,CSX-sky,28.1979483,112.97133
+Frankfurt ,Germany,Frankfurt am Main,FRA-sky,50.1106444,8.6820917
+Nanchang,China,Nanchang,KHN-sky,28.6792695,115.8885987
+Birmingham,United Kingdom,Birmingham,BHM-sky,52.4796992,-1.9026911
+Manchester,United Kingdom,Manchester,MHT-sky,53.4794892,-2.2451148
+Dubai,United Arab Emirates,Dubai,DXB-sky,25.0750095,55.1887609
+Guiyang,China,Guiyang,KWE-sky,25.7561647,112.72964
+Seoul ,South Korea,Seoul Incheon Int'l,ICN-sky,37.5666791,126.9782914
+Zhengzhou,China,Zhengzhou,CGO-sky,34.7591877,113.6524076
+Chaoyang,China,Chaoyang,CHG-sky,41.4562357,120.4007804
+Fuzhou,China,Fuzhou,FOC-sky,26.0774954,119.2918215
+Puebla,Mexico,Puebla,PBC-sky,18.833333,-98
+Puning,China,Puning,CDE-sky,23.300182,116.16801
+Nanchong,China,Nanchong,NAO-sky,30.7955696,106.0835539
+Urumqi,China,Urumqi,URC-sky,43.8244074,87.6139038
+Asuncion,Paraguay,Asuncion,ASU-sky,-25.2800459,-57.6343814
+Suzhou,China,Suzhou,SZV-sky,31.3016935,120.5810725
+Nanyang,China,Nanyang,NNY-sky,33.0010496,112.5292693
+Ningbo,China,Ningbo,NGB-sky,29.8622194,121.6203873
+Anshan,China,Anshan,AOG-sky,41.1081242,122.9899705
+Tripoli,Libya,Tripoli,TIP-sky,32.896672,13.1777923
+Yangzhou Taizhou ,China,Yangzhou Taizhou Airport,YTY-sky,32.5618444,119.7161115
+Quito,Ecuador,Quito,UIO-sky,-0.2201641,-78.5123274
+Jinjiang,China,Jinjiang,JJN-sky,24.784435,118.5477505
+Wuxi,China,Wuxi,WUX-sky,31.5776264,120.2951311
+Seville,Spain,Seville,SVQ-sky,37.3886303,-5.9953403
+Bozoum,Central African Republic,Bozoum,BOZ-sky,6.3147379,16.3806392
+Zhanjiang,China,Zhanjiang,ZHA-sky,21.2745127,110.3541291
+Bursa,Turkey,Bursa,YEI-sky,40.1827347,29.0678382
+Sao Paulo ,Brazil,Sao Paulo Guarulhos,GRU-sky,-23.5506507,-46.6333824
+Adelaide,Australia,Adelaide,ADL-sky,-34.9281805,138.5999312
+Amsterdam,Netherlands,Amsterdam,AMS-sky,52.3745403,4.8979755
+Dublin,Ireland,Dublin,DUB-sky,53.3497645,-6.2602732
+Kita Kyushu,Japan,Kita Kyushu,KKJ-sky,33.8829996,130.8749015
+Chicago ,United States,Chicago O'Hare International,ORD-sky,41.8755616,-87.6244212
+Merida,Mexico,Merida,MRD-sky,20.9670759,-89.6237402
+Saratov,Russia,Saratov,RTW-sky,51.530018,46.034683
+Santiago,Dominican Republic,Santiago,SCLA-sky,19.3286702,-70.9033942
+La Paz,Bolivia,La Paz,LAP-sky,-16.4955455,-68.1336229
+Santa Cruz,Bolivia,Santa Cruz,VVI-sky,-17.333333,-61.5
+Port Harcourt,Nigeria,Port Harcourt,PHC-sky,4.7676576,7.0188527
+Singapore ,Singapore,Singapore Changi,SIN-sky,1.2904753,103.8520359
+Dallas,United States,Dallas Fort Worth International,DFW-sky,32.7762719,-96.7968559
+Charlotte,United States,Charlotte Douglas,CLT-sky,35.2270869,-80.8431268
+Stuttgart,Germany,Stuttgart,SGT-sky,48.7784485,9.1800132
+Malaga,Spain,Malaga,AGP-sky,36.7213028,-4.4216366

@@ -1,0 +1,95 @@
+CityId,CityName,CountryName,IataCode,Name,PlaceId,SkyscannerCode,Type
+HKGA,Hong Kong,Hong Kong,HKG,Hong Kong International,56615,HKG,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+BKKT,Bangkok,Thailand,BKK,Bangkok Suvarnabhumi,42795,BKK,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+LOND,London,United Kingdom,LHR,London Heathrow,65698,LHR,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+SINS,Singapore,Singapore,SIN,Singapore Changi,81870,SIN,Station
+DXBA,Dubai,United Arab Emirates,DXB,Dubai,48018,DXB,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+PARI,Paris,France,CDG,Paris Charles de Gaulle,44759,CDG,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+NYCA,New York,United States,JFK,New York John F. Kennedy,60987,JFK,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+KULM,Kuala Lumpur,Malaysia,KUL,Kuala Lumpur International,64012,KUL,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+ROME,Rome,Italy,FCO,Rome Fiumicino,51631,FCO,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+TYOA,Tokyo,Japan,NRT,Tokyo Narita,70788,NRT,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+TPET,Taipei,Taiwan,TPE,Taipei Taiwan Taoyuan,84501,TPE,Station
+ISTA,Istanbul,Turkey,IST,Istanbul,59316,IST,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+SELA,Seoul,South Korea,ICN,Seoul Incheon Int'l,58542,ICN,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CSHA,Shanghai,China,PVG,Shanghai Pu Dong,75575,PVG,Station
+LASA,Las Vegas,United States,LAS,Las Vegas Mccarran,65363,LAS,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+MILA,Milan,Italy,MXP,Milan Malpensa,68768,MXP,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+LAXA,Los Angeles,United States,LAX,Los Angeles International,65368,LAX,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+OSAA,Osaka,Japan,KIX,Osaka Kansai International,63448,KIX,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+BERL,Berlin,Germany,TXL,Berlin Tegel,84892,TXL,Station
+JNBA,Johannesburg,South Africa,JNB,Johannesburg O.R. Tambo,61362,JNB,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+VENI,Venice,Italy,VCE,Venice Marco Polo,88485,VCE,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+MOSC,Moscow,Russia,VKO,Moscow Vnukovo,88879,VKO,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+BJSA,Beijing,China,PEK,Beijing Capital,74763,PEK,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+YTOA,Toronto,Canada,YYZ,Toronto Pearson International,96474,YYZ,Station
+HANN,Hannover,Germany,HAJ,Hannover,56138,HAJ,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+SYDA,Sydney,Australia,SYD,Sydney,82628,SYD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+UIOA,Quito,Ecuador,UIO,Quito,86479,UIO,Station
+LGBA,Long Beach,United States,LGB,Long Beach Municipal,65634,LGB,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+JNBA,Johannesburg,South Africa,JNB,Johannesburg O.R. Tambo,61362,JNB,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+COPE,Copenhagen,Denmark,CPH,Copenhagen,45336,CPH,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+WMIP,Nowy Dwor Mazowiecki,Poland,WMI,Warsaw Modlin,91273,WMI,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+TELA,Tel Aviv,Israel,TLV,Ben Gurion Intl,84326,TLV,Station
+ESSA,Essaouira,Morocco,ESU,Essaouira,50101,ESU,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+BRUS,Brussels,Belgium,BRU,Brussels International,43141,BRU,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+AKLN,Auckland,New Zealand,AKL,Auckland International,40492,AKL,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+YVRA,Vancouver,Canada,YVR,Vancouver International,96322,YVR,Station
+CGKI,Jakarta,Indonesia,CGK,Soekarno-Hatta,44907,CGK,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+FRAN,Frankfurt,Germany,FRA,Frankfurt am Main,52337,FRA,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+STOC,Stockholm,Sweden,ARN,Stockholm Arlanda,40830,ARN,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+RIOA,Rio De Janeiro,Brazil,GIG,Rio De Janeiro Internacional,54215,GIG,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+BUEA,Buenos Aires,Argentina,EZE,Buenos Aires Ministro Pistarini,50421,EZE,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+ABQA,Albuquerque,United States,ABQ,Albuquerque,40065,ABQ,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+YMQA,Montreal,Canada,YUL,Montreal Pierre Elliott Trudeau,96268,YUL,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+PVDA,Providence,United States,PVD,Providence,75572,PVD,Station
+AUHA,Abu Dhabi,United Arab Emirates,AUH,Abu Dhabi International,40968,AUH,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+CMBA,Colombo,Sri Lanka,CMB,Colombo Bandaranayake,45186,CMB,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+WASA,Washington,United States,DCA,Washington Ronald Reagan,47009,DCA,Station
+CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station

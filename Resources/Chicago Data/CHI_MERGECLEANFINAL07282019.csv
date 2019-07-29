@@ -1,0 +1,1281 @@
+Departure City,City ID,City Name,Airport Name,Iata Code,Country Name,City ID Departure,Min Price,Airline ID,Non-Stop Flight,Departure Date,Quote ID,Airline Name
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,669,1317,False,12/1/2019,1,Korean Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,676,1793,True,12/1/2019,2,United
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,667,898,False,12/2/2019,3,EVA Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,676,1793,True,12/2/2019,4,United
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,357,1189,False,12/3/2019,5,Hainan Airlines
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,622,952,True,12/3/2019,6,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,662,898,False,12/4/2019,7,EVA Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,514,1189,False,12/5/2019,8,Hainan Airlines
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,671,952,True,12/6/2019,9,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,555,851,False,12/7/2019,10,Alaska Airlines
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,672,952,True,12/7/2019,11,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,664,1317,False,12/8/2019,12,Korean Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,672,952,True,12/8/2019,13,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,662,898,False,12/9/2019,14,EVA Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,514,1189,False,12/10/2019,15,Hainan Airlines
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,781,898,False,12/11/2019,16,EVA Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,942,898,False,12/12/2019,17,EVA Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1033,988,False,12/13/2019,18,Delta
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,893,1049,False,12/14/2019,19,Etihad Airways
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1026,952,True,12/14/2019,20,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,852,1049,False,12/15/2019,21,Etihad Airways
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1009,1793,True,12/15/2019,22,United
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1120,898,False,12/16/2019,23,EVA Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1317,1189,False,12/17/2019,24,Hainan Airlines
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1120,898,False,12/18/2019,25,EVA Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,825,1049,False,12/19/2019,26,Etihad Airways
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1026,952,True,12/19/2019,27,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,893,1049,False,12/20/2019,28,Etihad Airways
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1026,952,True,12/20/2019,29,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1567,898,False,12/21/2019,30,EVA Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,753,1429,False,12/23/2019,31,China Eastern
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1010,952,True,12/23/2019,32,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,564,1033,False,12/24/2019,33,Aer Lingus
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,903,952,True,12/24/2019,34,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,559,1033,False,12/25/2019,35,Aer Lingus
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,904,952,True,12/25/2019,36,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,578,1033,False,12/26/2019,37,Aer Lingus
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,904,952,True,12/26/2019,38,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,564,835,False,12/27/2019,39,Air Canada
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1010,952,True,12/27/2019,40,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,832,898,False,12/28/2019,41,EVA Air
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,753,1049,False,12/29/2019,42,Etihad Airways
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1012,1793,True,12/29/2019,43,United
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,546,835,False,12/30/2019,44,Air Canada
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,898,952,True,12/30/2019,45,Cathay Pacific
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,357,1189,False,12/31/2019,46,Hainan Airlines
+Chicago,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,904,952,True,12/31/2019,47,Cathay Pacific
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,455,1276,False,12/1/2019,1,Japan Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,445,1276,False,12/2/2019,2,Japan Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,444,1317,False,12/3/2019,3,Korean Air
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,459,1317,False,12/5/2019,4,Korean Air
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,464,1189,False,12/7/2019,5,Hainan Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,514,1429,False,12/8/2019,6,China Eastern
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,508,1429,False,12/9/2019,7,China Eastern
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,466,1189,False,12/10/2019,8,Hainan Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,557,857,False,12/11/2019,9,Finnair
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,613,1276,False,12/12/2019,10,Japan Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,652,857,False,12/13/2019,11,Finnair
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,880,1755,False,12/14/2019,12,Turkish Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,707,857,False,12/15/2019,13,Finnair
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,664,1467,False,12/16/2019,14,Spirit Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,848,1276,False,12/18/2019,15,Japan Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,858,1276,False,12/19/2019,16,Japan Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,875,954,False,12/20/2019,17,China Southern
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,859,833,False,12/21/2019,18,American Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,820,857,False,12/22/2019,19,Finnair
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,759,1429,False,12/23/2019,20,China Eastern
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,635,929,False,12/24/2019,21,Air China
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,615,898,False,12/25/2019,22,EVA Air
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,615,898,False,12/26/2019,23,EVA Air
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,624,1429,False,12/27/2019,24,China Eastern
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,581,833,False,12/28/2019,25,American Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,590,851,False,12/29/2019,26,Alaska Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,467,833,False,12/30/2019,27,American Airlines
+Chicago,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,464,954,False,12/31/2019,28,China Southern
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,293,1523,True,12/1/2019,1,Austrian Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,280,1523,True,12/2/2019,2,Austrian Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,274,1710,True,12/3/2019,3,Brussels Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,264,1760,False,12/4/2019,4,TAP
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,274,1710,True,12/4/2019,5,Brussels Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,1970,988,False,12/5/2019,6,Delta
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,264,1760,False,12/6/2019,7,TAP
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,277,1710,True,12/6/2019,8,Brussels Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,218,1760,False,12/8/2019,9,TAP
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,1905,881,True,12/8/2019,10,British Airways
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,211,1760,False,12/9/2019,11,TAP
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,275,1710,True,12/9/2019,12,Brussels Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,288,1065,False,12/10/2019,13,Frontier Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,1919,881,True,12/10/2019,14,British Airways
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,274,1710,True,12/11/2019,15,Brussels Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,334,1710,True,12/12/2019,16,Brussels Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,366,1384,False,12/13/2019,17,SWISS
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,520,857,True,12/13/2019,18,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,324,1707,False,12/14/2019,19,SAS
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,384,857,True,12/14/2019,20,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,323,1523,False,12/15/2019,21,Austrian Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,352,1218,True,12/15/2019,22,Iberia
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,323,1523,False,12/16/2019,23,Austrian Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,417,1218,True,12/16/2019,24,Iberia
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,417,1707,False,12/17/2019,25,SAS
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,1126,857,True,12/17/2019,26,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,422,1707,False,12/18/2019,27,SAS
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,711,857,True,12/18/2019,28,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,462,1033,False,12/19/2019,29,Aer Lingus
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,1885,857,True,12/19/2019,30,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,557,1707,False,12/20/2019,31,SAS
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,1885,857,True,12/20/2019,32,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,550,1707,False,12/21/2019,33,SAS
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,1847,857,True,12/21/2019,34,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,462,1033,False,12/22/2019,35,Aer Lingus
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,711,857,True,12/22/2019,36,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,330,1482,False,12/23/2019,37,Air New Zealand
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,711,857,True,12/23/2019,38,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,297,851,False,12/24/2019,39,Alaska Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,459,1710,True,12/24/2019,40,Brussels Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,295,851,False,12/25/2019,41,Alaska Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,437,857,True,12/25/2019,42,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,287,1482,False,12/26/2019,43,Air New Zealand
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,456,857,True,12/26/2019,44,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,287,1482,False,12/27/2019,45,Air New Zealand
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,358,1218,True,12/27/2019,46,Iberia
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,296,1482,False,12/28/2019,47,Air New Zealand
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,356,857,True,12/28/2019,48,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,296,851,False,12/29/2019,49,Alaska Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,440,857,True,12/29/2019,50,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,296,1523,False,12/30/2019,51,Austrian Airlines
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,440,857,True,12/30/2019,52,Finnair
+Chicago,65698,London,London Heathrow,LHR,United Kingdom,73076,291,1523,True,12/31/2019,53,Austrian Airlines
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,425,1464,False,12/4/2019,1,ANA
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,426,1464,False,12/5/2019,2,ANA
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,460,1707,False,12/8/2019,3,SAS
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,446,1464,False,12/9/2019,4,ANA
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,531,1618,False,12/11/2019,5,Qatar Airways
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,597,1793,False,12/12/2019,6,United
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,848,1530,False,12/13/2019,7,Asiana Airlines
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,860,988,False,12/14/2019,8,Delta
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,1049,1044,False,12/20/2019,9,Ethiopian Airlines
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,964,1464,False,12/21/2019,10,ANA
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,848,1464,False,12/22/2019,11,ANA
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,553,1464,False,12/23/2019,12,ANA
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,448,1793,False,12/24/2019,13,United
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,616,1618,False,12/25/2019,14,Qatar Airways
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,490,1793,False,12/27/2019,15,United
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,491,954,False,12/28/2019,16,China Southern
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,448,1793,False,12/30/2019,17,United
+Chicago,81870,Singapore,Singapore Changi,SIN,Singapore,73076,435,1464,False,12/31/2019,18,ANA
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,572,1760,False,12/1/2019,1,TAP
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,872,1035,True,12/1/2019,2,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,645,1658,False,12/2/2019,3,Royal Jordanian
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,872,1035,True,12/2/2019,4,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,464,1523,False,12/3/2019,5,Austrian Airlines
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,872,1035,True,12/3/2019,6,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,484,870,False,12/5/2019,7,jetBlue
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,872,1035,True,12/5/2019,8,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,507,1760,False,12/6/2019,9,TAP
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,916,1035,True,12/6/2019,10,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,691,1658,False,12/9/2019,11,Royal Jordanian
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,598,1760,False,12/11/2019,12,TAP
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,948,1035,True,12/11/2019,13,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,769,1755,False,12/14/2019,14,Turkish Airlines
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,987,1035,True,12/14/2019,15,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,526,870,False,12/15/2019,16,jetBlue
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,940,1035,True,12/15/2019,17,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,909,1658,False,12/16/2019,18,Royal Jordanian
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,639,1324,False,12/17/2019,19,KLM
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,989,1035,True,12/17/2019,20,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,811,1755,False,12/18/2019,21,Turkish Airlines
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,990,1035,True,12/18/2019,22,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,1337,952,False,12/19/2019,23,Cathay Pacific
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,780,870,False,12/20/2019,24,jetBlue
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,1078,870,True,12/20/2019,25,jetBlue
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,742,1324,False,12/21/2019,26,KLM
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,1086,870,True,12/21/2019,27,jetBlue
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,846,1658,False,12/22/2019,28,Royal Jordanian
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,1003,1035,True,12/22/2019,29,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,793,1755,False,12/23/2019,30,Turkish Airlines
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,991,1035,True,12/23/2019,31,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,668,1044,False,12/24/2019,32,Ethiopian Airlines
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,950,1035,True,12/24/2019,33,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,695,1044,False,12/25/2019,34,Ethiopian Airlines
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,650,1384,False,12/26/2019,35,SWISS
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,951,1035,True,12/26/2019,36,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,664,1044,False,12/27/2019,37,Ethiopian Airlines
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,944,1035,True,12/27/2019,38,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,714,1384,False,12/28/2019,39,SWISS
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,951,1035,True,12/28/2019,40,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,612,1760,False,12/29/2019,41,TAP
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,951,1035,True,12/29/2019,42,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,573,1760,False,12/30/2019,43,TAP
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,951,1035,True,12/30/2019,44,Emirates
+Chicago,48018,Dubai,Dubai,DXB,United Arab Emirates,73076,980,952,False,12/31/2019,45,Cathay Pacific
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,417,1760,False,12/1/2019,1,TAP
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,837,857,True,12/1/2019,2,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,328,870,False,12/2/2019,3,jetBlue
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,799,857,True,12/2/2019,4,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,261,1324,False,12/3/2019,5,KLM
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,804,857,True,12/3/2019,6,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,328,870,False,12/4/2019,7,jetBlue
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,805,857,True,12/4/2019,8,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,353,1760,False,12/6/2019,9,TAP
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,859,857,True,12/6/2019,10,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,307,870,False,12/7/2019,11,jetBlue
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3155,881,True,12/7/2019,12,British Airways
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3149,1368,True,12/8/2019,13,Lufthansa
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,226,1760,False,12/9/2019,14,TAP
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,842,857,True,12/9/2019,15,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3149,1368,True,12/10/2019,16,Lufthansa
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3149,1368,True,12/11/2019,17,Lufthansa
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3149,1368,True,12/12/2019,18,Lufthansa
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,275,1324,False,12/13/2019,19,KLM
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,991,857,True,12/13/2019,20,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,355,870,False,12/14/2019,21,jetBlue
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,903,838,True,12/14/2019,22,Air France
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,348,870,False,12/15/2019,23,jetBlue
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,764,1218,True,12/15/2019,24,Iberia
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,327,1324,False,12/16/2019,25,KLM
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,740,1126,True,12/16/2019,26,Gulf Air
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3149,1368,True,12/17/2019,27,Lufthansa
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,399,1467,False,12/18/2019,28,Spirit Airlines
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1195,1710,True,12/18/2019,29,Brussels Airlines
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,497,1707,False,12/19/2019,30,SAS
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1089,857,True,12/19/2019,31,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,567,1707,False,12/20/2019,32,SAS
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1304,1368,True,12/20/2019,33,Lufthansa
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,560,1033,False,12/21/2019,34,Aer Lingus
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1242,1368,True,12/21/2019,35,Lufthansa
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,533,1033,False,12/22/2019,36,Aer Lingus
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1035,857,True,12/22/2019,37,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,473,870,False,12/24/2019,38,jetBlue
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1013,1368,True,12/24/2019,39,Lufthansa
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3154,1368,True,12/25/2019,40,Lufthansa
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,495,870,False,12/26/2019,41,jetBlue
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,757,838,True,12/26/2019,42,Air France
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,484,1793,False,12/27/2019,43,United
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,643,1793,True,12/27/2019,44,United
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,500,1707,False,12/28/2019,45,SAS
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,742,838,True,12/28/2019,46,Air France
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,437,1707,False,12/29/2019,47,SAS
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,805,857,True,12/29/2019,48,Finnair
+Chicago,44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3154,1368,True,12/31/2019,49,Lufthansa
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,279,988,True,12/1/2019,1,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,145,833,True,12/2/2019,2,American Airlines
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/3/2019,3,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/4/2019,4,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/5/2019,5,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/6/2019,6,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/7/2019,7,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,105,833,False,12/8/2019,8,American Airlines
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,122,870,True,12/8/2019,9,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/9/2019,10,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/10/2019,11,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/11/2019,12,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,73,988,True,12/12/2019,13,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,99,988,True,12/13/2019,14,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/14/2019,15,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,107,833,False,12/15/2019,16,American Airlines
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,True,12/15/2019,17,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,106,833,False,12/16/2019,18,American Airlines
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,117,870,True,12/16/2019,19,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/17/2019,20,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,73,870,True,12/18/2019,21,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,True,12/19/2019,22,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,114,988,True,12/20/2019,23,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,True,12/21/2019,24,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,115,833,False,12/22/2019,25,American Airlines
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,True,12/22/2019,26,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,105,833,False,12/23/2019,27,American Airlines
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,True,12/23/2019,28,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,99,988,True,12/24/2019,29,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,99,988,True,12/25/2019,30,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,154,870,True,12/26/2019,31,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,True,12/27/2019,32,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,186,833,False,12/28/2019,33,American Airlines
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,190,870,True,12/28/2019,34,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,115,833,False,12/29/2019,35,American Airlines
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,185,988,True,12/29/2019,36,Delta
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,107,833,False,12/30/2019,37,American Airlines
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,187,870,True,12/30/2019,38,jetBlue
+Chicago,60987,New York,New York John F. Kennedy,JFK,United States,73076,99,988,True,12/31/2019,39,Delta
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,528,1618,False,12/1/2019,1,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,451,1618,False,12/2/2019,2,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,451,1618,False,12/3/2019,3,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,451,1618,False,12/4/2019,4,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,504,1618,False,12/5/2019,5,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,578,1618,False,12/6/2019,6,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,646,898,False,12/7/2019,7,EVA Air
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,578,1618,False,12/8/2019,8,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,504,1618,False,12/9/2019,9,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,558,1618,False,12/10/2019,10,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,605,1618,False,12/11/2019,11,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,832,898,False,12/12/2019,12,EVA Air
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,1022,898,False,12/13/2019,13,EVA Air
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,1022,898,False,12/14/2019,14,EVA Air
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,1693,1464,False,12/15/2019,15,ANA
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,986,898,False,12/16/2019,16,EVA Air
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,1257,1618,False,12/17/2019,17,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,986,898,False,12/18/2019,18,EVA Air
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,1040,1049,False,12/20/2019,19,Etihad Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,1020,1049,False,12/21/2019,20,Etihad Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,915,870,False,12/22/2019,21,jetBlue
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,864,870,False,12/23/2019,22,jetBlue
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,604,1618,False,12/24/2019,23,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,604,1618,False,12/25/2019,24,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,576,1618,False,12/26/2019,25,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,535,1618,False,12/27/2019,26,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,535,1618,False,12/28/2019,27,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,535,1618,False,12/29/2019,28,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,451,1618,False,12/30/2019,29,Qatar Airways
+Chicago,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,73076,747,1464,False,12/31/2019,30,ANA
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,379,1760,False,12/2/2019,1,TAP
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,385,870,False,12/3/2019,2,jetBlue
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,362,1760,False,12/4/2019,3,TAP
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,321,870,False,12/5/2019,4,jetBlue
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,327,1760,False,12/7/2019,5,TAP
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,362,870,False,12/11/2019,6,jetBlue
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,773,1218,False,12/12/2019,7,Iberia
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,352,870,False,12/13/2019,8,jetBlue
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,413,1065,False,12/14/2019,9,Frontier Airlines
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,376,1065,False,12/15/2019,10,Frontier Airlines
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,361,1065,False,12/16/2019,11,Frontier Airlines
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,350,1065,False,12/17/2019,12,Frontier Airlines
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,3353,1218,False,12/19/2019,13,Iberia
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,574,1707,False,12/20/2019,14,SAS
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,810,1033,False,12/21/2019,15,Aer Lingus
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,3303,1218,False,12/22/2019,16,Iberia
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,572,1760,False,12/23/2019,17,TAP
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,773,1218,False,12/24/2019,18,Iberia
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,454,1760,False,12/25/2019,19,TAP
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,468,1523,False,12/26/2019,20,Austrian Airlines
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,510,1707,False,12/27/2019,21,SAS
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,358,1760,False,12/28/2019,22,TAP
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,772,1218,False,12/29/2019,23,Iberia
+Chicago,51631,Rome,Rome Fiumicino,FCO,Italy,73076,772,1218,False,12/30/2019,24,Iberia
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,499,1276,False,12/1/2019,1,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,777,1276,True,12/1/2019,2,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,482,1276,True,12/2/2019,3,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,477,851,False,12/4/2019,4,Alaska Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,481,1276,True,12/4/2019,5,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,523,833,False,12/5/2019,6,American Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,664,833,True,12/5/2019,7,American Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,518,851,False,12/6/2019,8,Alaska Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,840,1276,True,12/6/2019,9,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,518,851,False,12/7/2019,10,Alaska Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,984,1276,True,12/7/2019,11,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,653,988,False,12/8/2019,12,Delta
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1575,1793,True,12/8/2019,13,United
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,642,1317,False,12/12/2019,14,Korean Air
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,648,833,True,12/12/2019,15,American Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,769,1755,False,12/15/2019,16,Turkish Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1039,1276,True,12/15/2019,17,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,774,1755,False,12/16/2019,18,Turkish Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,792,1276,True,12/16/2019,19,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,846,1317,False,12/17/2019,20,Korean Air
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,858,833,True,12/17/2019,21,American Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,827,1276,True,12/18/2019,22,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,826,1276,True,12/19/2019,23,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1043,1276,False,12/20/2019,24,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1310,1464,True,12/20/2019,25,ANA
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1028,851,False,12/21/2019,26,Alaska Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1442,1464,True,12/21/2019,27,ANA
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,802,1276,False,12/22/2019,28,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1039,1276,True,12/22/2019,29,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,768,1429,False,12/23/2019,30,China Eastern
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,787,1276,True,12/23/2019,31,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,430,1276,False,12/24/2019,32,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,787,1276,True,12/24/2019,33,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,471,988,False,12/25/2019,34,Delta
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,554,1276,True,12/25/2019,35,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,430,1276,False,12/26/2019,36,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,554,1276,True,12/26/2019,37,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,638,1429,False,12/27/2019,38,China Eastern
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,777,1276,True,12/27/2019,39,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,632,1429,False,12/28/2019,40,China Eastern
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,779,1276,True,12/28/2019,41,Japan Airlines
+Chicago,70788,Tokyo,Tokyo Narita,NRT,Japan,73076,425,1276,True,12/30/2019,42,Japan Airlines
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,506,835,False,12/2/2019,1,Air Canada
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,735,898,True,12/2/2019,2,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,507,851,False,12/4/2019,3,Alaska Airlines
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,735,898,True,12/4/2019,4,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,632,898,True,12/5/2019,5,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,519,851,False,12/6/2019,6,Alaska Airlines
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,710,898,True,12/6/2019,7,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,671,898,True,12/7/2019,8,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,647,1793,False,12/8/2019,9,United
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,507,851,False,12/9/2019,10,Alaska Airlines
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,735,898,True,12/9/2019,11,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,815,835,False,12/14/2019,12,Air Canada
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,802,1793,False,12/15/2019,13,United
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,802,1793,False,12/16/2019,14,United
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1094,898,True,12/16/2019,15,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,802,1793,False,12/17/2019,16,United
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,976,1464,False,12/18/2019,17,ANA
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1096,898,True,12/18/2019,18,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,934,835,False,12/19/2019,19,Air Canada
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1518,898,True,12/19/2019,20,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1109,952,False,12/20/2019,21,Cathay Pacific
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1565,898,True,12/20/2019,22,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,987,870,False,12/21/2019,23,jetBlue
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1490,898,True,12/21/2019,24,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,575,835,False,12/22/2019,25,Air Canada
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,798,1793,False,12/23/2019,26,United
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1088,898,True,12/23/2019,27,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,587,1658,False,12/24/2019,28,Royal Jordanian
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,614,1429,False,12/25/2019,29,China Eastern
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,993,898,True,12/25/2019,30,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,544,835,False,12/26/2019,31,Air Canada
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,702,898,True,12/26/2019,32,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,460,835,False,12/27/2019,33,Air Canada
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,739,898,True,12/27/2019,34,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,603,833,False,12/28/2019,35,American Airlines
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,803,898,True,12/28/2019,36,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,504,835,False,12/29/2019,37,Air Canada
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,504,835,False,12/30/2019,38,Air Canada
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,768,898,True,12/30/2019,39,EVA Air
+Chicago,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,610,1793,False,12/31/2019,40,United
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,486,1760,False,12/1/2019,1,TAP
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,977,1755,True,12/1/2019,2,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,479,1760,False,12/2/2019,3,TAP
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,977,1755,True,12/2/2019,4,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,807,1618,False,12/4/2019,5,Qatar Airways
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,1062,1755,True,12/4/2019,6,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,721,1033,False,12/12/2019,7,Aer Lingus
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,1089,1755,True,12/12/2019,8,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,521,870,False,12/14/2019,9,jetBlue
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,1030,1755,True,12/14/2019,10,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,2425,1368,False,12/15/2019,11,Lufthansa
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,469,1760,False,12/16/2019,12,TAP
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,971,1755,True,12/16/2019,13,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,478,1467,False,12/17/2019,14,Spirit Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,991,1755,True,12/17/2019,15,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,585,1467,False,12/18/2019,16,Spirit Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,708,1081,False,12/19/2019,17,Icelandair
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,999,1755,True,12/19/2019,18,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,764,870,False,12/20/2019,19,jetBlue
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,1008,1755,True,12/20/2019,20,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,746,1049,False,12/22/2019,21,Etihad Airways
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,977,1755,True,12/22/2019,22,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,2425,1368,False,12/23/2019,23,Lufthansa
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,714,1384,False,12/24/2019,24,SWISS
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,997,1755,True,12/24/2019,25,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,692,1760,False,12/25/2019,26,TAP
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,971,1755,True,12/25/2019,27,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,692,1218,False,12/26/2019,28,Iberia
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,998,1755,True,12/26/2019,29,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,717,870,False,12/27/2019,30,jetBlue
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,1108,1755,True,12/27/2019,31,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,573,881,False,12/28/2019,32,British Airways
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,1031,1755,True,12/28/2019,33,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,471,1760,False,12/29/2019,34,TAP
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,1068,1755,True,12/29/2019,35,Turkish Airlines
+Chicago,59316,Istanbul,Istanbul,IST,Turkey,73076,2444,1368,False,12/31/2019,36,Lufthansa
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,748,1755,False,12/1/2019,1,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,886,1317,True,12/1/2019,2,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,521,898,False,12/2/2019,3,EVA Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,856,1317,True,12/2/2019,4,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,533,851,False,12/3/2019,5,Alaska Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,862,1317,True,12/3/2019,6,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,656,898,False,12/4/2019,7,EVA Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,888,1317,True,12/4/2019,8,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,655,898,False,12/5/2019,9,EVA Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,981,1317,True,12/5/2019,10,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,693,898,False,12/6/2019,11,EVA Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,1271,1317,True,12/6/2019,12,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,694,898,False,12/7/2019,13,EVA Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,923,1317,True,12/7/2019,14,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,744,1755,False,12/8/2019,15,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,915,1317,True,12/8/2019,16,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,943,833,False,12/11/2019,17,American Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,727,1755,False,12/12/2019,18,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,909,1317,True,12/12/2019,19,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,732,1755,False,12/13/2019,20,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,901,1317,True,12/13/2019,21,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,732,1755,False,12/14/2019,22,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,964,1317,True,12/14/2019,23,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,697,1755,False,12/15/2019,24,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,970,1317,True,12/15/2019,25,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,692,1755,False,12/16/2019,26,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,970,1317,True,12/16/2019,27,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,692,1755,False,12/17/2019,28,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,974,1317,True,12/17/2019,29,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,769,1755,False,12/18/2019,30,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,980,1317,True,12/18/2019,31,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,960,1755,False,12/19/2019,32,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,991,1317,True,12/19/2019,33,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,987,851,False,12/20/2019,34,Alaska Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,1652,1317,True,12/20/2019,35,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,980,870,False,12/21/2019,36,jetBlue
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,1101,1317,True,12/21/2019,37,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,865,1755,False,12/22/2019,38,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,974,1317,True,12/22/2019,39,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,834,1755,False,12/23/2019,40,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,999,1317,True,12/23/2019,41,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,692,1755,False,12/24/2019,42,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,974,1317,True,12/24/2019,43,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,618,1429,False,12/25/2019,44,China Eastern
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,890,1317,True,12/25/2019,45,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,652,898,False,12/26/2019,46,EVA Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,891,1317,True,12/26/2019,47,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,626,1429,False,12/27/2019,48,China Eastern
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,920,1317,True,12/27/2019,49,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,622,1429,False,12/28/2019,50,China Eastern
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,935,1317,True,12/28/2019,51,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,622,1429,False,12/29/2019,52,China Eastern
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,906,1317,True,12/29/2019,53,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,616,1429,False,12/30/2019,54,China Eastern
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,910,1317,True,12/30/2019,55,Korean Air
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,748,1755,False,12/31/2019,56,Turkish Airlines
+Chicago,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,73076,920,1317,True,12/31/2019,57,Korean Air
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,544,1793,True,12/2/2019,1,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,354,1189,False,12/3/2019,2,Hainan Airlines
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,535,929,True,12/3/2019,3,Air China
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,544,1793,True,12/4/2019,4,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,521,1384,False,12/6/2019,5,SWISS
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,553,1793,True,12/6/2019,6,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,950,1049,False,12/13/2019,7,Etihad Airways
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1114,1793,True,12/13/2019,8,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,852,1189,False,12/14/2019,9,Hainan Airlines
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1243,988,True,12/14/2019,10,Delta
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,855,1755,False,12/15/2019,11,Turkish Airlines
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1113,1793,True,12/15/2019,12,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,856,1755,False,12/16/2019,13,Turkish Airlines
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1084,1793,True,12/16/2019,14,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,943,1049,False,12/21/2019,15,Etihad Airways
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1106,1793,True,12/21/2019,16,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,869,1049,False,12/22/2019,17,Etihad Airways
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1106,1793,True,12/22/2019,18,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,621,1793,False,12/24/2019,19,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1085,1793,True,12/24/2019,20,United
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,566,1429,True,12/25/2019,21,China Eastern
+Chicago,75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,618,988,False,12/30/2019,22,Delta
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,238,1721,False,12/1/2019,1,Sun Country Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,243,1793,True,12/1/2019,2,United
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,157,1793,True,12/2/2019,3,United
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,101,833,True,12/3/2019,4,American Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,74,1065,True,12/4/2019,5,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,110,1065,True,12/5/2019,6,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,110,1065,True,12/6/2019,7,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,75,1065,True,12/7/2019,8,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,74,1065,True,12/8/2019,9,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,74,1065,True,12/9/2019,10,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,74,1065,True,12/10/2019,11,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,64,833,True,12/11/2019,12,American Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,100,833,True,12/12/2019,13,American Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,110,1065,True,12/13/2019,14,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,74,1065,True,12/14/2019,15,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,75,1065,True,12/15/2019,16,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,75,1065,True,12/16/2019,17,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,74,1065,True,12/17/2019,18,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,74,1065,True,12/18/2019,19,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,218,1721,False,12/19/2019,20,Sun Country Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,230,1065,True,12/19/2019,21,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,225,1721,False,12/20/2019,22,Sun Country Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,232,1065,True,12/20/2019,23,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,230,1065,True,12/21/2019,24,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,149,1793,True,12/22/2019,25,United
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,149,1793,True,12/23/2019,26,United
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,173,1793,True,12/24/2019,27,United
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,173,1793,True,12/25/2019,28,United
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,232,1065,True,12/26/2019,29,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,232,1065,True,12/27/2019,30,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,232,1065,True,12/28/2019,31,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,232,1065,True,12/29/2019,32,Frontier Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,149,833,True,12/30/2019,33,American Airlines
+Chicago,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,73076,149,833,True,12/31/2019,34,American Airlines
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,329,1760,False,12/2/2019,1,TAP
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,329,1760,False,12/4/2019,2,TAP
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,268,1760,False,12/6/2019,3,TAP
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,268,1760,False,12/7/2019,4,TAP
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,213,1760,False,12/8/2019,5,TAP
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,299,1065,False,12/11/2019,6,Frontier Airlines
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,450,870,False,12/13/2019,7,jetBlue
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,388,1467,False,12/14/2019,8,Spirit Airlines
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,368,1065,False,12/15/2019,9,Frontier Airlines
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,346,1065,False,12/16/2019,10,Frontier Airlines
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,417,1467,False,12/18/2019,11,Spirit Airlines
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,764,1033,False,12/21/2019,12,Aer Lingus
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,626,870,False,12/22/2019,13,jetBlue
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,461,1707,False,12/23/2019,14,SAS
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,728,1755,False,12/24/2019,15,Turkish Airlines
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,426,1760,False,12/25/2019,16,TAP
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,576,870,False,12/26/2019,17,jetBlue
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,468,870,False,12/27/2019,18,jetBlue
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,424,1760,False,12/28/2019,19,TAP
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,329,1760,False,12/29/2019,20,TAP
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,327,1760,False,12/30/2019,21,TAP
+Chicago,68768,Milan,Milan Malpensa,MXP,Italy,73076,567,870,False,12/31/2019,22,jetBlue
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,284,1721,False,12/1/2019,1,Sun Country Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,345,1793,True,12/1/2019,2,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,122,833,False,12/2/2019,3,American Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,219,1793,True,12/2/2019,4,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,106,851,True,12/3/2019,5,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,92,1793,True,12/4/2019,6,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,89,851,True,12/5/2019,7,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,90,851,True,12/6/2019,8,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,88,833,True,12/7/2019,9,American Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,106,851,True,12/8/2019,10,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,89,851,True,12/9/2019,11,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,88,833,True,12/10/2019,12,American Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,88,833,True,12/11/2019,13,American Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,92,851,True,12/12/2019,14,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,90,851,True,12/13/2019,15,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,94,1467,False,12/14/2019,16,Spirit Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,106,851,True,12/14/2019,17,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,107,851,True,12/15/2019,18,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,109,833,True,12/16/2019,19,American Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,104,1467,False,12/17/2019,20,Spirit Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,109,833,True,12/17/2019,21,American Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,112,1467,False,12/18/2019,22,Spirit Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,115,1467,True,12/18/2019,23,Spirit Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,160,851,True,12/19/2019,24,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,256,988,False,12/20/2019,25,Delta
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,257,1793,True,12/20/2019,26,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,276,851,True,12/21/2019,27,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,153,1793,True,12/22/2019,28,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,154,1793,True,12/23/2019,29,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,154,1793,True,12/24/2019,30,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,145,833,False,12/25/2019,31,American Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,154,1793,True,12/25/2019,32,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,292,1721,False,12/26/2019,33,Sun Country Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,388,851,True,12/26/2019,34,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,257,1793,True,12/27/2019,35,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,265,1793,False,12/28/2019,36,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,293,1793,True,12/28/2019,37,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,257,1793,True,12/29/2019,38,United
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,250,1721,False,12/30/2019,39,Sun Country Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,276,851,True,12/30/2019,40,Alaska Airlines
+Chicago,65368,Los Angeles,Los Angeles International,LAX,United States,73076,154,1793,True,12/31/2019,41,United
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,656,898,False,12/2/2019,1,EVA Air
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,489,1317,False,12/4/2019,2,Korean Air
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,1063,1464,False,12/9/2019,3,ANA
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,661,988,False,12/10/2019,4,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,737,988,False,12/11/2019,5,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,737,988,False,12/12/2019,6,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,1087,988,False,12/13/2019,7,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,1145,988,False,12/14/2019,8,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,907,988,False,12/15/2019,9,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,866,988,False,12/16/2019,10,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,1814,988,False,12/22/2019,11,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,866,988,False,12/23/2019,12,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,705,988,False,12/24/2019,13,Delta
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,446,1276,False,12/25/2019,14,Japan Airlines
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,449,870,False,12/26/2019,15,jetBlue
+Chicago,63448,Osaka,Osaka Kansai International,KIX,Japan,73076,807,898,False,12/30/2019,16,EVA Air
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,336,1760,False,12/1/2019,1,TAP
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,279,1760,False,12/2/2019,2,TAP
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,715,1033,False,12/3/2019,3,Aer Lingus
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,233,1760,False,12/9/2019,4,TAP
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,303,870,False,12/10/2019,5,jetBlue
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,336,1760,False,12/11/2019,6,TAP
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,414,1033,False,12/13/2019,7,Aer Lingus
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,351,1467,False,12/17/2019,8,Spirit Airlines
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,407,1707,False,12/18/2019,9,SAS
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,476,1707,False,12/19/2019,10,SAS
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,553,1707,False,12/20/2019,11,SAS
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,548,1707,False,12/21/2019,12,SAS
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,524,1033,False,12/22/2019,13,Aer Lingus
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,414,1033,False,12/23/2019,14,Aer Lingus
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,438,870,False,12/24/2019,15,jetBlue
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,414,1033,False,12/27/2019,16,Aer Lingus
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,414,1033,False,12/28/2019,17,Aer Lingus
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,354,1760,False,12/29/2019,18,TAP
+Chicago,84892,Berlin,Berlin Tegel,TXL,Germany,73076,338,1760,False,12/30/2019,19,TAP
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,581,1618,False,12/3/2019,1,Qatar Airways
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,566,1618,False,12/5/2019,2,Qatar Airways
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,1075,1368,False,12/6/2019,3,Lufthansa
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,577,1218,False,12/7/2019,4,Iberia
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,577,1218,False,12/8/2019,5,Iberia
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,571,1618,False,12/9/2019,6,Qatar Airways
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,False,12/10/2019,7,Ethiopian Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,False,12/11/2019,8,Ethiopian Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,737,1755,False,12/12/2019,9,Turkish Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,908,1755,False,12/13/2019,10,Turkish Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,886,1044,False,12/14/2019,11,Ethiopian Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,963,1044,False,12/16/2019,12,Ethiopian Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3673,1324,False,12/17/2019,13,KLM
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3695,1324,False,12/18/2019,14,KLM
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,962,1049,False,12/20/2019,15,Etihad Airways
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,923,1044,False,12/21/2019,16,Ethiopian Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3619,1324,False,12/22/2019,17,KLM
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,753,1044,False,12/23/2019,18,Ethiopian Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,False,12/24/2019,19,Ethiopian Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3643,1324,False,12/25/2019,20,KLM
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3625,1324,False,12/26/2019,21,KLM
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,False,12/27/2019,22,Ethiopian Airlines
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,678,881,False,12/28/2019,23,British Airways
+Chicago,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3623,1324,False,12/31/2019,24,KLM
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,3684,881,False,12/2/2019,1,British Airways
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,3673,881,False,12/3/2019,2,British Airways
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,3678,881,False,12/8/2019,3,British Airways
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,3682,881,False,12/13/2019,4,British Airways
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,3681,881,False,12/16/2019,5,British Airways
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,3682,881,False,12/20/2019,6,British Airways
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,3674,881,False,12/21/2019,7,British Airways
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,403,1793,False,12/24/2019,8,United
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,490,1793,False,12/26/2019,9,United
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,489,870,False,12/27/2019,10,jetBlue
+Chicago,88485,Venice,Venice Marco Polo,VCE,Italy,73076,478,1760,False,12/28/2019,11,TAP
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,405,1760,False,12/2/2019,1,TAP
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,629,1755,False,12/3/2019,2,Turkish Airlines
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,378,870,False,12/4/2019,3,jetBlue
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,344,870,False,12/10/2019,4,jetBlue
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,353,870,False,12/11/2019,5,jetBlue
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,602,1755,False,12/13/2019,6,Turkish Airlines
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,417,1467,False,12/14/2019,7,Spirit Airlines
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,451,1065,False,12/15/2019,8,Frontier Airlines
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,425,1065,False,12/16/2019,9,Frontier Airlines
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,491,1467,False,12/18/2019,10,Spirit Airlines
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,721,1081,False,12/19/2019,11,Icelandair
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,948,1755,False,12/21/2019,12,Turkish Airlines
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,636,1755,False,12/23/2019,13,Turkish Airlines
+Chicago,88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,679,1755,False,12/26/2019,14,Turkish Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,390,988,False,12/1/2019,1,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,385,988,False,12/2/2019,2,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,347,1189,True,12/3/2019,3,Hainan Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,388,1793,False,12/4/2019,4,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,854,1793,True,12/4/2019,5,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,375,929,True,12/5/2019,6,Air China
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,411,1658,False,12/6/2019,7,Royal Jordanian
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,891,929,True,12/6/2019,8,Air China
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,401,1189,False,12/7/2019,9,Hainan Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,413,1793,True,12/7/2019,10,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,390,988,False,12/8/2019,11,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,385,988,False,12/9/2019,12,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,380,1697,False,12/10/2019,13,South African Airways
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,444,1189,True,12/10/2019,14,Hainan Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1176,988,False,12/11/2019,15,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,733,1793,False,12/12/2019,16,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,941,1189,True,12/12/2019,17,Hainan Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,3754,988,False,12/13/2019,18,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,981,1464,False,12/14/2019,19,ANA
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1556,1189,True,12/14/2019,20,Hainan Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,847,1755,False,12/15/2019,21,Turkish Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1328,1793,True,12/15/2019,22,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,617,1065,False,12/16/2019,23,Frontier Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1179,1793,True,12/16/2019,24,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,636,1384,False,12/17/2019,25,SWISS
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1152,1793,True,12/17/2019,26,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,922,1464,False,12/18/2019,27,ANA
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1179,1793,True,12/18/2019,28,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,951,898,False,12/19/2019,29,EVA Air
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1239,1189,True,12/19/2019,30,Hainan Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1225,988,False,12/20/2019,31,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,3753,988,False,12/21/2019,32,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,793,929,False,12/22/2019,33,Air China
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1229,1793,True,12/22/2019,34,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,719,870,False,12/23/2019,35,jetBlue
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1179,1793,True,12/23/2019,36,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,729,1793,False,12/24/2019,37,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,1153,1793,True,12/24/2019,38,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,382,1530,False,12/25/2019,39,Asiana Airlines
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,849,929,True,12/25/2019,40,Air China
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,488,1793,False,12/26/2019,41,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,583,1793,True,12/26/2019,42,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,417,1793,False,12/27/2019,43,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,903,1793,True,12/27/2019,44,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,413,1793,True,12/28/2019,45,United
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,403,988,False,12/29/2019,46,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,385,988,False,12/30/2019,47,Delta
+Chicago,74763,Beijing,Beijing Capital,PEK,China,73076,852,988,False,12/31/2019,48,Delta
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,True,12/1/2019,1,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,True,12/2/2019,2,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,137,1793,True,12/3/2019,3,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,833,True,12/4/2019,4,American Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,118,988,False,12/5/2019,5,Delta
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,138,1793,True,12/5/2019,6,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,132,851,True,12/6/2019,7,Alaska Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,True,12/7/2019,8,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,True,12/8/2019,9,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,True,12/9/2019,10,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,138,1793,True,12/10/2019,11,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,110,1658,True,12/11/2019,12,Royal Jordanian
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,True,12/12/2019,13,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,True,12/13/2019,14,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,133,851,True,12/14/2019,15,Alaska Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,129,851,True,12/16/2019,16,Alaska Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,118,988,False,12/17/2019,17,Delta
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,True,12/17/2019,18,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,True,12/18/2019,19,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,833,True,12/19/2019,20,American Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,132,1793,True,12/20/2019,21,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,138,1793,True,12/21/2019,22,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,132,1793,True,12/22/2019,23,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,833,True,12/23/2019,24,American Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,833,True,12/24/2019,25,American Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,115,833,True,12/25/2019,26,American Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,110,833,True,12/26/2019,27,American Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,129,851,True,12/27/2019,28,Alaska Airlines
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,140,1793,True,12/28/2019,29,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,129,1658,True,12/29/2019,30,Royal Jordanian
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,132,1793,True,12/30/2019,31,United
+Chicago,96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,132,1793,True,12/31/2019,32,United
+Chicago,56138,Hannover,Hannover,HAJ,Germany,73076,412,1707,False,12/18/2019,1,SAS
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,737,1429,False,12/1/2019,1,China Eastern
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,648,851,False,12/2/2019,2,Alaska Airlines
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,558,851,False,12/3/2019,3,Alaska Airlines
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,609,851,False,12/4/2019,4,Alaska Airlines
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,867,1793,False,12/7/2019,5,United
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,583,851,False,12/9/2019,6,Alaska Airlines
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,615,1482,False,12/11/2019,7,Air New Zealand
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,616,1482,False,12/12/2019,8,Air New Zealand
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1281,1793,False,12/13/2019,9,United
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,684,851,False,12/15/2019,10,Alaska Airlines
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1358,833,False,12/16/2019,11,American Airlines
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1040,1082,False,12/17/2019,12,Fiji Airways
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,805,1467,False,12/18/2019,13,Spirit Airlines
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1251,1429,False,12/20/2019,14,China Eastern
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1168,836,False,12/21/2019,15,Azul Airlines
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1094,1606,False,12/22/2019,16,Qantas
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1102,1482,False,12/23/2019,17,Air New Zealand
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1391,1793,False,12/25/2019,18,United
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,920,851,False,12/26/2019,19,Alaska Airlines
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,833,1429,False,12/27/2019,20,China Eastern
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1410,1793,False,12/28/2019,21,United
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1147,1049,False,12/29/2019,22,Etihad Airways
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,795,1429,False,12/30/2019,23,China Eastern
+Chicago,82628,Sydney,Sydney,SYD,Australia,73076,1391,1793,False,12/31/2019,24,United
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,446,941,False,12/1/2019,1,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,436,941,False,12/3/2019,2,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,233,870,False,12/5/2019,3,jetBlue
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,377,988,False,12/8/2019,4,Delta
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,372,1793,False,12/9/2019,5,United
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,238,870,False,12/10/2019,6,jetBlue
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,330,1467,False,12/14/2019,7,Spirit Airlines
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,336,870,False,12/15/2019,8,jetBlue
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,319,870,False,12/16/2019,9,jetBlue
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,364,870,False,12/17/2019,10,jetBlue
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,374,1065,False,12/18/2019,11,Frontier Airlines
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,807,941,False,12/20/2019,12,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,947,941,False,12/21/2019,13,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,811,941,False,12/22/2019,14,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,715,941,False,12/23/2019,15,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,446,941,False,12/24/2019,16,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,389,835,False,12/25/2019,17,Air Canada
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,675,941,False,12/26/2019,18,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,446,941,False,12/27/2019,19,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,446,941,False,12/28/2019,20,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,485,941,False,12/29/2019,21,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,386,941,False,12/30/2019,22,Copa
+Chicago,86479,Quito,Quito,UIO,Ecuador,73076,376,941,False,12/31/2019,23,Copa
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,310,833,False,12/1/2019,1,American Airlines
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,406,833,False,12/2/2019,2,American Airlines
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,271,833,False,12/3/2019,3,American Airlines
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,234,833,False,12/5/2019,4,American Airlines
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,234,833,False,12/6/2019,5,American Airlines
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,227,833,False,12/9/2019,6,American Airlines
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,156,833,False,12/10/2019,7,American Airlines
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,121,988,False,12/12/2019,8,Delta
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,122,988,False,12/13/2019,9,Delta
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,214,870,False,12/15/2019,10,jetBlue
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,371,851,False,12/19/2019,11,Alaska Airlines
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,217,988,False,12/24/2019,12,Delta
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,326,833,False,12/25/2019,13,American Airlines
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,383,988,False,12/28/2019,14,Delta
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,368,870,False,12/30/2019,15,jetBlue
+Chicago,65634,Long Beach,Long Beach Municipal,LGB,United States,73076,1253,851,False,12/31/2019,16,Alaska Airlines
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,481,1760,False,12/5/2019,1,TAP
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,1021,1707,True,12/5/2019,2,SAS
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,529,1755,False,12/9/2019,3,Turkish Airlines
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,615,1081,False,12/22/2019,4,Icelandair
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,935,1707,True,12/22/2019,5,SAS
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,556,1760,False,12/23/2019,6,TAP
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,2568,1707,True,12/23/2019,7,SAS
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,522,1755,False,12/27/2019,8,Turkish Airlines
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,1023,1707,True,12/27/2019,9,SAS
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,357,1760,False,12/29/2019,10,TAP
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,963,1707,True,12/29/2019,11,SAS
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,357,1760,False,12/30/2019,12,TAP
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,1123,1707,True,12/30/2019,13,SAS
+Chicago,45336,Copenhagen,Copenhagen,CPH,Denmark,73076,528,1755,False,12/31/2019,14,Turkish Airlines
+Chicago,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,374,851,False,12/5/2019,1,Alaska Airlines
+Chicago,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,394,1065,False,12/14/2019,2,Frontier Airlines
+Chicago,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,960,1033,False,12/20/2019,3,Aer Lingus
+Chicago,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,804,1760,False,12/24/2019,4,TAP
+Chicago,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,525,1760,False,12/25/2019,5,TAP
+Chicago,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,617,870,False,12/26/2019,6,jetBlue
+Chicago,91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,568,835,False,12/28/2019,7,Air Canada
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,406,1760,False,12/1/2019,1,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,584,851,False,12/5/2019,2,Alaska Airlines
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,375,1760,False,12/6/2019,3,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,325,1760,False,12/8/2019,4,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,765,1375,False,12/9/2019,5,LOT
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,468,870,False,12/10/2019,6,jetBlue
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,404,1760,False,12/11/2019,7,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,582,1218,False,12/12/2019,8,Iberia
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,667,1760,False,12/13/2019,9,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,2368,1368,False,12/14/2019,10,Lufthansa
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,487,1760,False,12/15/2019,11,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,380,1065,False,12/16/2019,12,Frontier Airlines
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,578,1065,False,12/17/2019,13,Frontier Airlines
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,958,1755,False,12/18/2019,14,Turkish Airlines
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,599,1760,False,12/22/2019,15,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,594,1218,False,12/24/2019,16,Iberia
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,485,1760,False,12/25/2019,17,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,520,1760,False,12/27/2019,18,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,417,1760,False,12/28/2019,19,TAP
+Chicago,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,765,1375,False,12/31/2019,20,LOT
+Chicago,50101,Essaouira,Essaouira,ESU,Morocco,73076,742,1760,False,12/18/2019,1,TAP
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,382,1760,False,12/1/2019,1,TAP
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,382,1760,False,12/2/2019,2,TAP
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,403,1707,False,12/3/2019,3,SAS
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,738,1710,True,12/3/2019,4,Brussels Airlines
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,728,1033,False,12/5/2019,5,Aer Lingus
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,307,1760,False,12/6/2019,6,TAP
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,803,1710,True,12/6/2019,7,Brussels Airlines
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,477,1707,False,12/13/2019,8,SAS
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,937,1710,True,12/13/2019,9,Brussels Airlines
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,728,1033,False,12/14/2019,10,Aer Lingus
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,367,870,False,12/15/2019,11,jetBlue
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,937,1710,True,12/15/2019,12,Brussels Airlines
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,403,1707,False,12/18/2019,13,SAS
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,1023,1710,True,12/18/2019,14,Brussels Airlines
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,974,1760,False,12/20/2019,15,TAP
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,1195,1760,False,12/21/2019,16,TAP
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,420,1707,False,12/22/2019,17,SAS
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,1088,1710,True,12/22/2019,18,Brussels Airlines
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,578,1760,False,12/23/2019,19,TAP
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,403,1707,False,12/25/2019,20,SAS
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,738,1710,True,12/25/2019,21,Brussels Airlines
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,645,1755,False,12/26/2019,22,Turkish Airlines
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,2888,1793,True,12/26/2019,23,United
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,457,1760,False,12/28/2019,24,TAP
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,820,1710,True,12/28/2019,25,Brussels Airlines
+Chicago,43141,Brussels,Brussels International,BRU,Belgium,73076,382,1760,False,12/30/2019,26,TAP
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,814,1429,False,12/1/2019,1,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1070,1482,True,12/1/2019,2,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,803,1429,False,12/2/2019,3,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,795,851,False,12/6/2019,4,Alaska Airlines
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1062,1482,True,12/6/2019,5,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,715,1189,False,12/10/2019,6,Hainan Airlines
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1517,833,False,12/14/2019,7,American Airlines
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1878,1793,True,12/14/2019,8,United
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1665,952,False,12/15/2019,9,Cathay Pacific
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1885,1793,True,12/15/2019,10,United
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1268,1429,False,12/16/2019,11,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1526,1482,True,12/16/2019,12,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,969,1082,False,12/17/2019,13,Fiji Airways
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1366,1429,False,12/18/2019,14,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1608,1482,True,12/18/2019,15,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1213,1082,False,12/19/2019,16,Fiji Airways
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1347,1429,False,12/20/2019,17,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1663,1482,True,12/20/2019,18,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1580,1482,True,12/21/2019,19,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,2454,1755,False,12/22/2019,20,Turkish Airlines
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1516,833,False,12/23/2019,21,American Airlines
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1813,1482,True,12/23/2019,22,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,961,1082,False,12/24/2019,23,Fiji Airways
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,950,1429,False,12/25/2019,24,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1526,1482,True,12/25/2019,25,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,961,1082,False,12/26/2019,26,Fiji Airways
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,868,1429,False,12/27/2019,27,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1570,1482,True,12/27/2019,28,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,975,1429,False,12/28/2019,29,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1571,1482,True,12/28/2019,30,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,868,1429,False,12/29/2019,31,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1571,1482,True,12/29/2019,32,Air New Zealand
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,871,1429,False,12/30/2019,33,China Eastern
+Chicago,40492,Auckland,Auckland International,AKL,New Zealand,73076,1526,1482,True,12/30/2019,34,Air New Zealand
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,269,1793,True,12/1/2019,1,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,210,1793,True,12/2/2019,2,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,176,988,False,12/3/2019,3,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,216,1793,True,12/3/2019,4,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,166,851,False,12/4/2019,5,Alaska Airlines
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,210,1793,True,12/4/2019,6,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,169,988,False,12/5/2019,7,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,210,1793,True,12/5/2019,8,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,176,988,False,12/6/2019,9,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,216,1793,True,12/6/2019,10,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,193,1907,False,12/7/2019,11,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,210,1793,True,12/7/2019,12,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,170,988,False,12/8/2019,13,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,210,1793,True,12/8/2019,14,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,176,988,False,12/9/2019,15,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,212,1793,True,12/9/2019,16,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,176,988,False,12/10/2019,17,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,211,1793,True,12/10/2019,18,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,193,1907,False,12/11/2019,19,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,210,1793,True,12/11/2019,20,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,171,988,False,12/12/2019,21,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,212,1793,True,12/12/2019,22,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,193,1907,False,12/13/2019,23,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,210,1793,True,12/13/2019,24,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,197,1907,False,12/14/2019,25,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,210,1793,True,12/14/2019,26,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,169,988,False,12/15/2019,27,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,210,1793,True,12/15/2019,28,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,176,988,False,12/16/2019,29,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,217,1793,True,12/16/2019,30,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,176,988,False,12/17/2019,31,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,211,1793,True,12/17/2019,32,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,169,988,False,12/18/2019,33,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,215,1793,True,12/18/2019,34,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,204,1907,False,12/19/2019,35,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,383,1793,True,12/19/2019,36,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,287,1907,False,12/20/2019,37,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,416,1793,True,12/20/2019,38,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,285,1907,False,12/21/2019,39,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,535,1793,True,12/21/2019,40,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,226,1907,False,12/22/2019,41,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,278,1793,True,12/22/2019,42,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,269,1793,True,12/23/2019,43,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,197,1907,False,12/24/2019,44,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,217,1793,True,12/24/2019,45,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,202,1907,False,12/25/2019,46,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,211,1793,True,12/25/2019,47,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,207,1907,False,12/26/2019,48,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,354,1033,True,12/26/2019,49,Aer Lingus
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,343,1907,False,12/27/2019,50,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,385,1793,True,12/27/2019,51,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,201,1907,False,12/28/2019,52,WestJet
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,320,1793,True,12/28/2019,53,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,263,988,False,12/29/2019,54,Delta
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,273,1793,True,12/29/2019,55,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,220,1793,False,12/30/2019,56,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,273,1793,True,12/30/2019,57,United
+Chicago,96322,Vancouver,Vancouver International,YVR,Canada,73076,217,1793,True,12/31/2019,58,United
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,5270,1464,False,12/1/2019,1,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,484,1464,False,12/7/2019,2,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,786,1464,False,12/8/2019,3,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,1003,988,False,12/9/2019,4,Delta
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,815,1464,False,12/13/2019,5,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,846,1793,False,12/14/2019,6,United
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,773,1464,False,12/16/2019,7,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,799,1464,False,12/17/2019,8,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,967,1464,False,12/18/2019,9,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,936,1464,False,12/20/2019,10,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,1018,1464,False,12/21/2019,11,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,1004,1464,False,12/22/2019,12,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,729,1755,False,12/23/2019,13,Turkish Airlines
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,798,1464,False,12/24/2019,14,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,805,1464,False,12/26/2019,15,ANA
+Chicago,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,837,1464,False,12/27/2019,16,ANA
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,237,1760,False,12/2/2019,1,TAP
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2918,1368,True,12/2/2019,2,Lufthansa
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2945,1368,True,12/3/2019,3,Lufthansa
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,240,1760,False,12/4/2019,4,TAP
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,756,1368,True,12/4/2019,5,Lufthansa
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,473,835,False,12/5/2019,6,Air Canada
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2947,1368,True,12/5/2019,7,Lufthansa
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,248,1760,False,12/7/2019,8,TAP
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2944,1793,True,12/7/2019,9,United
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,193,1760,False,12/9/2019,10,TAP
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2948,1793,True,12/9/2019,11,United
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,438,1065,False,12/10/2019,12,Frontier Airlines
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2942,1368,True,12/10/2019,13,Lufthansa
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,307,1760,False,12/11/2019,14,TAP
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2942,1368,True,12/11/2019,15,Lufthansa
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,472,1707,False,12/13/2019,16,SAS
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,998,1368,True,12/13/2019,17,Lufthansa
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,834,1081,False,12/15/2019,18,Icelandair
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,407,1707,False,12/17/2019,19,SAS
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1358,1751,True,12/17/2019,20,Thai Airways
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,407,1707,False,12/18/2019,21,SAS
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1271,1368,True,12/18/2019,22,Lufthansa
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,471,1707,False,12/19/2019,23,SAS
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1450,1751,True,12/19/2019,24,Thai Airways
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,747,1033,False,12/21/2019,25,Aer Lingus
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,3009,1793,True,12/21/2019,26,United
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,412,1707,False,12/22/2019,27,SAS
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1527,1751,True,12/22/2019,28,Thai Airways
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,409,1707,False,12/23/2019,29,SAS
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1334,1751,True,12/23/2019,30,Thai Airways
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,489,1760,False,12/24/2019,31,TAP
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,901,1751,True,12/24/2019,32,Thai Airways
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,388,1760,False,12/25/2019,33,TAP
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2937,1368,True,12/25/2019,34,Lufthansa
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,404,1760,False,12/28/2019,35,TAP
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2947,1793,True,12/28/2019,36,United
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,294,1760,False,12/29/2019,37,TAP
+Chicago,52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,978,1751,True,12/29/2019,38,Thai Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,357,1760,False,12/1/2019,1,TAP
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2507,1707,True,12/1/2019,2,SAS
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2353,881,False,12/5/2019,3,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2355,881,False,12/11/2019,4,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2353,881,False,12/12/2019,5,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2353,881,False,12/13/2019,6,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2353,881,False,12/14/2019,7,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2353,881,False,12/15/2019,8,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,325,1467,False,12/16/2019,9,Spirit Airlines
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2390,1707,True,12/16/2019,10,SAS
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2403,881,False,12/17/2019,11,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,556,1760,False,12/18/2019,12,TAP
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2526,1707,True,12/18/2019,13,SAS
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,722,1755,False,12/19/2019,14,Turkish Airlines
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2510,1707,True,12/19/2019,15,SAS
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,605,1081,False,12/20/2019,16,Icelandair
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2388,1707,True,12/20/2019,17,SAS
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2411,881,False,12/21/2019,18,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,656,1760,False,12/22/2019,19,TAP
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2526,1707,True,12/22/2019,20,SAS
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,412,1324,False,12/23/2019,21,KLM
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,994,1707,True,12/23/2019,22,SAS
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2337,881,False,12/27/2019,23,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2337,881,False,12/28/2019,24,British Airways
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,341,1760,False,12/29/2019,25,TAP
+Chicago,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,971,1707,True,12/29/2019,26,SAS
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,441,1324,False,12/3/2019,1,KLM
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,548,870,False,12/9/2019,2,jetBlue
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,540,870,False,12/11/2019,3,jetBlue
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,624,870,False,12/13/2019,4,jetBlue
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,730,870,False,12/14/2019,5,jetBlue
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,592,870,False,12/15/2019,6,jetBlue
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,614,870,False,12/17/2019,7,jetBlue
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,676,870,False,12/19/2019,8,jetBlue
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,879,870,False,12/20/2019,9,jetBlue
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,849,1658,False,12/21/2019,10,Royal Jordanian
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,812,1482,False,12/25/2019,11,Air New Zealand
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,812,1482,False,12/26/2019,12,Air New Zealand
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,677,870,False,12/27/2019,13,jetBlue
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,811,1482,False,12/28/2019,14,Air New Zealand
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,812,1482,False,12/29/2019,15,Air New Zealand
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,626,857,False,12/30/2019,16,Finnair
+Chicago,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,613,1324,False,12/31/2019,17,KLM
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,601,835,False,12/3/2019,1,Air Canada
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,630,870,False,12/4/2019,2,jetBlue
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,666,835,False,12/7/2019,3,Air Canada
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,854,988,False,12/9/2019,4,Delta
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,638,1065,False,12/13/2019,5,Frontier Airlines
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,735,850,False,12/14/2019,6,Aerolineas Argentinas
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,763,1065,False,12/15/2019,7,Frontier Airlines
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,731,850,False,12/16/2019,8,Aerolineas Argentinas
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,4260,988,False,12/17/2019,9,Delta
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,940,850,False,12/18/2019,10,Aerolineas Argentinas
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,816,845,False,12/19/2019,11,Aeromexico (aerm)
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,828,941,False,12/20/2019,12,Copa
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,789,1126,False,12/21/2019,13,Gulf Air
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,770,851,False,12/22/2019,14,Alaska Airlines
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,821,850,False,12/23/2019,15,Aerolineas Argentinas
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,695,835,False,12/24/2019,16,Air Canada
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,687,835,False,12/27/2019,17,Air Canada
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,848,988,False,12/29/2019,18,Delta
+Chicago,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,848,988,False,12/30/2019,19,Delta
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,229,833,True,12/1/2019,1,American Airlines
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,168,833,False,12/5/2019,2,American Airlines
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,833,True,12/5/2019,3,American Airlines
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,169,833,False,12/16/2019,4,American Airlines
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,199,833,True,12/16/2019,5,American Airlines
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,181,833,True,12/18/2019,6,American Airlines
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,833,True,12/19/2019,7,American Airlines
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,313,1793,True,12/21/2019,8,United
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,214,1793,True,12/22/2019,9,United
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,1793,True,12/23/2019,10,United
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,1793,True,12/25/2019,11,United
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,299,988,False,12/26/2019,12,Delta
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,311,1793,True,12/26/2019,13,United
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,280,988,False,12/27/2019,14,Delta
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,311,1793,True,12/27/2019,15,United
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,833,True,12/28/2019,16,American Airlines
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,199,833,True,12/29/2019,17,American Airlines
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,199,1793,True,12/30/2019,18,United
+Chicago,40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,833,True,12/31/2019,19,American Airlines
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/1/2019,1,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/2/2019,2,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,155,988,False,12/3/2019,3,Delta
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/3/2019,4,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,155,988,False,12/4/2019,5,Delta
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/4/2019,6,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,162,988,False,12/5/2019,7,Delta
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,True,12/5/2019,8,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/6/2019,9,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,197,1467,False,12/7/2019,10,Spirit Airlines
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,240,835,True,12/7/2019,11,Air Canada
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/8/2019,12,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/9/2019,13,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,155,988,False,12/10/2019,14,Delta
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/10/2019,15,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/11/2019,16,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,161,988,False,12/12/2019,17,Delta
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/12/2019,18,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,155,988,False,12/13/2019,19,Delta
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,833,True,12/13/2019,20,American Airlines
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/14/2019,21,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,188,851,False,12/15/2019,22,Alaska Airlines
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/15/2019,23,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,162,988,False,12/16/2019,24,Delta
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/16/2019,25,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/17/2019,26,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,162,988,False,12/18/2019,27,Delta
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,833,True,12/18/2019,28,American Airlines
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,162,988,False,12/19/2019,29,Delta
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,True,12/19/2019,30,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,187,1658,False,12/21/2019,31,Royal Jordanian
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,218,1482,True,12/21/2019,32,Air New Zealand
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,188,851,False,12/22/2019,33,Alaska Airlines
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,218,1482,True,12/22/2019,34,Air New Zealand
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,True,12/24/2019,35,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,True,12/25/2019,36,United
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,217,1907,False,12/26/2019,37,WestJet
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,218,1482,True,12/26/2019,38,Air New Zealand
+Chicago,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,True,12/28/2019,39,United
+Chicago,75572,Providence,Providence,PVD,United States,73076,333,1793,True,12/1/2019,1,United
+Chicago,75572,Providence,Providence,PVD,United States,73076,107,1793,True,12/17/2019,2,United
+Chicago,75572,Providence,Providence,PVD,United States,73076,116,833,True,12/18/2019,3,American Airlines
+Chicago,75572,Providence,Providence,PVD,United States,73076,235,1721,False,12/19/2019,4,Sun Country Airlines
+Chicago,75572,Providence,Providence,PVD,United States,73076,231,1793,True,12/28/2019,5,United
+Chicago,75572,Providence,Providence,PVD,United States,73076,220,1721,False,12/31/2019,6,Sun Country Airlines
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3677,1324,False,12/1/2019,1,KLM
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,616,1126,False,12/2/2019,2,Gulf Air
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,715,1049,True,12/2/2019,3,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3679,838,False,12/3/2019,4,Air France
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3678,1324,False,12/4/2019,5,KLM
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3682,838,False,12/5/2019,6,Air France
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3679,1324,False,12/6/2019,7,KLM
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3678,838,False,12/7/2019,8,Air France
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3678,1324,False,12/8/2019,9,KLM
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3678,838,False,12/9/2019,10,Air France
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3679,838,False,12/10/2019,11,Air France
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3678,1324,False,12/11/2019,12,KLM
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3679,838,False,12/12/2019,13,Air France
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,791,881,False,12/13/2019,14,British Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,810,1049,True,12/13/2019,15,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,860,1049,True,12/14/2019,16,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,788,1049,False,12/15/2019,17,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,903,1049,True,12/15/2019,18,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3678,1324,False,12/16/2019,19,KLM
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3679,838,False,12/17/2019,20,Air France
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3675,988,False,12/18/2019,21,Delta
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3704,838,False,12/19/2019,22,Air France
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,837,1416,False,12/20/2019,23,Malaysia Airlines
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,928,1049,True,12/20/2019,24,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,837,1416,False,12/21/2019,25,Malaysia Airlines
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,928,1049,True,12/21/2019,26,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,747,1049,False,12/22/2019,27,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,1118,1049,True,12/22/2019,28,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,776,1049,True,12/26/2019,29,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,845,1049,True,12/27/2019,30,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,845,1049,True,12/28/2019,31,Etihad Airways
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3676,1324,False,12/29/2019,32,KLM
+Chicago,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,776,1049,True,12/31/2019,33,Etihad Airways
+Chicago,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,455,881,False,12/4/2019,1,British Airways
+Chicago,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,1515,1618,False,12/14/2019,2,Qatar Airways
+Chicago,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,679,881,False,12/15/2019,3,British Airways
+Chicago,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,906,881,False,12/16/2019,4,British Airways
+Chicago,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,1653,1618,False,12/18/2019,5,Qatar Airways
+Chicago,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,1652,1618,False,12/19/2019,6,Qatar Airways
+Chicago,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,748,881,False,12/21/2019,7,British Airways
+Chicago,45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,995,1618,False,12/24/2019,8,Qatar Airways
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,True,12/1/2019,1,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,True,12/2/2019,2,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,113,870,False,12/3/2019,3,jetBlue
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,118,833,True,12/3/2019,4,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,118,1793,True,12/4/2019,5,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,150,988,False,12/5/2019,6,Delta
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,True,12/5/2019,7,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,119,833,True,12/7/2019,8,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,144,870,False,12/8/2019,9,jetBlue
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/8/2019,10,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,104,870,False,12/9/2019,11,jetBlue
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/9/2019,12,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,116,833,False,12/10/2019,13,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,167,833,True,12/10/2019,14,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,204,1793,True,12/11/2019,15,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,156,988,False,12/13/2019,16,Delta
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,True,12/13/2019,17,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,156,988,False,12/15/2019,18,Delta
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,True,12/15/2019,19,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,98,870,False,12/16/2019,20,jetBlue
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,True,12/16/2019,21,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,116,988,False,12/17/2019,22,Delta
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,119,1793,True,12/17/2019,23,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,98,870,False,12/18/2019,24,jetBlue
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,154,1793,True,12/18/2019,25,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,185,870,False,12/19/2019,26,jetBlue
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/20/2019,27,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/21/2019,28,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,204,1793,True,12/22/2019,29,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,155,833,False,12/23/2019,30,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/23/2019,31,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,98,870,False,12/24/2019,32,jetBlue
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,202,1793,True,12/24/2019,33,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,116,833,False,12/25/2019,34,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/25/2019,35,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,167,833,True,12/26/2019,36,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,155,833,False,12/27/2019,37,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/27/2019,38,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/28/2019,39,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,163,833,False,12/29/2019,40,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,True,12/29/2019,41,United
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/30/2019,42,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,116,833,False,12/31/2019,43,American Airlines
+Chicago,47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,True,12/31/2019,44,American Airlines

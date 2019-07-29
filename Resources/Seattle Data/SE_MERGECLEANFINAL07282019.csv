@@ -1,0 +1,1070 @@
+Departure City,City ID,City Name,Airport Name,Iata Code,Country Name,City ID Departure,Min Price,Airline ID,Non-Stop Flight,Departure Date,Quote ID,Airline Name
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,380,851,False,12/1/2019,1,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,467,851,False,12/2/2019,2,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,621,952,True,12/2/2019,3,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,381,851,False,12/3/2019,4,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,386,851,False,12/4/2019,5,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,619,952,True,12/4/2019,6,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,385,851,False,12/5/2019,7,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,386,851,False,12/8/2019,8,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,384,851,False,12/9/2019,9,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,785,851,False,12/10/2019,10,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,892,1276,False,12/12/2019,11,Japan Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,788,1530,False,12/13/2019,12,Asiana Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,979,952,True,12/13/2019,13,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,799,851,False,12/14/2019,14,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,979,952,True,12/14/2019,15,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,772,1793,False,12/15/2019,16,United
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,981,952,True,12/15/2019,17,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,766,1793,False,12/16/2019,18,United
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,981,952,True,12/16/2019,19,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,749,1793,False,12/17/2019,20,United
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,699,1324,False,12/18/2019,21,KLM
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,899,952,True,12/18/2019,22,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,785,851,False,12/19/2019,23,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,789,1530,False,12/20/2019,24,Asiana Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,899,952,True,12/20/2019,25,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,785,1530,False,12/21/2019,26,Asiana Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,894,952,True,12/21/2019,27,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,712,851,False,12/22/2019,28,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,893,952,True,12/22/2019,29,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,581,851,False,12/23/2019,30,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,893,952,True,12/23/2019,31,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,466,851,False,12/24/2019,32,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,747,1317,False,12/25/2019,33,Korean Air
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,880,952,True,12/25/2019,34,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,515,851,False,12/26/2019,35,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,794,851,False,12/27/2019,36,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,488,851,False,12/28/2019,37,Alaska Airlines
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,799,952,True,12/28/2019,38,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,704,898,False,12/29/2019,39,EVA Air
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,876,952,True,12/29/2019,40,Cathay Pacific
+Seattle,56615,Hong Kong,Hong Kong International,HKG,Hong Kong,81665,556,1793,False,12/31/2019,41,United
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,407,1713,False,12/1/2019,1,Singapore Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,452,1713,False,12/2/2019,2,Singapore Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,439,1713,False,12/3/2019,3,Singapore Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,441,1713,False,12/5/2019,4,Singapore Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,962,851,False,12/6/2019,5,Alaska Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,639,898,False,12/7/2019,6,EVA Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,488,851,False,12/8/2019,7,Alaska Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,485,851,False,12/9/2019,8,Alaska Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,490,1713,False,12/10/2019,9,Singapore Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,616,1276,False,12/11/2019,10,Japan Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,625,1276,False,12/12/2019,11,Japan Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,653,1317,False,12/13/2019,12,Korean Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,772,898,False,12/14/2019,13,EVA Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,696,851,False,12/15/2019,14,Alaska Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,1164,1464,False,12/16/2019,15,ANA
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,770,898,False,12/17/2019,16,EVA Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,771,1317,False,12/18/2019,17,Korean Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,736,898,False,12/19/2019,18,EVA Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,807,1317,False,12/20/2019,19,Korean Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,807,1317,False,12/21/2019,20,Korean Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,799,1317,False,12/22/2019,21,Korean Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,735,898,False,12/23/2019,22,EVA Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,1248,851,False,12/24/2019,23,Alaska Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,633,1317,False,12/25/2019,24,Korean Air
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,552,1429,False,12/26/2019,25,China Eastern
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,534,1429,False,12/27/2019,26,China Eastern
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,1245,851,False,12/28/2019,27,Alaska Airlines
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,1134,1464,False,12/29/2019,28,ANA
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,451,1429,False,12/30/2019,29,China Eastern
+Seattle,42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,81665,590,1713,False,12/31/2019,30,Singapore Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,321,858,False,12/1/2019,1,Alitalia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,520,1218,True,12/1/2019,2,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,488,1859,True,12/2/2019,3,Virgin Atlantic
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,540,851,False,12/3/2019,4,Alaska Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,566,1859,True,12/3/2019,5,Virgin Atlantic
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,747,981,False,12/4/2019,6,Condor
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,2036,1859,True,12/4/2019,7,Virgin Atlantic
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,287,851,False,12/5/2019,8,Alaska Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,336,1218,True,12/5/2019,9,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,758,981,False,12/7/2019,10,Condor
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,2050,1859,True,12/7/2019,11,Virgin Atlantic
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,753,1081,False,12/8/2019,12,Icelandair
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,2050,1859,True,12/8/2019,13,Virgin Atlantic
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,226,1368,False,12/9/2019,14,Lufthansa
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,440,1218,True,12/9/2019,15,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,218,1523,False,12/10/2019,16,Austrian Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,443,1218,True,12/10/2019,17,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,288,1523,False,12/11/2019,18,Austrian Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,440,1218,True,12/11/2019,19,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,287,851,False,12/12/2019,20,Alaska Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,605,857,True,12/12/2019,21,Finnair
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,326,838,False,12/13/2019,22,Air France
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,386,1218,True,12/13/2019,23,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,363,851,False,12/14/2019,24,Alaska Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,483,1218,True,12/14/2019,25,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,754,981,False,12/15/2019,26,Condor
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,1624,838,True,12/15/2019,27,Air France
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,365,851,False,12/16/2019,28,Alaska Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,454,1218,True,12/16/2019,29,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,599,1033,False,12/17/2019,30,Aer Lingus
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,763,838,True,12/17/2019,31,Air France
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,518,851,False,12/18/2019,32,Alaska Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,1710,838,True,12/18/2019,33,Air France
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,599,1033,False,12/19/2019,34,Aer Lingus
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,640,1218,True,12/19/2019,35,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,640,1218,True,12/20/2019,36,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,664,1033,False,12/21/2019,37,Aer Lingus
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,924,838,True,12/21/2019,38,Air France
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,660,851,False,12/22/2019,39,Alaska Airlines
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,1777,1324,True,12/22/2019,40,KLM
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,358,1482,False,12/24/2019,41,Air New Zealand
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,473,857,True,12/24/2019,42,Finnair
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,317,838,False,12/25/2019,43,Air France
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,524,1218,True,12/25/2019,44,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,347,1482,False,12/26/2019,45,Air New Zealand
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,698,1218,True,12/26/2019,46,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,339,981,False,12/27/2019,47,Condor
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,610,1218,True,12/27/2019,48,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,222,941,False,12/28/2019,49,Copa
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,479,1218,True,12/28/2019,50,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,244,838,False,12/30/2019,51,Air France
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,520,1218,True,12/30/2019,52,Iberia
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,241,941,False,12/31/2019,53,Copa
+Seattle,65698,London,London Heathrow,LHR,United Kingdom,81665,515,857,True,12/31/2019,54,Finnair
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,646,898,False,12/1/2019,1,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,611,898,False,12/2/2019,2,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,473,1276,False,12/3/2019,3,Japan Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,532,1713,True,12/3/2019,4,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,611,898,False,12/4/2019,5,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,611,898,False,12/5/2019,6,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,481,1276,False,12/6/2019,7,Japan Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,480,1276,False,12/7/2019,8,Japan Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,688,1713,True,12/7/2019,9,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,646,898,False,12/8/2019,10,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,474,1317,False,12/9/2019,11,Korean Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,577,988,False,12/10/2019,12,Delta
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,684,1793,False,12/11/2019,13,United
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,578,988,False,12/12/2019,14,Delta
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,1396,1713,True,12/12/2019,15,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,578,988,False,12/13/2019,16,Delta
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,749,988,False,12/14/2019,17,Delta
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,1372,1713,True,12/14/2019,18,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,711,988,False,12/15/2019,19,Delta
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,721,988,False,12/16/2019,20,Delta
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,751,898,False,12/17/2019,21,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,1259,1713,True,12/17/2019,22,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,804,851,False,12/18/2019,23,Alaska Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,751,898,False,12/19/2019,24,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,1690,1713,True,12/19/2019,25,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,894,1276,False,12/20/2019,26,Japan Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,895,1276,False,12/21/2019,27,Japan Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,2537,1713,True,12/21/2019,28,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,787,898,False,12/22/2019,29,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,1308,1713,True,12/22/2019,30,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,709,1793,False,12/23/2019,31,United
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,663,988,False,12/24/2019,32,Delta
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,686,1713,True,12/24/2019,33,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,1124,1276,False,12/25/2019,34,Japan Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,517,898,False,12/26/2019,35,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,639,1713,True,12/26/2019,36,Singapore Airlines
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,652,898,False,12/27/2019,37,EVA Air
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,738,988,False,12/28/2019,38,Delta
+Seattle,81870,Singapore,Singapore Changi,SIN,Singapore,81665,631,1276,False,12/30/2019,39,Japan Airlines
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2758,1324,False,12/1/2019,1,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/2/2019,2,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/3/2019,3,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/4/2019,4,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/5/2019,5,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/6/2019,6,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/7/2019,7,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/8/2019,8,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/9/2019,9,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/10/2019,10,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/11/2019,11,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/12/2019,12,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,460,851,False,12/13/2019,13,Alaska Airlines
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1204,870,True,12/13/2019,14,jetBlue
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/14/2019,15,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/15/2019,16,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,2759,1324,False,12/16/2019,17,KLM
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,704,851,False,12/17/2019,18,Alaska Airlines
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1257,1035,True,12/17/2019,19,Emirates
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1072,952,False,12/18/2019,20,Cathay Pacific
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1210,1035,True,12/18/2019,21,Emirates
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1250,851,False,12/19/2019,22,Alaska Airlines
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1259,1035,True,12/19/2019,23,Emirates
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1079,952,False,12/20/2019,24,Cathay Pacific
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1204,1035,True,12/20/2019,25,Emirates
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,960,1907,False,12/21/2019,26,WestJet
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1307,1035,True,12/21/2019,27,Emirates
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,772,952,False,12/27/2019,28,Cathay Pacific
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1203,870,True,12/27/2019,29,jetBlue
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,753,870,False,12/29/2019,30,jetBlue
+Seattle,48018,Dubai,Dubai,DXB,United Arab Emirates,81665,1086,1035,True,12/29/2019,31,Emirates
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,442,851,False,12/1/2019,1,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1118,1324,True,12/1/2019,2,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,636,981,False,12/2/2019,3,Condor
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,309,851,False,12/3/2019,4,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1065,1324,True,12/3/2019,5,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,636,981,False,12/4/2019,6,Condor
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3038,838,True,12/4/2019,7,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,292,851,False,12/5/2019,8,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3058,838,True,12/5/2019,9,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,685,83896,False,12/6/2019,10,flythomascook
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3038,838,True,12/6/2019,11,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,636,981,False,12/7/2019,12,Condor
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3038,838,True,12/7/2019,13,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,576,83896,False,12/8/2019,14,flythomascook
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3038,838,True,12/8/2019,15,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,318,851,False,12/9/2019,16,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3058,838,True,12/9/2019,17,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,308,851,False,12/10/2019,18,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3038,838,True,12/10/2019,19,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,303,851,False,12/11/2019,20,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1118,1324,True,12/11/2019,21,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,405,851,False,12/14/2019,22,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1328,838,True,12/14/2019,23,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,401,870,False,12/15/2019,24,jetBlue
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1043,838,True,12/15/2019,25,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,705,83896,False,12/16/2019,26,flythomascook
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,596,981,False,12/17/2019,27,Condor
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3038,838,True,12/17/2019,28,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,531,851,False,12/18/2019,29,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3085,838,True,12/18/2019,30,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,815,83896,False,12/19/2019,31,flythomascook
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3113,838,True,12/19/2019,32,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,779,851,False,12/20/2019,33,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1705,1324,True,12/20/2019,34,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,728,1033,False,12/21/2019,35,Aer Lingus
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1678,838,True,12/21/2019,36,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,850,1081,False,12/22/2019,37,Icelandair
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3158,838,True,12/22/2019,38,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,506,870,False,12/23/2019,39,jetBlue
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1293,838,True,12/23/2019,40,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,395,851,False,12/24/2019,41,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,930,838,True,12/24/2019,42,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,426,851,False,12/25/2019,43,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3057,1324,True,12/25/2019,44,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,449,1324,False,12/26/2019,45,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1177,1324,True,12/26/2019,46,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,492,1902,False,12/27/2019,47,Southwest Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3037,1324,True,12/27/2019,48,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,636,981,False,12/28/2019,49,Condor
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,3038,838,True,12/28/2019,50,Air France
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,428,1324,False,12/30/2019,51,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1118,1324,True,12/30/2019,52,KLM
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,404,851,False,12/31/2019,53,Alaska Airlines
+Seattle,44759,Paris,Paris Charles de Gaulle,CDG,France,81665,1117,1324,True,12/31/2019,54,KLM
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,296,870,True,12/1/2019,1,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,228,851,False,12/2/2019,2,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,237,851,True,12/2/2019,3,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,173,870,True,12/3/2019,4,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,135,988,True,12/4/2019,5,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,141,833,False,12/5/2019,6,American Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,154,870,True,12/5/2019,7,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,134,988,True,12/6/2019,8,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,132,851,True,12/7/2019,9,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,132,851,True,12/8/2019,10,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,133,851,True,12/9/2019,11,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,133,851,True,12/10/2019,12,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,135,988,True,12/11/2019,13,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,172,870,False,12/12/2019,14,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,174,870,True,12/12/2019,15,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,172,870,False,12/13/2019,16,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,188,870,True,12/13/2019,17,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,166,851,False,12/14/2019,18,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,186,851,True,12/14/2019,19,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,143,833,False,12/15/2019,20,American Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,176,870,True,12/15/2019,21,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,142,833,False,12/16/2019,22,American Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,149,988,True,12/16/2019,23,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,143,833,False,12/17/2019,24,American Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,154,988,True,12/17/2019,25,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,188,988,False,12/18/2019,26,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,190,988,True,12/18/2019,27,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,259,988,True,12/19/2019,28,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,307,988,False,12/20/2019,29,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,325,870,True,12/20/2019,30,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,323,870,True,12/21/2019,31,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,235,851,True,12/22/2019,32,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,188,870,True,12/23/2019,33,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,181,870,True,12/24/2019,34,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,153,870,False,12/25/2019,35,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,155,870,True,12/25/2019,36,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,220,988,True,12/26/2019,37,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,236,870,True,12/27/2019,38,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,246,870,False,12/28/2019,39,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,266,851,True,12/28/2019,40,Alaska Airlines
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,190,870,True,12/29/2019,41,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,192,870,False,12/30/2019,42,jetBlue
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,210,988,True,12/30/2019,43,Delta
+Seattle,60987,New York,New York John F. Kennedy,JFK,United States,81665,190,988,True,12/31/2019,44,Delta
+Seattle,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,81665,615,898,False,12/5/2019,1,EVA Air
+Seattle,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,81665,652,898,False,12/8/2019,2,EVA Air
+Seattle,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,81665,615,898,False,12/10/2019,3,EVA Air
+Seattle,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,81665,753,1618,False,12/13/2019,4,Qatar Airways
+Seattle,64012,Kuala Lumpur,Kuala Lumpur International,KUL,Malaysia,81665,822,898,False,12/24/2019,5,EVA Air
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,435,851,False,12/1/2019,1,Alaska Airlines
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,657,858,False,12/7/2019,2,Alitalia
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,685,981,False,12/8/2019,3,Condor
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,680,981,False,12/9/2019,4,Condor
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,828,858,False,12/12/2019,5,Alitalia
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,401,851,False,12/14/2019,6,Alaska Airlines
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,415,851,False,12/15/2019,7,Alaska Airlines
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,716,833,False,12/16/2019,8,American Airlines
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,554,851,False,12/18/2019,9,Alaska Airlines
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,880,981,False,12/19/2019,10,Condor
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,856,851,False,12/20/2019,11,Alaska Airlines
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,1038,1033,False,12/21/2019,12,Aer Lingus
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,1014,981,False,12/22/2019,13,Condor
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,456,1324,False,12/25/2019,14,KLM
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,925,1033,False,12/26/2019,15,Aer Lingus
+Seattle,51631,Rome,Rome Fiumicino,FCO,Italy,81665,657,1324,False,12/28/2019,16,KLM
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,561,898,False,12/1/2019,1,EVA Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,671,1276,True,12/1/2019,2,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,626,1530,False,12/2/2019,3,Asiana Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,696,1464,True,12/2/2019,4,ANA
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,465,851,False,12/3/2019,5,Alaska Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,636,1276,True,12/3/2019,6,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,450,851,False,12/4/2019,7,Alaska Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,636,1276,True,12/4/2019,8,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,662,898,False,12/5/2019,9,EVA Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,673,952,False,12/7/2019,10,Cathay Pacific
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,864,833,True,12/7/2019,11,American Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,690,1530,False,12/9/2019,12,Asiana Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,667,898,False,12/10/2019,13,EVA Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,928,1464,True,12/10/2019,14,ANA
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,721,1530,False,12/11/2019,15,Asiana Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,563,851,False,12/12/2019,16,Alaska Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,713,1276,True,12/12/2019,17,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,613,851,False,12/13/2019,18,Alaska Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,808,1276,True,12/13/2019,19,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,787,1482,False,12/14/2019,20,Air New Zealand
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,896,1276,True,12/14/2019,21,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,1065,898,False,12/15/2019,22,EVA Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,601,851,False,12/16/2019,23,Alaska Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,771,1276,True,12/16/2019,24,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,606,851,False,12/17/2019,25,Alaska Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,772,1276,True,12/17/2019,26,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,764,1317,False,12/18/2019,27,Korean Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,790,1276,True,12/18/2019,28,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,802,898,False,12/19/2019,29,EVA Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,941,1276,True,12/19/2019,30,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,858,1317,False,12/20/2019,31,Korean Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,899,1276,True,12/20/2019,32,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,852,1317,False,12/21/2019,33,Korean Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,899,1276,True,12/21/2019,34,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,694,988,False,12/22/2019,35,Delta
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,1116,988,True,12/22/2019,36,Delta
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,640,1276,True,12/23/2019,37,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,693,1317,False,12/24/2019,38,Korean Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,695,988,True,12/24/2019,39,Delta
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,531,851,False,12/25/2019,40,Alaska Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,582,1276,True,12/25/2019,41,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,546,1324,False,12/26/2019,42,KLM
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,582,1276,True,12/26/2019,43,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,676,1276,True,12/27/2019,44,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,722,1530,False,12/28/2019,45,Asiana Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,734,988,True,12/28/2019,46,Delta
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,620,851,False,12/29/2019,47,Alaska Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,671,1276,True,12/29/2019,48,Japan Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,629,1317,False,12/30/2019,49,Korean Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,634,833,True,12/30/2019,50,American Airlines
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,628,1317,False,12/31/2019,51,Korean Air
+Seattle,70788,Tokyo,Tokyo Narita,NRT,Japan,81665,634,988,True,12/31/2019,52,Delta
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,346,851,False,12/1/2019,1,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,618,898,True,12/1/2019,2,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,519,851,False,12/2/2019,3,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,646,898,True,12/2/2019,4,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,332,851,False,12/3/2019,5,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,585,898,True,12/3/2019,6,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,860,851,False,12/6/2019,7,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,665,952,False,12/7/2019,8,Cathay Pacific
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,683,898,True,12/7/2019,9,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,1462,851,False,12/9/2019,10,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,439,851,False,12/10/2019,11,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,650,898,True,12/10/2019,12,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,616,851,False,12/11/2019,13,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,590,851,False,12/12/2019,14,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,754,898,True,12/12/2019,15,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,726,851,False,12/13/2019,16,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,856,898,True,12/13/2019,17,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,726,851,False,12/14/2019,18,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,855,898,True,12/14/2019,19,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,726,851,False,12/15/2019,20,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,1010,898,True,12/15/2019,21,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,548,835,False,12/16/2019,22,Air Canada
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,749,898,True,12/16/2019,23,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,784,898,True,12/19/2019,24,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,788,835,False,12/20/2019,25,Air Canada
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,938,898,True,12/20/2019,26,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,793,1530,False,12/21/2019,27,Asiana Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,939,898,True,12/21/2019,28,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,1009,898,True,12/22/2019,29,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,653,835,False,12/23/2019,30,Air Canada
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,814,898,True,12/23/2019,31,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,756,835,False,12/24/2019,32,Air Canada
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,945,898,True,12/24/2019,33,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,475,835,False,12/26/2019,34,Air Canada
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,617,898,True,12/26/2019,35,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,561,835,False,12/27/2019,36,Air Canada
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,831,898,True,12/27/2019,37,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,605,851,False,12/28/2019,38,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,723,898,True,12/28/2019,39,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,525,835,False,12/29/2019,40,Air Canada
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,724,898,True,12/29/2019,41,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,523,835,False,12/30/2019,42,Air Canada
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,686,898,True,12/30/2019,43,EVA Air
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,537,851,False,12/31/2019,44,Alaska Airlines
+Seattle,84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,81665,686,898,True,12/31/2019,45,EVA Air
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2838,1324,False,12/3/2019,1,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2838,1324,False,12/7/2019,2,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,416,851,False,12/8/2019,3,Alaska Airlines
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2838,1324,False,12/9/2019,4,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2838,1324,False,12/10/2019,5,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2838,1324,False,12/11/2019,6,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,564,851,False,12/13/2019,7,Alaska Airlines
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2856,1324,False,12/14/2019,8,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2837,1324,False,12/15/2019,9,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2856,1324,False,12/16/2019,10,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2838,1324,False,12/17/2019,11,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2887,1324,False,12/18/2019,12,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,1327,1755,False,12/19/2019,13,Turkish Airlines
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,733,851,False,12/20/2019,14,Alaska Airlines
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,963,870,False,12/21/2019,15,jetBlue
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2906,1368,False,12/22/2019,16,Lufthansa
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2855,1324,False,12/23/2019,17,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2856,1324,False,12/24/2019,18,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2855,1324,False,12/25/2019,19,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2855,1324,False,12/26/2019,20,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2855,1324,False,12/27/2019,21,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2855,1324,False,12/28/2019,22,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2855,1324,False,12/29/2019,23,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2855,1324,False,12/30/2019,24,KLM
+Seattle,59316,Istanbul,Istanbul,IST,Turkey,81665,2855,1324,False,12/31/2019,25,KLM
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,546,851,False,12/1/2019,1,Alaska Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,610,1317,True,12/1/2019,2,Korean Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,532,898,False,12/2/2019,3,EVA Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,603,1530,True,12/2/2019,4,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,532,898,False,12/3/2019,5,EVA Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,603,1530,True,12/3/2019,6,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,532,898,False,12/4/2019,7,EVA Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,603,1530,True,12/4/2019,8,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,870,833,False,12/5/2019,9,American Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,561,898,False,12/6/2019,10,EVA Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,603,1530,True,12/6/2019,11,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,668,1530,True,12/7/2019,12,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,559,851,False,12/8/2019,13,Alaska Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,663,1317,True,12/8/2019,14,Korean Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,666,898,False,12/9/2019,15,EVA Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,667,1530,True,12/9/2019,16,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,665,898,False,12/10/2019,17,EVA Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,666,1530,True,12/10/2019,18,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,666,1530,True,12/11/2019,19,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,673,1317,False,12/12/2019,20,Korean Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,723,988,True,12/12/2019,21,Delta
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,666,1530,True,12/13/2019,22,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,884,1530,True,12/14/2019,23,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,940,1317,True,12/15/2019,24,Korean Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,803,898,False,12/16/2019,25,EVA Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,859,1530,True,12/16/2019,26,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,808,898,False,12/17/2019,27,EVA Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,865,1530,True,12/17/2019,28,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,884,1530,True,12/18/2019,29,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,802,898,False,12/19/2019,30,EVA Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,1020,988,True,12/19/2019,31,Delta
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,884,1530,True,12/20/2019,32,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,878,1530,True,12/21/2019,33,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,941,1317,True,12/22/2019,34,Korean Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,1085,833,False,12/24/2019,35,American Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,1085,833,False,12/25/2019,36,American Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,587,1429,False,12/28/2019,37,China Eastern
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,655,1530,True,12/28/2019,38,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,587,1429,False,12/29/2019,39,China Eastern
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,663,1317,True,12/29/2019,40,Korean Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,655,1530,True,12/30/2019,41,Asiana Airlines
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,625,1317,False,12/31/2019,42,Korean Air
+Seattle,58542,Seoul,Seoul Incheon Int'l,ICN,South Korea,81665,655,1530,True,12/31/2019,43,Asiana Airlines
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,441,1793,False,12/1/2019,1,United
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,470,988,True,12/1/2019,2,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,420,988,True,12/2/2019,3,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,409,1793,False,12/3/2019,4,United
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,473,988,True,12/3/2019,5,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,420,988,True,12/4/2019,6,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,409,1793,False,12/5/2019,7,United
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,473,988,True,12/5/2019,8,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,533,988,True,12/6/2019,9,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,642,988,False,12/7/2019,10,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,803,988,True,12/7/2019,11,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,439,929,False,12/8/2019,12,Air China
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,423,988,True,12/9/2019,13,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,473,988,True,12/10/2019,14,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,563,988,True,12/11/2019,15,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,827,988,True,12/12/2019,16,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,1002,988,True,12/13/2019,17,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,1481,988,True,12/14/2019,18,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,1047,988,True,12/15/2019,19,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,858,1793,False,12/16/2019,20,United
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,999,988,True,12/16/2019,21,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,932,988,True,12/17/2019,22,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,846,1793,False,12/18/2019,23,United
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,877,988,True,12/18/2019,24,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,873,1793,False,12/19/2019,25,United
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,999,988,True,12/19/2019,26,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,882,988,True,12/20/2019,27,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,1016,952,False,12/21/2019,28,Cathay Pacific
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,1047,988,True,12/21/2019,29,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,908,1793,False,12/22/2019,30,United
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,933,988,True,12/22/2019,31,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,936,952,False,12/23/2019,32,Cathay Pacific
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,802,988,True,12/24/2019,33,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,393,929,False,12/25/2019,34,Air China
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,563,988,True,12/25/2019,35,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,409,1793,False,12/26/2019,36,United
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,470,988,True,12/26/2019,37,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,423,988,True,12/27/2019,38,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,470,988,True,12/28/2019,39,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,466,988,False,12/29/2019,40,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,473,988,True,12/29/2019,41,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,423,988,True,12/30/2019,42,Delta
+Seattle,75575,Shanghai,Shanghai Pu Dong,PVG,China,81665,473,988,True,12/31/2019,43,Delta
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,169,1065,True,12/1/2019,1,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,139,1065,True,12/2/2019,2,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,59,988,True,12/3/2019,3,Delta
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,45,1467,True,12/4/2019,4,Spirit Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,96,1467,True,12/5/2019,5,Spirit Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,97,1467,True,12/6/2019,6,Spirit Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,56,851,True,12/7/2019,7,Alaska Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,56,1065,True,12/8/2019,8,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,44,1065,True,12/9/2019,9,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,45,1467,True,12/10/2019,10,Spirit Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,45,1467,True,12/11/2019,11,Spirit Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,97,1467,True,12/12/2019,12,Spirit Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,74,988,True,12/13/2019,13,Delta
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,59,988,True,12/14/2019,14,Delta
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,122,1467,True,12/15/2019,15,Spirit Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,43,1065,True,12/16/2019,16,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,45,1467,True,12/17/2019,17,Spirit Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,59,988,True,12/18/2019,18,Delta
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,138,1065,True,12/19/2019,19,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,139,1065,True,12/20/2019,20,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,165,851,True,12/21/2019,21,Alaska Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,138,1065,True,12/22/2019,22,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,139,1065,True,12/23/2019,23,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,89,988,True,12/24/2019,24,Delta
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,89,988,True,12/25/2019,25,Delta
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,149,988,True,12/26/2019,26,Delta
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,144,1065,True,12/27/2019,27,Frontier Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,124,851,True,12/28/2019,28,Alaska Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,124,851,True,12/29/2019,29,Alaska Airlines
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,93,988,True,12/30/2019,30,Delta
+Seattle,65363,Las Vegas,Las Vegas Mccarran,LAS,United States,81665,315,1467,True,12/31/2019,31,Spirit Airlines
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,594,1793,False,12/1/2019,1,United
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,593,833,False,12/8/2019,2,American Airlines
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,332,851,False,12/10/2019,3,Alaska Airlines
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,317,851,False,12/11/2019,4,Alaska Airlines
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,730,858,False,12/12/2019,5,Alitalia
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,838,1793,False,12/13/2019,6,United
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,409,851,False,12/15/2019,7,Alaska Airlines
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,591,981,False,12/17/2019,8,Condor
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,947,981,False,12/18/2019,9,Condor
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,791,1368,False,12/21/2019,10,Lufthansa
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,652,1793,False,12/22/2019,11,United
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,473,870,False,12/25/2019,12,jetBlue
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,546,851,False,12/26/2019,13,Alaska Airlines
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,601,1793,False,12/27/2019,14,United
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,590,1793,False,12/28/2019,15,United
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,590,1793,False,12/29/2019,16,United
+Seattle,68768,Milan,Milan Malpensa,MXP,Italy,81665,590,1793,False,12/30/2019,17,United
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,298,988,True,12/1/2019,1,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,136,851,True,12/2/2019,2,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,68,833,True,12/3/2019,3,American Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,67,851,True,12/4/2019,4,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,77,851,True,12/5/2019,5,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,77,1467,False,12/6/2019,6,Spirit Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,79,988,True,12/6/2019,7,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,69,1793,True,12/7/2019,8,United
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,78,833,True,12/9/2019,9,American Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,66,851,True,12/10/2019,10,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,69,988,True,12/11/2019,11,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,77,1467,False,12/12/2019,12,Spirit Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,79,988,True,12/12/2019,13,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,79,1467,False,12/13/2019,14,Spirit Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,97,851,True,12/13/2019,15,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,67,851,True,12/14/2019,16,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,77,851,True,12/15/2019,17,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,76,851,True,12/16/2019,18,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,69,988,True,12/17/2019,19,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,69,988,True,12/18/2019,20,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,99,988,True,12/19/2019,21,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,186,988,True,12/20/2019,22,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,209,1793,True,12/21/2019,23,United
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,177,851,True,12/22/2019,24,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,156,851,True,12/23/2019,25,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,117,851,True,12/24/2019,26,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,77,1793,False,12/25/2019,27,United
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,94,988,True,12/25/2019,28,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,109,988,True,12/26/2019,29,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,176,988,True,12/27/2019,30,Delta
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,155,851,True,12/28/2019,31,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,156,851,True,12/29/2019,32,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,149,851,False,12/30/2019,33,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,157,851,True,12/30/2019,34,Alaska Airlines
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,77,1793,False,12/31/2019,35,United
+Seattle,65368,Los Angeles,Los Angeles International,LAX,United States,81665,79,988,True,12/31/2019,36,Delta
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,704,988,False,12/4/2019,1,Delta
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,632,898,False,12/10/2019,2,EVA Air
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,689,1530,False,12/11/2019,3,Asiana Airlines
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,839,988,False,12/16/2019,4,Delta
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,769,1317,False,12/18/2019,5,Korean Air
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,910,1317,False,12/20/2019,6,Korean Air
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,847,1317,False,12/21/2019,7,Korean Air
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,697,1793,False,12/22/2019,8,United
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,643,988,False,12/25/2019,9,Delta
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,644,1276,False,12/26/2019,10,Japan Airlines
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,718,1530,False,12/28/2019,11,Asiana Airlines
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,583,1317,False,12/30/2019,12,Korean Air
+Seattle,63448,Osaka,Osaka Kansai International,KIX,Japan,81665,560,898,False,12/31/2019,13,EVA Air
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,774,1081,False,12/3/2019,1,Icelandair
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,626,981,False,12/8/2019,2,Condor
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,338,851,False,12/10/2019,3,Alaska Airlines
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,823,1081,False,12/12/2019,4,Icelandair
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,412,851,False,12/15/2019,5,Alaska Airlines
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,397,851,False,12/16/2019,6,Alaska Airlines
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,435,851,False,12/17/2019,7,Alaska Airlines
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,1033,1081,False,12/20/2019,8,Icelandair
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,729,1033,False,12/21/2019,9,Aer Lingus
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,536,981,False,12/23/2019,10,Condor
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,519,1713,False,12/24/2019,11,Singapore Airlines
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,448,851,False,12/25/2019,12,Alaska Airlines
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,530,851,False,12/27/2019,13,Alaska Airlines
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,573,851,False,12/28/2019,14,Alaska Airlines
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,691,981,False,12/29/2019,15,Condor
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,630,981,False,12/30/2019,16,Condor
+Seattle,84892,Berlin,Berlin Tegel,TXL,Germany,81665,576,981,False,12/31/2019,17,Condor
+Seattle,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,81665,697,1218,False,12/1/2019,1,Iberia
+Seattle,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,81665,1131,952,False,12/18/2019,2,Cathay Pacific
+Seattle,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,81665,1146,952,False,12/20/2019,3,Cathay Pacific
+Seattle,61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,81665,899,1044,False,12/23/2019,4,Ethiopian Airlines
+Seattle,88485,Venice,Venice Marco Polo,VCE,Italy,81665,336,851,False,12/8/2019,1,Alaska Airlines
+Seattle,88485,Venice,Venice Marco Polo,VCE,Italy,81665,409,851,False,12/15/2019,2,Alaska Airlines
+Seattle,88485,Venice,Venice Marco Polo,VCE,Italy,81665,3499,1368,False,12/20/2019,3,Lufthansa
+Seattle,88485,Venice,Venice Marco Polo,VCE,Italy,81665,966,870,False,12/21/2019,4,jetBlue
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,266,851,True,12/1/2019,1,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,305,1793,False,12/2/2019,2,United
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,171,1793,False,12/3/2019,3,United
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,115,1467,False,12/4/2019,4,Spirit Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,191,851,True,12/4/2019,5,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,170,833,False,12/5/2019,6,American Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,193,1065,False,12/6/2019,7,Frontier Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,239,988,True,12/6/2019,8,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,177,1902,False,12/7/2019,9,Southwest Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,190,851,True,12/7/2019,10,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,160,1902,False,12/8/2019,11,Southwest Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,190,851,True,12/8/2019,12,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,165,988,False,12/9/2019,13,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,143,1467,False,12/10/2019,14,Spirit Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,221,851,True,12/10/2019,15,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,115,1467,False,12/11/2019,16,Spirit Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,215,851,True,12/11/2019,17,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,199,833,False,12/12/2019,18,American Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,176,1065,False,12/13/2019,19,Frontier Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,354,851,True,12/13/2019,20,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,192,988,True,12/14/2019,21,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,175,851,False,12/15/2019,22,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,266,851,True,12/15/2019,23,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,142,1065,False,12/16/2019,24,Frontier Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,235,851,True,12/16/2019,25,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,142,1467,False,12/17/2019,26,Spirit Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,354,851,True,12/17/2019,27,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,216,1467,False,12/18/2019,28,Spirit Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,354,851,True,12/18/2019,29,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,333,833,False,12/19/2019,30,American Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,503,851,True,12/19/2019,31,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,363,1721,False,12/20/2019,32,Sun Country Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,548,988,True,12/20/2019,33,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,364,1721,False,12/21/2019,34,Sun Country Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,558,988,True,12/21/2019,35,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,354,851,True,12/22/2019,36,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,291,1721,False,12/23/2019,37,Sun Country Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,308,988,True,12/23/2019,38,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,246,833,False,12/24/2019,39,American Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,299,988,True,12/24/2019,40,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,202,988,False,12/25/2019,41,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,356,851,True,12/25/2019,42,Alaska Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,267,988,True,12/26/2019,43,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,277,988,False,12/27/2019,44,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,329,988,True,12/27/2019,45,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,233,988,True,12/28/2019,46,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,241,988,False,12/29/2019,47,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,277,988,True,12/29/2019,48,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,201,833,False,12/30/2019,49,American Airlines
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,212,988,True,12/30/2019,50,Delta
+Seattle,67759,Orlando,Orlando International,MCO,United States,81665,256,1721,False,12/31/2019,51,Sun Country Airlines
+Seattle,52063,Florence,Florence,FLO,United States,81665,2870,851,False,12/22/2019,1,Alaska Airlines
+Seattle,88879,Moscow,Moscow Vnukovo,VKO,Russia,81665,651,851,False,12/8/2019,1,Alaska Airlines
+Seattle,88879,Moscow,Moscow Vnukovo,VKO,Russia,81665,548,851,False,12/25/2019,2,Alaska Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,439,1793,False,12/1/2019,1,United
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,473,988,True,12/1/2019,2,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,393,988,True,12/2/2019,3,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,393,988,True,12/3/2019,4,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,393,988,True,12/4/2019,5,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,477,1793,False,12/7/2019,6,United
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,826,1189,True,12/7/2019,7,Hainan Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,470,988,True,12/8/2019,8,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,425,833,False,12/9/2019,9,American Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,423,988,True,12/10/2019,10,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,425,833,False,12/11/2019,11,American Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,777,988,True,12/11/2019,12,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,750,1189,True,12/12/2019,13,Hainan Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,1719,988,True,12/13/2019,14,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,903,1793,False,12/15/2019,15,United
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,1701,1189,True,12/15/2019,16,Hainan Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,782,1793,False,12/16/2019,17,United
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,1433,988,True,12/16/2019,18,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,851,1793,False,12/17/2019,19,United
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,996,988,True,12/17/2019,20,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,838,898,False,12/19/2019,21,EVA Air
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,1151,1189,True,12/19/2019,22,Hainan Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,1015,952,False,12/20/2019,23,Cathay Pacific
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,1733,988,True,12/20/2019,24,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,926,988,True,12/21/2019,25,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,597,833,False,12/22/2019,26,American Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,1395,1189,True,12/22/2019,27,Hainan Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,392,1276,False,12/23/2019,28,Japan Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,1032,988,True,12/23/2019,29,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,456,1793,False,12/24/2019,30,United
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,745,1189,True,12/24/2019,31,Hainan Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,406,1793,False,12/25/2019,32,United
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,390,988,True,12/26/2019,33,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,474,833,False,12/27/2019,34,American Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,470,988,True,12/28/2019,35,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,436,1793,False,12/29/2019,36,United
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,821,1189,True,12/29/2019,37,Hainan Airlines
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,393,988,True,12/30/2019,38,Delta
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,397,1793,False,12/31/2019,39,United
+Seattle,74763,Beijing,Beijing Capital,PEK,China,81665,750,1189,True,12/31/2019,40,Hainan Airlines
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/1/2019,1,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,457,1793,True,12/1/2019,2,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/2/2019,3,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/2/2019,4,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,211,833,False,12/3/2019,5,American Airlines
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/3/2019,6,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/4/2019,7,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,387,1793,True,12/4/2019,8,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/5/2019,9,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/5/2019,10,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,239,1907,False,12/6/2019,11,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/6/2019,12,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,247,1907,False,12/7/2019,13,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/8/2019,14,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/8/2019,15,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/9/2019,16,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/10/2019,17,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/10/2019,18,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/11/2019,19,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/11/2019,20,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/12/2019,21,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/12/2019,22,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/13/2019,23,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/13/2019,24,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/14/2019,25,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/14/2019,26,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,213,833,False,12/15/2019,27,American Airlines
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,306,1755,True,12/15/2019,28,Turkish Airlines
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/16/2019,29,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/16/2019,30,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,303,1907,False,12/17/2019,31,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,384,835,True,12/17/2019,32,Air Canada
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,247,1907,False,12/18/2019,33,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,389,1793,True,12/18/2019,34,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,239,1907,False,12/19/2019,35,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,411,1755,True,12/19/2019,36,Turkish Airlines
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,279,1907,False,12/20/2019,37,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,698,1793,True,12/20/2019,38,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,349,1907,False,12/21/2019,39,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,293,1907,False,12/22/2019,40,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,428,835,True,12/22/2019,41,Air Canada
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,211,833,False,12/23/2019,42,American Airlines
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,698,1793,True,12/23/2019,43,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,245,1907,False,12/24/2019,44,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,396,1793,True,12/24/2019,45,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,247,1907,False,12/25/2019,46,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,222,833,False,12/26/2019,47,American Airlines
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,247,1907,False,12/27/2019,48,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,442,1793,True,12/27/2019,49,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,279,1907,False,12/28/2019,50,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,247,1907,False,12/29/2019,51,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,383,1793,True,12/29/2019,52,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,247,1907,False,12/30/2019,53,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,440,1793,True,12/30/2019,54,United
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,247,1907,False,12/31/2019,55,WestJet
+Seattle,96474,Toronto,Toronto Pearson International,YYZ,Canada,81665,410,1755,True,12/31/2019,56,Turkish Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,520,1169,False,12/6/2019,1,Hawaiian Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,1094,952,False,12/8/2019,2,Cathay Pacific
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,535,1169,False,12/10/2019,3,Hawaiian Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,470,851,False,12/11/2019,4,Alaska Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,1594,952,False,12/14/2019,5,Cathay Pacific
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,640,1169,False,12/15/2019,6,Hawaiian Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,1594,952,False,12/16/2019,7,Cathay Pacific
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,1112,1530,False,12/18/2019,8,Asiana Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,1329,1464,False,12/19/2019,9,ANA
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,1059,1169,False,12/20/2019,10,Hawaiian Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,1112,1530,False,12/21/2019,11,Asiana Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,942,1482,False,12/22/2019,12,Air New Zealand
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,771,851,False,12/23/2019,13,Alaska Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,715,851,False,12/25/2019,14,Alaska Airlines
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,1501,952,False,12/27/2019,15,Cathay Pacific
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,655,1429,False,12/28/2019,16,China Eastern
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,574,1429,False,12/30/2019,17,China Eastern
+Seattle,82628,Sydney,Sydney,SYD,Australia,81665,1112,1530,False,12/31/2019,18,Asiana Airlines
+Seattle,86479,Quito,Quito,UIO,Ecuador,81665,558,870,False,12/1/2019,1,jetBlue
+Seattle,86479,Quito,Quito,UIO,Ecuador,81665,623,851,False,12/22/2019,2,Alaska Airlines
+Seattle,86479,Quito,Quito,UIO,Ecuador,81665,574,851,False,12/25/2019,3,Alaska Airlines
+Seattle,86479,Quito,Quito,UIO,Ecuador,81665,549,870,False,12/26/2019,4,jetBlue
+Seattle,86479,Quito,Quito,UIO,Ecuador,81665,710,1793,False,12/31/2019,5,United
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,274,870,True,12/1/2019,1,jetBlue
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,141,870,True,12/2/2019,2,jetBlue
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,119,870,True,12/3/2019,3,jetBlue
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,87,988,False,12/4/2019,4,Delta
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,79,870,True,12/6/2019,5,jetBlue
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,100,870,True,12/7/2019,6,jetBlue
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,100,870,True,12/14/2019,7,jetBlue
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,78,870,True,12/15/2019,8,jetBlue
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,78,870,True,12/16/2019,9,jetBlue
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,161,988,False,12/18/2019,10,Delta
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,226,988,False,12/22/2019,11,Delta
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,161,988,False,12/25/2019,12,Delta
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,236,988,False,12/26/2019,13,Delta
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,201,988,False,12/29/2019,14,Delta
+Seattle,65634,Long Beach,Long Beach Municipal,LGB,United States,81665,207,870,True,12/29/2019,15,jetBlue
+Seattle,45336,Copenhagen,Copenhagen,CPH,Denmark,81665,337,851,False,12/11/2019,1,Alaska Airlines
+Seattle,45336,Copenhagen,Copenhagen,CPH,Denmark,81665,925,1081,False,12/22/2019,2,Icelandair
+Seattle,45336,Copenhagen,Copenhagen,CPH,Denmark,81665,549,870,False,12/31/2019,3,jetBlue
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1090,952,False,12/4/2019,1,Cathay Pacific
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1088,952,False,12/8/2019,2,Cathay Pacific
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1087,952,False,12/9/2019,3,Cathay Pacific
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1495,952,False,12/11/2019,4,Cathay Pacific
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1589,1793,False,12/12/2019,5,United
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1588,952,False,12/13/2019,6,Cathay Pacific
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,707,851,False,12/14/2019,7,Alaska Airlines
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1312,1276,False,12/16/2019,8,Japan Airlines
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1308,1276,False,12/17/2019,9,Japan Airlines
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1312,1276,False,12/18/2019,10,Japan Airlines
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1515,1276,False,12/19/2019,11,Japan Airlines
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1096,1429,False,12/20/2019,12,China Eastern
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1583,1276,False,12/21/2019,13,Japan Airlines
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,742,851,False,12/24/2019,14,Alaska Airlines
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1495,952,False,12/25/2019,15,Cathay Pacific
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,638,1429,False,12/28/2019,16,China Eastern
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1493,952,False,12/30/2019,17,Cathay Pacific
+Seattle,67852,Melbourne,Melbourne Tullamarine,MEL,Australia,81665,1143,1713,False,12/31/2019,18,Singapore Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,524,857,False,12/1/2019,1,Finnair
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,2390,1710,False,12/2/2019,2,Brussels Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,2390,1710,False,12/3/2019,3,Brussels Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,2390,1710,False,12/9/2019,4,Brussels Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,2291,881,False,12/10/2019,5,British Airways
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,2390,1710,False,12/14/2019,6,Brussels Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,2389,1710,False,12/17/2019,7,Brussels Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,609,851,False,12/18/2019,8,Alaska Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,2290,881,False,12/19/2019,9,British Airways
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,864,851,False,12/20/2019,10,Alaska Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,913,981,False,12/21/2019,11,Condor
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,669,851,False,12/24/2019,12,Alaska Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,2389,1710,False,12/28/2019,13,Brussels Airlines
+Seattle,84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,81665,637,851,False,12/31/2019,14,Alaska Airlines
+Seattle,43141,Brussels,Brussels International,BRU,Belgium,81665,725,83896,False,12/16/2019,1,flythomascook
+Seattle,43141,Brussels,Brussels International,BRU,Belgium,81665,1003,1081,False,12/21/2019,2,Icelandair
+Seattle,43141,Brussels,Brussels International,BRU,Belgium,81665,845,1081,False,12/22/2019,3,Icelandair
+Seattle,43141,Brussels,Brussels International,BRU,Belgium,81665,500,870,False,12/25/2019,4,jetBlue
+Seattle,43141,Brussels,Brussels International,BRU,Belgium,81665,487,851,False,12/27/2019,5,Alaska Airlines
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,595,851,False,12/3/2019,1,Alaska Airlines
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,596,1169,False,12/5/2019,2,Hawaiian Airlines
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,1094,952,False,12/6/2019,3,Cathay Pacific
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,604,1169,False,12/8/2019,4,Hawaiian Airlines
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,681,851,False,12/10/2019,5,Alaska Airlines
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,663,1169,False,12/12/2019,6,Hawaiian Airlines
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,782,1169,False,12/15/2019,7,Hawaiian Airlines
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,1077,1082,False,12/20/2019,8,Fiji Airways
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,833,1429,False,12/26/2019,9,China Eastern
+Seattle,40492,Auckland,Auckland International,AKL,New Zealand,81665,825,1082,False,12/28/2019,10,Fiji Airways
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/1/2019,1,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/2/2019,2,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/3/2019,3,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/5/2019,4,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,110,851,True,12/6/2019,5,Alaska Airlines
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/9/2019,6,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/10/2019,7,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/11/2019,8,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/12/2019,9,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,110,851,True,12/13/2019,10,Alaska Airlines
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,123,1907,True,12/17/2019,11,WestJet
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/18/2019,12,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,162,988,True,12/21/2019,13,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,1907,True,12/22/2019,14,WestJet
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,140,838,True,12/23/2019,15,Air France
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,128,988,True,12/24/2019,16,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,129,988,True,12/26/2019,17,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/27/2019,18,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,129,988,True,12/28/2019,19,Delta
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,1907,True,12/29/2019,20,WestJet
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,1907,True,12/30/2019,21,WestJet
+Seattle,96322,Vancouver,Vancouver International,YVR,Canada,81665,122,988,True,12/31/2019,22,Delta
+Seattle,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,81665,1174,952,False,12/13/2019,1,Cathay Pacific
+Seattle,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,81665,934,1276,False,12/14/2019,2,Japan Airlines
+Seattle,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,81665,716,1169,False,12/15/2019,3,Hawaiian Airlines
+Seattle,44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,81665,944,1276,False,12/28/2019,4,Japan Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,486,1713,False,12/3/2019,1,Singapore Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,2882,1793,True,12/3/2019,2,United
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,487,1713,False,12/4/2019,3,Singapore Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,536,981,True,12/4/2019,4,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,483,981,True,12/7/2019,5,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,460,1760,False,12/8/2019,6,TAP
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,1505,1368,True,12/8/2019,7,Lufthansa
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,335,981,True,12/9/2019,8,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,802,981,False,12/12/2019,9,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,557,981,False,12/15/2019,10,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,2882,1793,True,12/15/2019,11,United
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,452,851,False,12/16/2019,12,Alaska Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,682,981,True,12/16/2019,13,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,458,851,False,12/17/2019,14,Alaska Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,1485,981,True,12/17/2019,15,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,571,851,False,12/19/2019,16,Alaska Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,2849,1368,True,12/19/2019,17,Lufthansa
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,725,1713,False,12/20/2019,18,Singapore Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,2962,1368,True,12/20/2019,19,Lufthansa
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,672,851,False,12/21/2019,20,Alaska Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,714,981,True,12/21/2019,21,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,535,981,True,12/23/2019,22,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,391,981,True,12/25/2019,23,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,467,1713,False,12/26/2019,24,Singapore Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,2780,1368,True,12/26/2019,25,Lufthansa
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,467,1713,False,12/27/2019,26,Singapore Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,2780,1368,True,12/27/2019,27,Lufthansa
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,464,1713,False,12/28/2019,28,Singapore Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,483,981,True,12/28/2019,29,Condor
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,464,1713,False,12/30/2019,30,Singapore Airlines
+Seattle,52337,Frankfurt,Frankfurt am Main,FRA,Germany,81665,483,981,True,12/30/2019,31,Condor
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2402,857,False,12/1/2019,1,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2404,857,False,12/2/2019,2,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/3/2019,3,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/4/2019,4,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/5/2019,5,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2404,857,False,12/6/2019,6,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/7/2019,7,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/8/2019,8,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/9/2019,9,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/10/2019,10,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/11/2019,11,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/12/2019,12,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/13/2019,13,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/14/2019,14,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/15/2019,15,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2405,857,False,12/16/2019,16,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,492,851,False,12/17/2019,17,Alaska Airlines
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2459,838,False,12/18/2019,18,Air France
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2483,988,False,12/19/2019,19,Delta
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2504,857,False,12/20/2019,20,Finnair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2508,988,False,12/21/2019,21,Delta
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,820,1081,False,12/22/2019,22,Icelandair
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2423,838,False,12/23/2019,23,Air France
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2423,838,False,12/24/2019,24,Air France
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2423,838,False,12/25/2019,25,Air France
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,639,851,False,12/26/2019,26,Alaska Airlines
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2423,838,False,12/27/2019,27,Air France
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2409,988,False,12/28/2019,28,Delta
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2423,838,False,12/29/2019,29,Air France
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2423,838,False,12/30/2019,30,Air France
+Seattle,40830,Stockholm,Stockholm Arlanda,ARN,Sweden,81665,2423,838,False,12/31/2019,31,Air France
+Seattle,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,81665,718,851,False,12/1/2019,1,Alaska Airlines
+Seattle,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,81665,821,835,False,12/2/2019,2,Air Canada
+Seattle,54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,81665,475,870,False,12/4/2019,3,jetBlue
+Seattle,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,81665,785,835,False,12/11/2019,1,Air Canada
+Seattle,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,81665,827,870,False,12/12/2019,2,jetBlue
+Seattle,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,81665,931,870,False,12/16/2019,3,jetBlue
+Seattle,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,81665,950,851,False,12/17/2019,4,Alaska Airlines
+Seattle,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,81665,1337,941,False,12/18/2019,5,Copa
+Seattle,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,81665,1337,941,False,12/19/2019,6,Copa
+Seattle,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,81665,1277,851,False,12/20/2019,7,Alaska Airlines
+Seattle,50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,81665,1194,870,False,12/21/2019,8,jetBlue
+Seattle,40065,Albuquerque,Albuquerque,ABQ,United States,81665,97,833,False,12/14/2019,1,American Airlines
+Seattle,40065,Albuquerque,Albuquerque,ABQ,United States,81665,97,1793,False,12/17/2019,2,United
+Seattle,40065,Albuquerque,Albuquerque,ABQ,United States,81665,221,1793,False,12/23/2019,3,United
+Seattle,40065,Albuquerque,Albuquerque,ABQ,United States,81665,218,988,False,12/27/2019,4,Delta
+Seattle,40065,Albuquerque,Albuquerque,ABQ,United States,81665,176,988,False,12/28/2019,5,Delta
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,137,1793,False,12/11/2019,1,United
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,153,1907,False,12/12/2019,2,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,137,1126,False,12/15/2019,3,Gulf Air
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,154,1907,False,12/17/2019,4,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,235,1907,False,12/19/2019,5,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,331,1907,False,12/20/2019,6,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,372,1907,False,12/21/2019,7,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,295,1793,False,12/22/2019,8,United
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,241,1793,False,12/23/2019,9,United
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,150,1793,False,12/24/2019,10,United
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,154,1907,False,12/25/2019,11,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,154,1907,False,12/26/2019,12,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,154,1907,False,12/27/2019,13,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,298,1907,False,12/28/2019,14,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,154,1907,False,12/29/2019,15,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,154,1907,False,12/30/2019,16,WestJet
+Seattle,96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,81665,150,1793,False,12/31/2019,17,United
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3769,1324,False,12/1/2019,1,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/2/2019,2,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3389,881,False,12/3/2019,3,British Airways
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3400,881,False,12/4/2019,4,British Airways
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/5/2019,5,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/6/2019,6,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/7/2019,7,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3396,881,False,12/8/2019,8,British Airways
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/9/2019,9,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/10/2019,10,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/11/2019,11,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/12/2019,12,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/13/2019,13,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/14/2019,14,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/15/2019,15,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/16/2019,16,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/17/2019,17,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3770,1324,False,12/18/2019,18,KLM
+Seattle,40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,81665,3389,881,False,12/31/2019,19,British Airways
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,421,988,False,12/1/2019,1,Delta
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,682,851,True,12/1/2019,2,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,220,1793,False,12/2/2019,3,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,578,851,True,12/2/2019,4,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,156,870,False,12/3/2019,5,jetBlue
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,300,851,True,12/3/2019,6,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,137,870,False,12/4/2019,7,jetBlue
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,247,851,True,12/4/2019,8,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,194,1793,False,12/5/2019,9,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,194,1793,False,12/6/2019,10,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,156,870,False,12/8/2019,11,jetBlue
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,479,851,True,12/8/2019,12,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,191,833,False,12/9/2019,13,American Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,191,1793,False,12/10/2019,14,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,137,870,False,12/11/2019,15,jetBlue
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,247,851,True,12/11/2019,16,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,211,988,False,12/12/2019,17,Delta
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,156,870,False,12/13/2019,18,jetBlue
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,246,851,True,12/13/2019,19,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,177,988,False,12/14/2019,20,Delta
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,282,851,True,12/14/2019,21,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,212,988,False,12/15/2019,22,Delta
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,193,1793,False,12/16/2019,23,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,175,833,False,12/17/2019,24,American Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,216,851,False,12/18/2019,25,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,304,851,True,12/18/2019,26,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,341,988,False,12/19/2019,27,Delta
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,482,851,True,12/19/2019,28,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,377,1793,False,12/20/2019,29,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,582,851,True,12/20/2019,30,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,341,1793,False,12/21/2019,31,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,582,851,True,12/21/2019,32,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,289,1793,False,12/22/2019,33,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,481,851,True,12/22/2019,34,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,191,1793,False,12/24/2019,35,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,191,833,False,12/25/2019,36,American Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,246,851,True,12/25/2019,37,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,234,833,False,12/26/2019,38,American Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,350,851,True,12/26/2019,39,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,257,1793,False,12/27/2019,40,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,352,851,True,12/27/2019,41,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,255,1793,False,12/28/2019,42,United
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,223,870,False,12/29/2019,43,jetBlue
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,350,851,True,12/29/2019,44,Alaska Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,193,833,False,12/30/2019,45,American Airlines
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,223,870,False,12/31/2019,46,jetBlue
+Seattle,47009,Washington,Washington Ronald Reagan,DCA,United States,81665,350,851,True,12/31/2019,47,Alaska Airlines

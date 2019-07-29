@@ -1,0 +1,1233 @@
+City ID,City Name,Airport Name,Iata Code,Country Name,City ID Departure,Min Price,Airline ID,Non-Stop Flight,Departure Date,Quote ID
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,669,1317,FALSE,12/1/2019,1
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,676,1793,TRUE,12/1/2019,2
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,668,898,FALSE,12/2/2019,3
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,676,1793,TRUE,12/2/2019,4
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,357,1189,FALSE,12/3/2019,5
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,622,952,TRUE,12/3/2019,6
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,663,898,FALSE,12/4/2019,7
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,515,1189,FALSE,12/5/2019,8
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,554,1276,FALSE,12/6/2019,9
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,672,952,TRUE,12/6/2019,10
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,556,851,FALSE,12/7/2019,11
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,672,952,TRUE,12/7/2019,12
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,665,1317,FALSE,12/8/2019,13
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,672,952,TRUE,12/8/2019,14
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,663,898,FALSE,12/9/2019,15
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,515,1189,FALSE,12/10/2019,16
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,781,898,FALSE,12/11/2019,17
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,943,898,FALSE,12/12/2019,18
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1034,988,FALSE,12/13/2019,19
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,894,1049,FALSE,12/14/2019,20
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1026,952,TRUE,12/14/2019,21
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,853,1049,FALSE,12/15/2019,22
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1010,1793,TRUE,12/15/2019,23
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1121,898,FALSE,12/16/2019,24
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1318,1189,FALSE,12/17/2019,25
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1121,898,FALSE,12/18/2019,26
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,825,1049,FALSE,12/19/2019,27
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1026,952,TRUE,12/19/2019,28
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,894,1049,FALSE,12/20/2019,29
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1026,952,TRUE,12/20/2019,30
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1568,898,FALSE,12/21/2019,31
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,753,1429,FALSE,12/23/2019,32
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1011,952,TRUE,12/23/2019,33
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,564,1033,FALSE,12/24/2019,34
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,904,952,TRUE,12/24/2019,35
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,560,1033,FALSE,12/25/2019,36
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,904,952,TRUE,12/25/2019,37
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,579,1033,FALSE,12/26/2019,38
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,904,952,TRUE,12/26/2019,39
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,564,835,FALSE,12/27/2019,40
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1011,952,TRUE,12/27/2019,41
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,833,898,FALSE,12/28/2019,42
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,754,1049,FALSE,12/29/2019,43
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,1013,1793,TRUE,12/29/2019,44
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,547,835,FALSE,12/30/2019,45
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,899,952,TRUE,12/30/2019,46
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,357,1189,FALSE,12/31/2019,47
+56615,Hong Kong,Hong Kong International,HKG,Hong Kong,73076,904,952,TRUE,12/31/2019,48
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,455,1276,FALSE,12/1/2019,1
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,441,1276,FALSE,12/2/2019,2
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,444,1317,FALSE,12/3/2019,3
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,460,1317,FALSE,12/5/2019,4
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,464,1189,FALSE,12/7/2019,5
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,515,1429,FALSE,12/8/2019,6
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,508,1429,FALSE,12/9/2019,7
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,467,1189,FALSE,12/10/2019,8
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,558,857,FALSE,12/11/2019,9
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,614,1276,FALSE,12/12/2019,10
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,637,857,FALSE,12/13/2019,11
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,707,857,FALSE,12/15/2019,12
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,664,1467,FALSE,12/16/2019,13
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,848,1276,FALSE,12/18/2019,14
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,859,1276,FALSE,12/19/2019,15
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,875,954,FALSE,12/20/2019,16
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,860,833,FALSE,12/21/2019,17
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,821,857,FALSE,12/22/2019,18
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,759,1429,FALSE,12/23/2019,19
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,635,929,FALSE,12/24/2019,20
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,616,898,FALSE,12/25/2019,21
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,616,898,FALSE,12/26/2019,22
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,624,1429,FALSE,12/27/2019,23
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,581,833,FALSE,12/28/2019,24
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,590,851,FALSE,12/29/2019,25
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,467,833,FALSE,12/30/2019,26
+42795,Bangkok,Bangkok Suvarnabhumi,BKK,Thailand,73076,464,954,FALSE,12/31/2019,27
+65698,London,London Heathrow,LHR,United Kingdom,73076,293,1523,TRUE,12/1/2019,1
+65698,London,London Heathrow,LHR,United Kingdom,73076,280,1523,TRUE,12/2/2019,2
+65698,London,London Heathrow,LHR,United Kingdom,73076,275,1710,TRUE,12/3/2019,3
+65698,London,London Heathrow,LHR,United Kingdom,73076,264,1760,FALSE,12/4/2019,4
+65698,London,London Heathrow,LHR,United Kingdom,73076,275,1710,TRUE,12/4/2019,5
+65698,London,London Heathrow,LHR,United Kingdom,73076,1972,988,FALSE,12/5/2019,6
+65698,London,London Heathrow,LHR,United Kingdom,73076,264,1760,FALSE,12/6/2019,7
+65698,London,London Heathrow,LHR,United Kingdom,73076,277,1710,TRUE,12/6/2019,8
+65698,London,London Heathrow,LHR,United Kingdom,73076,218,1760,FALSE,12/8/2019,9
+65698,London,London Heathrow,LHR,United Kingdom,73076,1907,881,TRUE,12/8/2019,10
+65698,London,London Heathrow,LHR,United Kingdom,73076,211,1760,FALSE,12/9/2019,11
+65698,London,London Heathrow,LHR,United Kingdom,73076,275,1710,TRUE,12/9/2019,12
+65698,London,London Heathrow,LHR,United Kingdom,73076,268,1218,TRUE,12/10/2019,13
+65698,London,London Heathrow,LHR,United Kingdom,73076,275,1710,TRUE,12/11/2019,14
+65698,London,London Heathrow,LHR,United Kingdom,73076,334,1710,TRUE,12/12/2019,15
+65698,London,London Heathrow,LHR,United Kingdom,73076,366,1384,FALSE,12/13/2019,16
+65698,London,London Heathrow,LHR,United Kingdom,73076,521,857,TRUE,12/13/2019,17
+65698,London,London Heathrow,LHR,United Kingdom,73076,324,1707,FALSE,12/14/2019,18
+65698,London,London Heathrow,LHR,United Kingdom,73076,384,857,TRUE,12/14/2019,19
+65698,London,London Heathrow,LHR,United Kingdom,73076,323,1523,FALSE,12/15/2019,20
+65698,London,London Heathrow,LHR,United Kingdom,73076,352,1218,TRUE,12/15/2019,21
+65698,London,London Heathrow,LHR,United Kingdom,73076,323,1523,FALSE,12/16/2019,22
+65698,London,London Heathrow,LHR,United Kingdom,73076,417,1218,TRUE,12/16/2019,23
+65698,London,London Heathrow,LHR,United Kingdom,73076,417,1707,FALSE,12/17/2019,24
+65698,London,London Heathrow,LHR,United Kingdom,73076,1127,857,TRUE,12/17/2019,25
+65698,London,London Heathrow,LHR,United Kingdom,73076,422,1707,FALSE,12/18/2019,26
+65698,London,London Heathrow,LHR,United Kingdom,73076,711,857,TRUE,12/18/2019,27
+65698,London,London Heathrow,LHR,United Kingdom,73076,486,1707,FALSE,12/19/2019,28
+65698,London,London Heathrow,LHR,United Kingdom,73076,1875,857,TRUE,12/19/2019,29
+65698,London,London Heathrow,LHR,United Kingdom,73076,557,1707,FALSE,12/20/2019,30
+65698,London,London Heathrow,LHR,United Kingdom,73076,1886,857,TRUE,12/20/2019,31
+65698,London,London Heathrow,LHR,United Kingdom,73076,550,1707,FALSE,12/21/2019,32
+65698,London,London Heathrow,LHR,United Kingdom,73076,1849,857,TRUE,12/21/2019,33
+65698,London,London Heathrow,LHR,United Kingdom,73076,462,1033,FALSE,12/22/2019,34
+65698,London,London Heathrow,LHR,United Kingdom,73076,711,857,TRUE,12/22/2019,35
+65698,London,London Heathrow,LHR,United Kingdom,73076,331,1482,FALSE,12/23/2019,36
+65698,London,London Heathrow,LHR,United Kingdom,73076,711,857,TRUE,12/23/2019,37
+65698,London,London Heathrow,LHR,United Kingdom,73076,298,851,FALSE,12/24/2019,38
+65698,London,London Heathrow,LHR,United Kingdom,73076,459,1710,TRUE,12/24/2019,39
+65698,London,London Heathrow,LHR,United Kingdom,73076,296,851,FALSE,12/25/2019,40
+65698,London,London Heathrow,LHR,United Kingdom,73076,438,857,TRUE,12/25/2019,41
+65698,London,London Heathrow,LHR,United Kingdom,73076,287,1482,FALSE,12/26/2019,42
+65698,London,London Heathrow,LHR,United Kingdom,73076,456,857,TRUE,12/26/2019,43
+65698,London,London Heathrow,LHR,United Kingdom,73076,287,1482,FALSE,12/27/2019,44
+65698,London,London Heathrow,LHR,United Kingdom,73076,358,1218,TRUE,12/27/2019,45
+65698,London,London Heathrow,LHR,United Kingdom,73076,296,1482,FALSE,12/28/2019,46
+65698,London,London Heathrow,LHR,United Kingdom,73076,356,857,TRUE,12/28/2019,47
+65698,London,London Heathrow,LHR,United Kingdom,73076,296,851,FALSE,12/29/2019,48
+65698,London,London Heathrow,LHR,United Kingdom,73076,441,857,TRUE,12/29/2019,49
+65698,London,London Heathrow,LHR,United Kingdom,73076,296,1523,FALSE,12/30/2019,50
+65698,London,London Heathrow,LHR,United Kingdom,73076,441,857,TRUE,12/30/2019,51
+65698,London,London Heathrow,LHR,United Kingdom,73076,291,1523,TRUE,12/31/2019,52
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,426,1464,FALSE,12/4/2019,1
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,427,1464,FALSE,12/5/2019,2
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,461,1707,FALSE,12/8/2019,3
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,446,1464,FALSE,12/9/2019,4
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,531,1618,FALSE,12/11/2019,5
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,598,1793,FALSE,12/12/2019,6
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,848,1530,FALSE,12/13/2019,7
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,860,988,FALSE,12/14/2019,8
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,1049,1044,FALSE,12/20/2019,9
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,965,1464,FALSE,12/21/2019,10
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,849,1464,FALSE,12/22/2019,11
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,554,1464,FALSE,12/23/2019,12
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,448,1793,FALSE,12/24/2019,13
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,490,1793,FALSE,12/27/2019,14
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,492,954,FALSE,12/28/2019,15
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,449,1793,FALSE,12/30/2019,16
+81870,Singapore,Singapore Changi,SIN,Singapore,73076,435,1464,FALSE,12/31/2019,17
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,573,1760,FALSE,12/1/2019,1
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,873,1035,TRUE,12/1/2019,2
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,645,1658,FALSE,12/2/2019,3
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,873,1035,TRUE,12/2/2019,4
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,465,1523,FALSE,12/3/2019,5
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,873,1035,TRUE,12/3/2019,6
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,484,870,FALSE,12/5/2019,7
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,873,1035,TRUE,12/5/2019,8
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,507,1760,FALSE,12/6/2019,9
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,917,1035,TRUE,12/6/2019,10
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,682,1658,FALSE,12/8/2019,11
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,692,1658,FALSE,12/9/2019,12
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,654,1065,FALSE,12/10/2019,13
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,914,1035,TRUE,12/10/2019,14
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,598,1760,FALSE,12/11/2019,15
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,948,1035,TRUE,12/11/2019,16
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,770,1755,FALSE,12/14/2019,17
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,988,1035,TRUE,12/14/2019,18
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,527,870,FALSE,12/15/2019,19
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,941,1035,TRUE,12/15/2019,20
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,910,1658,FALSE,12/16/2019,21
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,640,1324,FALSE,12/17/2019,22
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,990,1035,TRUE,12/17/2019,23
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,812,1755,FALSE,12/18/2019,24
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,991,1035,TRUE,12/18/2019,25
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,1338,952,FALSE,12/19/2019,26
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,780,870,FALSE,12/20/2019,27
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,1079,870,TRUE,12/20/2019,28
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,743,1324,FALSE,12/21/2019,29
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,1087,870,TRUE,12/21/2019,30
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,847,1658,FALSE,12/22/2019,31
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,1004,1035,TRUE,12/22/2019,32
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,793,1755,FALSE,12/23/2019,33
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,992,1035,TRUE,12/23/2019,34
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,668,1044,FALSE,12/24/2019,35
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,951,1035,TRUE,12/24/2019,36
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,696,1044,FALSE,12/25/2019,37
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,650,1384,FALSE,12/26/2019,38
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,952,1035,TRUE,12/26/2019,39
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,664,1044,FALSE,12/27/2019,40
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,944,1035,TRUE,12/27/2019,41
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,715,1384,FALSE,12/28/2019,42
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,952,1035,TRUE,12/28/2019,43
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,612,1760,FALSE,12/29/2019,44
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,952,1035,TRUE,12/29/2019,45
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,574,1760,FALSE,12/30/2019,46
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,952,1035,TRUE,12/30/2019,47
+48018,Dubai,Dubai,DXB,United Arab Emirates,73076,981,952,FALSE,12/31/2019,48
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,418,1760,FALSE,12/1/2019,1
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,838,857,TRUE,12/1/2019,2
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,328,870,FALSE,12/2/2019,3
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,800,857,TRUE,12/2/2019,4
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,261,1324,FALSE,12/3/2019,5
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,805,857,TRUE,12/3/2019,6
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,328,870,FALSE,12/4/2019,7
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,805,857,TRUE,12/4/2019,8
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3179,1368,FALSE,12/5/2019,9
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3408,1368,TRUE,12/5/2019,10
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,353,1760,FALSE,12/6/2019,11
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,860,857,TRUE,12/6/2019,12
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,307,870,FALSE,12/7/2019,13
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3158,881,TRUE,12/7/2019,14
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3152,1368,TRUE,12/8/2019,15
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,226,1760,FALSE,12/9/2019,16
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,843,857,TRUE,12/9/2019,17
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3152,1368,TRUE,12/10/2019,18
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3152,1368,TRUE,12/11/2019,19
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3152,1368,TRUE,12/12/2019,20
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,276,1324,FALSE,12/13/2019,21
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,992,857,TRUE,12/13/2019,22
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,355,870,FALSE,12/14/2019,23
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,903,838,TRUE,12/14/2019,24
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,348,870,FALSE,12/15/2019,25
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,765,1218,TRUE,12/15/2019,26
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,327,1324,FALSE,12/16/2019,27
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,740,1126,TRUE,12/16/2019,28
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3152,1368,TRUE,12/17/2019,29
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,399,1467,FALSE,12/18/2019,30
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1196,1710,TRUE,12/18/2019,31
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,497,1707,FALSE,12/19/2019,32
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1089,857,TRUE,12/19/2019,33
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,567,1707,FALSE,12/20/2019,34
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1305,1368,TRUE,12/20/2019,35
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,560,1033,FALSE,12/21/2019,36
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1243,1368,TRUE,12/21/2019,37
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,533,1033,FALSE,12/22/2019,38
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1036,857,TRUE,12/22/2019,39
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,473,870,FALSE,12/24/2019,40
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,1014,1368,TRUE,12/24/2019,41
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3156,1368,TRUE,12/25/2019,42
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,478,857,FALSE,12/26/2019,43
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,742,838,TRUE,12/26/2019,44
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,484,1793,FALSE,12/27/2019,45
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,644,1793,TRUE,12/27/2019,46
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,500,1707,FALSE,12/28/2019,47
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,742,838,TRUE,12/28/2019,48
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,437,1707,FALSE,12/29/2019,49
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,805,857,TRUE,12/29/2019,50
+44759,Paris,Paris Charles de Gaulle,CDG,France,73076,3157,1368,TRUE,12/31/2019,51
+60987,New York,New York John F. Kennedy,JFK,United States,73076,279,988,TRUE,12/1/2019,1
+60987,New York,New York John F. Kennedy,JFK,United States,73076,145,833,TRUE,12/2/2019,2
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/3/2019,3
+60987,New York,New York John F. Kennedy,JFK,United States,73076,99,870,FALSE,12/4/2019,4
+60987,New York,New York John F. Kennedy,JFK,United States,73076,106,870,TRUE,12/4/2019,5
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/5/2019,6
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/6/2019,7
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/7/2019,8
+60987,New York,New York John F. Kennedy,JFK,United States,73076,105,833,FALSE,12/8/2019,9
+60987,New York,New York John F. Kennedy,JFK,United States,73076,122,870,TRUE,12/8/2019,10
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/9/2019,11
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/10/2019,12
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/11/2019,13
+60987,New York,New York John F. Kennedy,JFK,United States,73076,73,988,TRUE,12/12/2019,14
+60987,New York,New York John F. Kennedy,JFK,United States,73076,99,988,TRUE,12/13/2019,15
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/14/2019,16
+60987,New York,New York John F. Kennedy,JFK,United States,73076,107,833,FALSE,12/15/2019,17
+60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,TRUE,12/15/2019,18
+60987,New York,New York John F. Kennedy,JFK,United States,73076,106,833,FALSE,12/16/2019,19
+60987,New York,New York John F. Kennedy,JFK,United States,73076,117,870,TRUE,12/16/2019,20
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/17/2019,21
+60987,New York,New York John F. Kennedy,JFK,United States,73076,73,870,TRUE,12/18/2019,22
+60987,New York,New York John F. Kennedy,JFK,United States,73076,74,988,TRUE,12/19/2019,23
+60987,New York,New York John F. Kennedy,JFK,United States,73076,114,988,TRUE,12/20/2019,24
+60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,TRUE,12/21/2019,25
+60987,New York,New York John F. Kennedy,JFK,United States,73076,115,833,FALSE,12/22/2019,26
+60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,TRUE,12/22/2019,27
+60987,New York,New York John F. Kennedy,JFK,United States,73076,105,833,FALSE,12/23/2019,28
+60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,TRUE,12/23/2019,29
+60987,New York,New York John F. Kennedy,JFK,United States,73076,99,988,TRUE,12/24/2019,30
+60987,New York,New York John F. Kennedy,JFK,United States,73076,99,988,TRUE,12/25/2019,31
+60987,New York,New York John F. Kennedy,JFK,United States,73076,154,870,TRUE,12/26/2019,32
+60987,New York,New York John F. Kennedy,JFK,United States,73076,129,870,TRUE,12/27/2019,33
+60987,New York,New York John F. Kennedy,JFK,United States,73076,186,833,FALSE,12/28/2019,34
+60987,New York,New York John F. Kennedy,JFK,United States,73076,191,870,TRUE,12/28/2019,35
+60987,New York,New York John F. Kennedy,JFK,United States,73076,115,833,FALSE,12/29/2019,36
+60987,New York,New York John F. Kennedy,JFK,United States,73076,185,988,TRUE,12/29/2019,37
+60987,New York,New York John F. Kennedy,JFK,United States,73076,107,833,FALSE,12/30/2019,38
+60987,New York,New York John F. Kennedy,JFK,United States,73076,187,870,TRUE,12/30/2019,39
+60987,New York,New York John F. Kennedy,JFK,United States,73076,99,988,TRUE,12/31/2019,40
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,380,1760,FALSE,12/2/2019,1
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,385,870,FALSE,12/3/2019,2
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,362,1760,FALSE,12/4/2019,3
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,322,870,FALSE,12/5/2019,4
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,328,1760,FALSE,12/7/2019,5
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,362,870,FALSE,12/11/2019,6
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,773,1218,FALSE,12/12/2019,7
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,352,870,FALSE,12/13/2019,8
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,414,1065,FALSE,12/14/2019,9
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,376,1065,FALSE,12/15/2019,10
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,360,1760,FALSE,12/16/2019,11
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,350,1065,FALSE,12/17/2019,12
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,3356,1218,FALSE,12/19/2019,13
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,575,1707,FALSE,12/20/2019,14
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,811,1033,FALSE,12/21/2019,15
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,3306,1218,FALSE,12/22/2019,16
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,572,1760,FALSE,12/23/2019,17
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,774,1218,FALSE,12/24/2019,18
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,454,1760,FALSE,12/25/2019,19
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,468,1523,FALSE,12/26/2019,20
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,510,1707,FALSE,12/27/2019,21
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,358,1760,FALSE,12/28/2019,22
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,772,1218,FALSE,12/29/2019,23
+51631,Rome,Rome Fiumicino,FCO,Italy,73076,361,1760,FALSE,12/30/2019,24
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,499,1276,FALSE,12/1/2019,1
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,777,1276,TRUE,12/1/2019,2
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,482,1276,TRUE,12/2/2019,3
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,477,851,FALSE,12/4/2019,4
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,482,1276,TRUE,12/4/2019,5
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,524,833,FALSE,12/5/2019,6
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,664,833,TRUE,12/5/2019,7
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,518,851,FALSE,12/6/2019,8
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,840,1276,TRUE,12/6/2019,9
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,518,851,FALSE,12/7/2019,10
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,985,1276,TRUE,12/7/2019,11
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,653,988,FALSE,12/8/2019,12
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1576,1793,TRUE,12/8/2019,13
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,643,1317,FALSE,12/12/2019,14
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,648,833,TRUE,12/12/2019,15
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,769,1755,FALSE,12/15/2019,16
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1040,1276,TRUE,12/15/2019,17
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,774,1755,FALSE,12/16/2019,18
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,792,1276,TRUE,12/16/2019,19
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,847,1317,FALSE,12/17/2019,20
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,858,833,TRUE,12/17/2019,21
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,827,1276,TRUE,12/18/2019,22
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,826,1276,TRUE,12/19/2019,23
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1043,1276,FALSE,12/20/2019,24
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1311,1464,TRUE,12/20/2019,25
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1029,851,FALSE,12/21/2019,26
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1443,1464,TRUE,12/21/2019,27
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,802,1276,FALSE,12/22/2019,28
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,1040,1276,TRUE,12/22/2019,29
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,768,1429,FALSE,12/23/2019,30
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,787,1276,TRUE,12/23/2019,31
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,430,1276,FALSE,12/24/2019,32
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,787,1276,TRUE,12/24/2019,33
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,471,988,FALSE,12/25/2019,34
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,555,1276,TRUE,12/25/2019,35
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,430,1276,FALSE,12/26/2019,36
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,555,1276,TRUE,12/26/2019,37
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,639,1429,FALSE,12/27/2019,38
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,777,1276,TRUE,12/27/2019,39
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,632,1429,FALSE,12/28/2019,40
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,779,1276,TRUE,12/28/2019,41
+70788,Tokyo,Tokyo Narita,NRT,Japan,73076,426,1276,TRUE,12/30/2019,42
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,507,835,FALSE,12/2/2019,1
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,736,898,TRUE,12/2/2019,2
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,507,851,FALSE,12/4/2019,3
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,735,898,TRUE,12/4/2019,4
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,634,1464,FALSE,12/5/2019,5
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,735,898,TRUE,12/5/2019,6
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,694,1464,FALSE,12/8/2019,7
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,507,851,FALSE,12/9/2019,8
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,735,898,TRUE,12/9/2019,9
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,816,835,FALSE,12/14/2019,10
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,802,1793,FALSE,12/15/2019,11
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,803,1793,FALSE,12/16/2019,12
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1095,898,TRUE,12/16/2019,13
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,803,1793,FALSE,12/17/2019,14
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,808,1793,FALSE,12/18/2019,15
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1096,898,TRUE,12/18/2019,16
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,935,835,FALSE,12/19/2019,17
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1519,898,TRUE,12/19/2019,18
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1110,952,FALSE,12/20/2019,19
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1567,898,TRUE,12/20/2019,20
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,988,870,FALSE,12/21/2019,21
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1491,898,TRUE,12/21/2019,22
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,575,835,FALSE,12/22/2019,23
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,799,1793,FALSE,12/23/2019,24
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,1089,898,TRUE,12/23/2019,25
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,588,1658,FALSE,12/24/2019,26
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,615,1429,FALSE,12/25/2019,27
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,993,898,TRUE,12/25/2019,28
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,544,835,FALSE,12/26/2019,29
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,702,898,TRUE,12/26/2019,30
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,460,835,FALSE,12/27/2019,31
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,739,898,TRUE,12/27/2019,32
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,604,833,FALSE,12/28/2019,33
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,804,898,TRUE,12/28/2019,34
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,505,835,FALSE,12/29/2019,35
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,505,835,FALSE,12/30/2019,36
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,768,898,TRUE,12/30/2019,37
+84501,Taipei,Taipei Taiwan Taoyuan,TPE,Taiwan,73076,611,1793,FALSE,12/31/2019,38
+59316,Istanbul,Istanbul,IST,Turkey,73076,486,1760,FALSE,12/1/2019,1
+59316,Istanbul,Istanbul,IST,Turkey,73076,978,1755,TRUE,12/1/2019,2
+59316,Istanbul,Istanbul,IST,Turkey,73076,479,1760,FALSE,12/2/2019,3
+59316,Istanbul,Istanbul,IST,Turkey,73076,978,1755,TRUE,12/2/2019,4
+59316,Istanbul,Istanbul,IST,Turkey,73076,808,1618,FALSE,12/4/2019,5
+59316,Istanbul,Istanbul,IST,Turkey,73076,1063,1755,TRUE,12/4/2019,6
+59316,Istanbul,Istanbul,IST,Turkey,73076,721,1033,FALSE,12/12/2019,7
+59316,Istanbul,Istanbul,IST,Turkey,73076,1090,1755,TRUE,12/12/2019,8
+59316,Istanbul,Istanbul,IST,Turkey,73076,521,870,FALSE,12/14/2019,9
+59316,Istanbul,Istanbul,IST,Turkey,73076,1031,1755,TRUE,12/14/2019,10
+59316,Istanbul,Istanbul,IST,Turkey,73076,2427,1368,FALSE,12/15/2019,11
+59316,Istanbul,Istanbul,IST,Turkey,73076,469,1760,FALSE,12/16/2019,12
+59316,Istanbul,Istanbul,IST,Turkey,73076,972,1755,TRUE,12/16/2019,13
+59316,Istanbul,Istanbul,IST,Turkey,73076,478,1467,FALSE,12/17/2019,14
+59316,Istanbul,Istanbul,IST,Turkey,73076,992,1755,TRUE,12/17/2019,15
+59316,Istanbul,Istanbul,IST,Turkey,73076,585,1467,FALSE,12/18/2019,16
+59316,Istanbul,Istanbul,IST,Turkey,73076,709,1081,FALSE,12/19/2019,17
+59316,Istanbul,Istanbul,IST,Turkey,73076,999,1755,TRUE,12/19/2019,18
+59316,Istanbul,Istanbul,IST,Turkey,73076,764,870,FALSE,12/20/2019,19
+59316,Istanbul,Istanbul,IST,Turkey,73076,1008,1755,TRUE,12/20/2019,20
+59316,Istanbul,Istanbul,IST,Turkey,73076,747,1049,FALSE,12/22/2019,21
+59316,Istanbul,Istanbul,IST,Turkey,73076,978,1755,TRUE,12/22/2019,22
+59316,Istanbul,Istanbul,IST,Turkey,73076,2427,1368,FALSE,12/23/2019,23
+59316,Istanbul,Istanbul,IST,Turkey,73076,714,1384,FALSE,12/24/2019,24
+59316,Istanbul,Istanbul,IST,Turkey,73076,998,1755,TRUE,12/24/2019,25
+59316,Istanbul,Istanbul,IST,Turkey,73076,692,1760,FALSE,12/25/2019,26
+59316,Istanbul,Istanbul,IST,Turkey,73076,972,1755,TRUE,12/25/2019,27
+59316,Istanbul,Istanbul,IST,Turkey,73076,692,1218,FALSE,12/26/2019,28
+59316,Istanbul,Istanbul,IST,Turkey,73076,999,1755,TRUE,12/26/2019,29
+59316,Istanbul,Istanbul,IST,Turkey,73076,717,870,FALSE,12/27/2019,30
+59316,Istanbul,Istanbul,IST,Turkey,73076,1109,1755,TRUE,12/27/2019,31
+59316,Istanbul,Istanbul,IST,Turkey,73076,574,881,FALSE,12/28/2019,32
+59316,Istanbul,Istanbul,IST,Turkey,73076,1032,1755,TRUE,12/28/2019,33
+59316,Istanbul,Istanbul,IST,Turkey,73076,471,1760,FALSE,12/29/2019,34
+59316,Istanbul,Istanbul,IST,Turkey,73076,1069,1755,TRUE,12/29/2019,35
+59316,Istanbul,Istanbul,IST,Turkey,73076,2446,1368,FALSE,12/31/2019,36
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,544,1793,TRUE,12/2/2019,1
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,354,1189,FALSE,12/3/2019,2
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,535,929,TRUE,12/3/2019,3
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,544,1793,TRUE,12/4/2019,4
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,522,1384,FALSE,12/6/2019,5
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,554,1793,TRUE,12/6/2019,6
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,950,1049,FALSE,12/13/2019,7
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1114,1793,TRUE,12/13/2019,8
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,853,1189,FALSE,12/14/2019,9
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1244,988,TRUE,12/14/2019,10
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,855,1755,FALSE,12/15/2019,11
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1114,1793,TRUE,12/15/2019,12
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,944,1049,FALSE,12/21/2019,13
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1107,1793,TRUE,12/21/2019,14
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,869,1049,FALSE,12/22/2019,15
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,1107,1793,TRUE,12/22/2019,16
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,567,1429,TRUE,12/25/2019,17
+75575,Shanghai,Shanghai Pu Dong,PVG,China,73076,618,988,FALSE,12/30/2019,18
+68768,Milan,Milan Malpensa,MXP,Italy,73076,330,1760,FALSE,12/2/2019,1
+68768,Milan,Milan Malpensa,MXP,Italy,73076,330,1760,FALSE,12/4/2019,2
+68768,Milan,Milan Malpensa,MXP,Italy,73076,269,1760,FALSE,12/6/2019,3
+68768,Milan,Milan Malpensa,MXP,Italy,73076,268,1760,FALSE,12/7/2019,4
+68768,Milan,Milan Malpensa,MXP,Italy,73076,213,1760,FALSE,12/8/2019,5
+68768,Milan,Milan Malpensa,MXP,Italy,73076,299,1065,FALSE,12/11/2019,6
+68768,Milan,Milan Malpensa,MXP,Italy,73076,450,870,FALSE,12/13/2019,7
+68768,Milan,Milan Malpensa,MXP,Italy,73076,388,1467,FALSE,12/14/2019,8
+68768,Milan,Milan Malpensa,MXP,Italy,73076,368,1065,FALSE,12/15/2019,9
+68768,Milan,Milan Malpensa,MXP,Italy,73076,346,1065,FALSE,12/16/2019,10
+68768,Milan,Milan Malpensa,MXP,Italy,73076,418,1467,FALSE,12/18/2019,11
+68768,Milan,Milan Malpensa,MXP,Italy,73076,765,1033,FALSE,12/21/2019,12
+68768,Milan,Milan Malpensa,MXP,Italy,73076,623,1760,FALSE,12/22/2019,13
+68768,Milan,Milan Malpensa,MXP,Italy,73076,461,1707,FALSE,12/23/2019,14
+68768,Milan,Milan Malpensa,MXP,Italy,73076,728,1755,FALSE,12/24/2019,15
+68768,Milan,Milan Malpensa,MXP,Italy,73076,427,1760,FALSE,12/25/2019,16
+68768,Milan,Milan Malpensa,MXP,Italy,73076,577,870,FALSE,12/26/2019,17
+68768,Milan,Milan Malpensa,MXP,Italy,73076,469,870,FALSE,12/27/2019,18
+68768,Milan,Milan Malpensa,MXP,Italy,73076,424,1760,FALSE,12/28/2019,19
+68768,Milan,Milan Malpensa,MXP,Italy,73076,330,1760,FALSE,12/29/2019,20
+68768,Milan,Milan Malpensa,MXP,Italy,73076,328,1760,FALSE,12/30/2019,21
+68768,Milan,Milan Malpensa,MXP,Italy,73076,568,870,FALSE,12/31/2019,22
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,297,1721,FALSE,12/1/2019,1
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,440,851,TRUE,12/1/2019,2
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,122,833,FALSE,12/2/2019,3
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,219,1793,TRUE,12/2/2019,4
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,106,851,TRUE,12/3/2019,5
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,92,1793,TRUE,12/4/2019,6
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,89,851,TRUE,12/5/2019,7
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,90,851,TRUE,12/6/2019,8
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,88,833,TRUE,12/7/2019,9
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,106,851,TRUE,12/8/2019,10
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,89,851,TRUE,12/9/2019,11
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,88,833,TRUE,12/10/2019,12
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,88,833,TRUE,12/11/2019,13
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,92,851,TRUE,12/12/2019,14
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,90,851,TRUE,12/13/2019,15
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,94,1467,FALSE,12/14/2019,16
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,106,851,TRUE,12/14/2019,17
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,107,851,TRUE,12/15/2019,18
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,109,833,TRUE,12/16/2019,19
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,104,1467,FALSE,12/17/2019,20
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,109,833,TRUE,12/17/2019,21
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,112,1467,FALSE,12/18/2019,22
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,115,1467,TRUE,12/18/2019,23
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,152,988,FALSE,12/19/2019,24
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,161,851,TRUE,12/19/2019,25
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,256,988,FALSE,12/20/2019,26
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,257,1793,TRUE,12/20/2019,27
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,276,851,TRUE,12/21/2019,28
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,153,1793,TRUE,12/22/2019,29
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,154,1793,TRUE,12/23/2019,30
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,154,1793,TRUE,12/24/2019,31
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,145,833,FALSE,12/25/2019,32
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,154,1793,TRUE,12/25/2019,33
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,292,1793,TRUE,12/26/2019,34
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,257,1793,TRUE,12/27/2019,35
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,265,1793,FALSE,12/28/2019,36
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,293,1793,TRUE,12/28/2019,37
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,257,1793,TRUE,12/29/2019,38
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,249,1721,FALSE,12/30/2019,39
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,257,1793,TRUE,12/30/2019,40
+65368,Los Angeles,Los Angeles International,LAX,United States,73076,154,1793,TRUE,12/31/2019,41
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,656,898,FALSE,12/2/2019,1
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,487,1276,FALSE,12/4/2019,2
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,1063,1464,FALSE,12/9/2019,3
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,661,988,FALSE,12/10/2019,4
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,737,988,FALSE,12/11/2019,5
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,737,988,FALSE,12/12/2019,6
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,1087,988,FALSE,12/13/2019,7
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,1146,988,FALSE,12/14/2019,8
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,908,988,FALSE,12/15/2019,9
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,866,988,FALSE,12/16/2019,10
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,1816,988,FALSE,12/22/2019,11
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,866,988,FALSE,12/23/2019,12
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,705,988,FALSE,12/24/2019,13
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,446,1276,FALSE,12/25/2019,14
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,449,870,FALSE,12/26/2019,15
+63448,Osaka,Osaka Kansai International,KIX,Japan,73076,808,898,FALSE,12/30/2019,16
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,336,1760,FALSE,12/1/2019,1
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,280,1760,FALSE,12/2/2019,2
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,716,1033,FALSE,12/3/2019,3
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,234,1760,FALSE,12/9/2019,4
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,304,870,FALSE,12/10/2019,5
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,337,1760,FALSE,12/11/2019,6
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,415,1033,FALSE,12/13/2019,7
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,351,1467,FALSE,12/17/2019,8
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,407,1707,FALSE,12/18/2019,9
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,477,1707,FALSE,12/19/2019,10
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,553,1707,FALSE,12/20/2019,11
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,549,1707,FALSE,12/21/2019,12
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,525,1033,FALSE,12/22/2019,13
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,415,1033,FALSE,12/23/2019,14
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,438,870,FALSE,12/24/2019,15
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,414,1033,FALSE,12/27/2019,16
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,415,1033,FALSE,12/28/2019,17
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,354,1760,FALSE,12/29/2019,18
+84892,Berlin,Berlin Tegel,TXL,Germany,73076,339,1760,FALSE,12/30/2019,19
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3628,1324,FALSE,12/3/2019,1
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,567,1618,FALSE,12/5/2019,2
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,1076,1368,FALSE,12/6/2019,3
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,578,1218,FALSE,12/7/2019,4
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,578,1218,FALSE,12/8/2019,5
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,571,1618,FALSE,12/9/2019,6
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/10/2019,7
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/11/2019,8
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,737,1755,FALSE,12/12/2019,9
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,909,1755,FALSE,12/13/2019,10
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,887,1044,FALSE,12/14/2019,11
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,963,1044,FALSE,12/16/2019,12
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3676,1324,FALSE,12/17/2019,13
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3698,1324,FALSE,12/18/2019,14
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,963,1049,FALSE,12/20/2019,15
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,924,1044,FALSE,12/21/2019,16
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3622,1324,FALSE,12/22/2019,17
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,754,1044,FALSE,12/23/2019,18
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/24/2019,19
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3646,1324,FALSE,12/25/2019,20
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3628,1324,FALSE,12/26/2019,21
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/27/2019,22
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,678,881,FALSE,12/28/2019,23
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3626,1324,FALSE,12/31/2019,24
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3628,1324,FALSE,12/3/2019,1
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,567,1618,FALSE,12/5/2019,2
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,1076,1368,FALSE,12/6/2019,3
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,578,1218,FALSE,12/7/2019,4
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,578,1218,FALSE,12/8/2019,5
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,571,1618,FALSE,12/9/2019,6
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/10/2019,7
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/11/2019,8
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,737,1755,FALSE,12/12/2019,9
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,909,1755,FALSE,12/13/2019,10
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,887,1044,FALSE,12/14/2019,11
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,963,1044,FALSE,12/16/2019,12
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3676,1324,FALSE,12/17/2019,13
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3698,1324,FALSE,12/18/2019,14
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,963,1049,FALSE,12/20/2019,15
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,924,1044,FALSE,12/21/2019,16
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3622,1324,FALSE,12/22/2019,17
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,754,1044,FALSE,12/23/2019,18
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/24/2019,19
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3646,1324,FALSE,12/25/2019,20
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3628,1324,FALSE,12/26/2019,21
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/27/2019,22
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,678,881,FALSE,12/28/2019,23
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3626,1324,FALSE,12/31/2019,24
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3628,1324,FALSE,12/3/2019,1
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,567,1618,FALSE,12/5/2019,2
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,1076,1368,FALSE,12/6/2019,3
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,578,1218,FALSE,12/7/2019,4
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,578,1218,FALSE,12/8/2019,5
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,571,1618,FALSE,12/9/2019,6
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/10/2019,7
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/11/2019,8
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,737,1755,FALSE,12/12/2019,9
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,909,1755,FALSE,12/13/2019,10
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,887,1044,FALSE,12/14/2019,11
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,963,1044,FALSE,12/16/2019,12
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3676,1324,FALSE,12/17/2019,13
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3698,1324,FALSE,12/18/2019,14
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,963,1049,FALSE,12/20/2019,15
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,924,1044,FALSE,12/21/2019,16
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3622,1324,FALSE,12/22/2019,17
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,754,1044,FALSE,12/23/2019,18
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/24/2019,19
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3646,1324,FALSE,12/25/2019,20
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3628,1324,FALSE,12/26/2019,21
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/27/2019,22
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,678,881,FALSE,12/28/2019,23
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3626,1324,FALSE,12/31/2019,24
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3628,1324,FALSE,12/3/2019,1
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,567,1618,FALSE,12/5/2019,2
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,1076,1368,FALSE,12/6/2019,3
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,578,1218,FALSE,12/7/2019,4
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,578,1218,FALSE,12/8/2019,5
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,571,1618,FALSE,12/9/2019,6
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/10/2019,7
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/11/2019,8
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,737,1755,FALSE,12/12/2019,9
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,909,1755,FALSE,12/13/2019,10
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,887,1044,FALSE,12/14/2019,11
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,963,1044,FALSE,12/16/2019,12
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3676,1324,FALSE,12/17/2019,13
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3698,1324,FALSE,12/18/2019,14
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,963,1049,FALSE,12/20/2019,15
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,924,1044,FALSE,12/21/2019,16
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3622,1324,FALSE,12/22/2019,17
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,754,1044,FALSE,12/23/2019,18
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/24/2019,19
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3646,1324,FALSE,12/25/2019,20
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3628,1324,FALSE,12/26/2019,21
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,635,1044,FALSE,12/27/2019,22
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,678,881,FALSE,12/28/2019,23
+61362,Johannesburg,Johannesburg O.R. Tambo,JNB,South Africa,73076,3626,1324,FALSE,12/31/2019,24
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,3687,881,FALSE,12/2/2019,1
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,3676,881,FALSE,12/3/2019,2
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,3681,881,FALSE,12/8/2019,3
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,3685,881,FALSE,12/13/2019,4
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,3684,881,FALSE,12/16/2019,5
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,3685,881,FALSE,12/20/2019,6
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,3677,881,FALSE,12/21/2019,7
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,404,1793,FALSE,12/24/2019,8
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,491,1793,FALSE,12/26/2019,9
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,490,870,FALSE,12/27/2019,10
+88485,Venice,Venice Marco Polo,VCE,Italy,73076,479,1760,FALSE,12/28/2019,11
+67759,Orlando,Orlando International,MCO,United States,73076,153,1793,TRUE,12/1/2019,1
+67759,Orlando,Orlando International,MCO,United States,73076,153,1793,TRUE,12/2/2019,2
+67759,Orlando,Orlando International,MCO,United States,73076,97,988,FALSE,12/3/2019,3
+67759,Orlando,Orlando International,MCO,United States,73076,158,1793,TRUE,12/3/2019,4
+67759,Orlando,Orlando International,MCO,United States,73076,92,988,FALSE,12/4/2019,5
+67759,Orlando,Orlando International,MCO,United States,73076,95,1467,TRUE,12/4/2019,6
+67759,Orlando,Orlando International,MCO,United States,73076,92,988,FALSE,12/5/2019,7
+67759,Orlando,Orlando International,MCO,United States,73076,95,1467,TRUE,12/5/2019,8
+67759,Orlando,Orlando International,MCO,United States,73076,92,988,FALSE,12/6/2019,9
+67759,Orlando,Orlando International,MCO,United States,73076,95,1467,TRUE,12/6/2019,10
+67759,Orlando,Orlando International,MCO,United States,73076,75,1467,TRUE,12/7/2019,11
+67759,Orlando,Orlando International,MCO,United States,73076,94,1065,TRUE,12/8/2019,12
+67759,Orlando,Orlando International,MCO,United States,73076,74,1065,TRUE,12/9/2019,13
+67759,Orlando,Orlando International,MCO,United States,73076,55,1467,TRUE,12/10/2019,14
+67759,Orlando,Orlando International,MCO,United States,73076,63,1065,TRUE,12/11/2019,15
+67759,Orlando,Orlando International,MCO,United States,73076,74,1065,TRUE,12/12/2019,16
+67759,Orlando,Orlando International,MCO,United States,73076,75,1467,TRUE,12/13/2019,17
+67759,Orlando,Orlando International,MCO,United States,73076,74,1065,TRUE,12/14/2019,18
+67759,Orlando,Orlando International,MCO,United States,73076,88,833,TRUE,12/15/2019,19
+67759,Orlando,Orlando International,MCO,United States,73076,74,1065,TRUE,12/16/2019,20
+67759,Orlando,Orlando International,MCO,United States,73076,54,1467,TRUE,12/17/2019,21
+67759,Orlando,Orlando International,MCO,United States,73076,92,988,FALSE,12/18/2019,22
+67759,Orlando,Orlando International,MCO,United States,73076,95,1467,TRUE,12/18/2019,23
+67759,Orlando,Orlando International,MCO,United States,73076,131,988,FALSE,12/19/2019,24
+67759,Orlando,Orlando International,MCO,United States,73076,206,1065,TRUE,12/19/2019,25
+67759,Orlando,Orlando International,MCO,United States,73076,204,1065,TRUE,12/20/2019,26
+67759,Orlando,Orlando International,MCO,United States,73076,307,1065,TRUE,12/21/2019,27
+67759,Orlando,Orlando International,MCO,United States,73076,307,1065,TRUE,12/22/2019,28
+67759,Orlando,Orlando International,MCO,United States,73076,282,1721,FALSE,12/23/2019,29
+67759,Orlando,Orlando International,MCO,United States,73076,294,1793,TRUE,12/23/2019,30
+67759,Orlando,Orlando International,MCO,United States,73076,123,1793,TRUE,12/24/2019,31
+67759,Orlando,Orlando International,MCO,United States,73076,136,1065,TRUE,12/25/2019,32
+67759,Orlando,Orlando International,MCO,United States,73076,307,1065,TRUE,12/26/2019,33
+67759,Orlando,Orlando International,MCO,United States,73076,307,1065,TRUE,12/27/2019,34
+67759,Orlando,Orlando International,MCO,United States,73076,194,1793,TRUE,12/28/2019,35
+67759,Orlando,Orlando International,MCO,United States,73076,224,833,TRUE,12/29/2019,36
+67759,Orlando,Orlando International,MCO,United States,73076,123,1793,TRUE,12/30/2019,37
+67759,Orlando,Orlando International,MCO,United States,73076,131,833,FALSE,12/31/2019,38
+67759,Orlando,Orlando International,MCO,United States,73076,159,1793,TRUE,12/31/2019,39
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,406,1760,FALSE,12/2/2019,1
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,630,1755,FALSE,12/3/2019,2
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,378,870,FALSE,12/4/2019,3
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,345,870,FALSE,12/10/2019,4
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,353,870,FALSE,12/11/2019,5
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,603,1755,FALSE,12/13/2019,6
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,418,1467,FALSE,12/14/2019,7
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,452,1065,FALSE,12/15/2019,8
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,426,1065,FALSE,12/16/2019,9
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,491,1467,FALSE,12/18/2019,10
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,721,1081,FALSE,12/19/2019,11
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,948,1755,FALSE,12/21/2019,12
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,636,1755,FALSE,12/23/2019,13
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,621,1760,FALSE,12/25/2019,14
+88879,Moscow,Moscow Vnukovo,VKO,Russia,73076,680,1755,FALSE,12/26/2019,15
+74763,Beijing,Beijing Capital,PEK,China,73076,391,988,FALSE,12/1/2019,1
+74763,Beijing,Beijing Capital,PEK,China,73076,385,988,FALSE,12/2/2019,2
+74763,Beijing,Beijing Capital,PEK,China,73076,347,1189,TRUE,12/3/2019,3
+74763,Beijing,Beijing Capital,PEK,China,73076,385,988,FALSE,12/4/2019,4
+74763,Beijing,Beijing Capital,PEK,China,73076,376,929,TRUE,12/5/2019,5
+74763,Beijing,Beijing Capital,PEK,China,73076,412,1658,FALSE,12/6/2019,6
+74763,Beijing,Beijing Capital,PEK,China,73076,892,929,TRUE,12/6/2019,7
+74763,Beijing,Beijing Capital,PEK,China,73076,425,988,FALSE,12/7/2019,8
+74763,Beijing,Beijing Capital,PEK,China,73076,391,988,FALSE,12/8/2019,9
+74763,Beijing,Beijing Capital,PEK,China,73076,385,988,FALSE,12/9/2019,10
+74763,Beijing,Beijing Capital,PEK,China,73076,380,1697,FALSE,12/10/2019,11
+74763,Beijing,Beijing Capital,PEK,China,73076,444,1189,TRUE,12/10/2019,12
+74763,Beijing,Beijing Capital,PEK,China,73076,1177,988,FALSE,12/11/2019,13
+74763,Beijing,Beijing Capital,PEK,China,73076,1177,988,FALSE,12/12/2019,14
+74763,Beijing,Beijing Capital,PEK,China,73076,3757,988,FALSE,12/13/2019,15
+74763,Beijing,Beijing Capital,PEK,China,73076,982,1464,FALSE,12/14/2019,16
+74763,Beijing,Beijing Capital,PEK,China,73076,1557,1189,TRUE,12/14/2019,17
+74763,Beijing,Beijing Capital,PEK,China,73076,847,1755,FALSE,12/15/2019,18
+74763,Beijing,Beijing Capital,PEK,China,73076,1330,1793,TRUE,12/15/2019,19
+74763,Beijing,Beijing Capital,PEK,China,73076,618,1065,FALSE,12/16/2019,20
+74763,Beijing,Beijing Capital,PEK,China,73076,1180,1793,TRUE,12/16/2019,21
+74763,Beijing,Beijing Capital,PEK,China,73076,636,1384,FALSE,12/17/2019,22
+74763,Beijing,Beijing Capital,PEK,China,73076,1153,1793,TRUE,12/17/2019,23
+74763,Beijing,Beijing Capital,PEK,China,73076,922,1464,FALSE,12/18/2019,24
+74763,Beijing,Beijing Capital,PEK,China,73076,1180,1793,TRUE,12/18/2019,25
+74763,Beijing,Beijing Capital,PEK,China,73076,952,898,FALSE,12/19/2019,26
+74763,Beijing,Beijing Capital,PEK,China,73076,1240,1189,TRUE,12/19/2019,27
+74763,Beijing,Beijing Capital,PEK,China,73076,1226,988,FALSE,12/20/2019,28
+74763,Beijing,Beijing Capital,PEK,China,73076,3757,988,FALSE,12/21/2019,29
+74763,Beijing,Beijing Capital,PEK,China,73076,794,929,FALSE,12/22/2019,30
+74763,Beijing,Beijing Capital,PEK,China,73076,1230,1793,TRUE,12/22/2019,31
+74763,Beijing,Beijing Capital,PEK,China,73076,720,870,FALSE,12/23/2019,32
+74763,Beijing,Beijing Capital,PEK,China,73076,1180,1793,TRUE,12/23/2019,33
+74763,Beijing,Beijing Capital,PEK,China,73076,732,1793,FALSE,12/24/2019,34
+74763,Beijing,Beijing Capital,PEK,China,73076,1153,1793,TRUE,12/24/2019,35
+74763,Beijing,Beijing Capital,PEK,China,73076,383,1530,FALSE,12/25/2019,36
+74763,Beijing,Beijing Capital,PEK,China,73076,849,929,TRUE,12/25/2019,37
+74763,Beijing,Beijing Capital,PEK,China,73076,487,1793,FALSE,12/26/2019,38
+74763,Beijing,Beijing Capital,PEK,China,73076,583,1793,TRUE,12/26/2019,39
+74763,Beijing,Beijing Capital,PEK,China,73076,417,1793,FALSE,12/27/2019,40
+74763,Beijing,Beijing Capital,PEK,China,73076,904,1793,TRUE,12/27/2019,41
+74763,Beijing,Beijing Capital,PEK,China,73076,413,1793,TRUE,12/28/2019,42
+74763,Beijing,Beijing Capital,PEK,China,73076,404,988,FALSE,12/29/2019,43
+74763,Beijing,Beijing Capital,PEK,China,73076,385,988,FALSE,12/30/2019,44
+74763,Beijing,Beijing Capital,PEK,China,73076,853,988,FALSE,12/31/2019,45
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,TRUE,12/1/2019,1
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,TRUE,12/2/2019,2
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,137,1793,TRUE,12/3/2019,3
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,833,TRUE,12/4/2019,4
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,118,988,FALSE,12/5/2019,5
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,138,1793,TRUE,12/5/2019,6
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,132,851,TRUE,12/6/2019,7
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,TRUE,12/7/2019,8
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,TRUE,12/8/2019,9
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,TRUE,12/9/2019,10
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,138,1793,TRUE,12/10/2019,11
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,110,1658,TRUE,12/11/2019,12
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,TRUE,12/12/2019,13
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,TRUE,12/13/2019,14
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,133,851,TRUE,12/14/2019,15
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,129,851,TRUE,12/16/2019,16
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,118,988,FALSE,12/17/2019,17
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,TRUE,12/17/2019,18
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,1793,TRUE,12/18/2019,19
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,833,TRUE,12/19/2019,20
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,138,1793,TRUE,12/20/2019,21
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,138,1793,TRUE,12/21/2019,22
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,132,1793,TRUE,12/22/2019,23
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,833,TRUE,12/23/2019,24
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,131,833,TRUE,12/24/2019,25
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,115,833,TRUE,12/25/2019,26
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,110,833,TRUE,12/26/2019,27
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,129,851,TRUE,12/27/2019,28
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,140,1793,TRUE,12/28/2019,29
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,129,1658,TRUE,12/29/2019,30
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,132,1793,TRUE,12/30/2019,31
+96474,Toronto,Toronto Pearson International,YYZ,Canada,73076,132,1793,TRUE,12/31/2019,32
+56138,Hannover,Hannover,HAJ,Germany,73076,412,1707,FALSE,12/18/2019,1
+56138,Hannover,Hannover,HAJ,Germany,73076,823,1755,FALSE,12/27/2019,2
+82628,Sydney,Sydney,SYD,Australia,73076,737,1429,FALSE,12/1/2019,1
+82628,Sydney,Sydney,SYD,Australia,73076,648,851,FALSE,12/2/2019,2
+82628,Sydney,Sydney,SYD,Australia,73076,559,851,FALSE,12/3/2019,3
+82628,Sydney,Sydney,SYD,Australia,73076,610,851,FALSE,12/4/2019,4
+82628,Sydney,Sydney,SYD,Australia,73076,867,1793,FALSE,12/7/2019,5
+82628,Sydney,Sydney,SYD,Australia,73076,583,851,FALSE,12/9/2019,6
+82628,Sydney,Sydney,SYD,Australia,73076,615,1482,FALSE,12/11/2019,7
+82628,Sydney,Sydney,SYD,Australia,73076,617,1482,FALSE,12/12/2019,8
+82628,Sydney,Sydney,SYD,Australia,73076,1282,1793,FALSE,12/13/2019,9
+82628,Sydney,Sydney,SYD,Australia,73076,684,851,FALSE,12/15/2019,10
+82628,Sydney,Sydney,SYD,Australia,73076,1359,833,FALSE,12/16/2019,11
+82628,Sydney,Sydney,SYD,Australia,73076,1041,1082,FALSE,12/17/2019,12
+82628,Sydney,Sydney,SYD,Australia,73076,806,1467,FALSE,12/18/2019,13
+82628,Sydney,Sydney,SYD,Australia,73076,1252,1429,FALSE,12/20/2019,14
+82628,Sydney,Sydney,SYD,Australia,73076,1169,836,FALSE,12/21/2019,15
+82628,Sydney,Sydney,SYD,Australia,73076,1095,1606,FALSE,12/22/2019,16
+82628,Sydney,Sydney,SYD,Australia,73076,1103,1482,FALSE,12/23/2019,17
+82628,Sydney,Sydney,SYD,Australia,73076,1392,1793,FALSE,12/25/2019,18
+82628,Sydney,Sydney,SYD,Australia,73076,920,851,FALSE,12/26/2019,19
+82628,Sydney,Sydney,SYD,Australia,73076,833,1429,FALSE,12/27/2019,20
+82628,Sydney,Sydney,SYD,Australia,73076,1411,1793,FALSE,12/28/2019,21
+82628,Sydney,Sydney,SYD,Australia,73076,1148,1049,FALSE,12/29/2019,22
+82628,Sydney,Sydney,SYD,Australia,73076,796,1429,FALSE,12/30/2019,23
+82628,Sydney,Sydney,SYD,Australia,73076,1392,1793,FALSE,12/31/2019,24
+86479,Quito,Quito,UIO,Ecuador,73076,446,941,FALSE,12/1/2019,1
+86479,Quito,Quito,UIO,Ecuador,73076,436,941,FALSE,12/3/2019,2
+86479,Quito,Quito,UIO,Ecuador,73076,233,870,FALSE,12/5/2019,3
+86479,Quito,Quito,UIO,Ecuador,73076,377,988,FALSE,12/8/2019,4
+86479,Quito,Quito,UIO,Ecuador,73076,372,1793,FALSE,12/9/2019,5
+86479,Quito,Quito,UIO,Ecuador,73076,238,870,FALSE,12/10/2019,6
+86479,Quito,Quito,UIO,Ecuador,73076,330,1467,FALSE,12/14/2019,7
+86479,Quito,Quito,UIO,Ecuador,73076,337,870,FALSE,12/15/2019,8
+86479,Quito,Quito,UIO,Ecuador,73076,319,870,FALSE,12/16/2019,9
+86479,Quito,Quito,UIO,Ecuador,73076,365,870,FALSE,12/17/2019,10
+86479,Quito,Quito,UIO,Ecuador,73076,374,1065,FALSE,12/18/2019,11
+86479,Quito,Quito,UIO,Ecuador,73076,807,941,FALSE,12/20/2019,12
+86479,Quito,Quito,UIO,Ecuador,73076,948,941,FALSE,12/21/2019,13
+86479,Quito,Quito,UIO,Ecuador,73076,812,941,FALSE,12/22/2019,14
+86479,Quito,Quito,UIO,Ecuador,73076,715,941,FALSE,12/23/2019,15
+86479,Quito,Quito,UIO,Ecuador,73076,446,941,FALSE,12/24/2019,16
+86479,Quito,Quito,UIO,Ecuador,73076,380,988,FALSE,12/25/2019,17
+86479,Quito,Quito,UIO,Ecuador,73076,675,941,FALSE,12/26/2019,18
+86479,Quito,Quito,UIO,Ecuador,73076,446,941,FALSE,12/27/2019,19
+86479,Quito,Quito,UIO,Ecuador,73076,446,941,FALSE,12/28/2019,20
+86479,Quito,Quito,UIO,Ecuador,73076,485,941,FALSE,12/29/2019,21
+86479,Quito,Quito,UIO,Ecuador,73076,386,941,FALSE,12/30/2019,22
+86479,Quito,Quito,UIO,Ecuador,73076,376,941,FALSE,12/31/2019,23
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,310,833,FALSE,12/1/2019,1
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,406,833,FALSE,12/2/2019,2
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,272,833,FALSE,12/3/2019,3
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,234,833,FALSE,12/5/2019,4
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,234,833,FALSE,12/6/2019,5
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,227,833,FALSE,12/9/2019,6
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,156,833,FALSE,12/10/2019,7
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,122,988,FALSE,12/12/2019,8
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,122,988,FALSE,12/13/2019,9
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,214,870,FALSE,12/15/2019,10
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,371,851,FALSE,12/19/2019,11
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,217,988,FALSE,12/24/2019,12
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,327,833,FALSE,12/25/2019,13
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,383,988,FALSE,12/28/2019,14
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,368,870,FALSE,12/30/2019,15
+65634,Long Beach,Long Beach Municipal,LGB,United States,73076,1254,851,FALSE,12/31/2019,16
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,481,1760,FALSE,12/5/2019,1
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,1022,1707,TRUE,12/5/2019,2
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,529,1755,FALSE,12/9/2019,3
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,616,1081,FALSE,12/22/2019,4
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,935,1707,TRUE,12/22/2019,5
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,556,1760,FALSE,12/23/2019,6
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,2570,1707,TRUE,12/23/2019,7
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,523,1755,FALSE,12/27/2019,8
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,1024,1707,TRUE,12/27/2019,9
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,357,1760,FALSE,12/29/2019,10
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,964,1707,TRUE,12/29/2019,11
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,357,1760,FALSE,12/30/2019,12
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,1124,1707,TRUE,12/30/2019,13
+45336,Copenhagen,Copenhagen,CPH,Denmark,73076,528,1755,FALSE,12/31/2019,14
+91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,375,851,FALSE,12/5/2019,1
+91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,394,1065,FALSE,12/14/2019,2
+91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,961,1033,FALSE,12/20/2019,3
+91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,805,1760,FALSE,12/24/2019,4
+91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,526,1760,FALSE,12/25/2019,5
+91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,617,870,FALSE,12/26/2019,6
+91273,Nowy Dwor Mazowiecki,Warsaw Modlin,WMI,Poland,73076,568,835,FALSE,12/28/2019,7
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,769,1793,FALSE,12/1/2019,1
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,854,1793,FALSE,12/2/2019,2
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,644,1189,FALSE,12/3/2019,3
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,714,1464,FALSE,12/4/2019,4
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,769,1793,FALSE,12/8/2019,5
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,1217,1793,FALSE,12/11/2019,6
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,605,1482,FALSE,12/12/2019,7
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,1317,1049,FALSE,12/13/2019,8
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,1317,1049,FALSE,12/14/2019,9
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,740,1467,FALSE,12/16/2019,10
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,785,1467,FALSE,12/17/2019,11
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,902,1467,FALSE,12/18/2019,12
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,3527,1793,FALSE,12/19/2019,13
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,1511,1049,FALSE,12/20/2019,14
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,1110,851,FALSE,12/21/2019,15
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,1217,1793,FALSE,12/24/2019,16
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,877,1429,FALSE,12/25/2019,17
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,975,1618,FALSE,12/26/2019,18
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,839,1429,FALSE,12/27/2019,19
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,827,1429,FALSE,12/28/2019,20
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,827,1429,FALSE,12/29/2019,21
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,1151,1049,FALSE,12/30/2019,22
+67852,Melbourne,Melbourne Tullamarine,MEL,Australia,73076,594,1189,FALSE,12/31/2019,23
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,406,1760,FALSE,12/1/2019,1
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,871,1755,FALSE,12/3/2019,2
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,584,851,FALSE,12/5/2019,3
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,375,1760,FALSE,12/6/2019,4
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,325,1760,FALSE,12/8/2019,5
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,765,1375,FALSE,12/9/2019,6
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,468,870,FALSE,12/10/2019,7
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,405,1760,FALSE,12/11/2019,8
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,582,1218,FALSE,12/12/2019,9
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,668,1760,FALSE,12/13/2019,10
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,2369,1368,FALSE,12/14/2019,11
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,871,1755,FALSE,12/17/2019,12
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,959,1755,FALSE,12/18/2019,13
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,1211,1755,FALSE,12/21/2019,14
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,600,1760,FALSE,12/22/2019,15
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,594,1218,FALSE,12/24/2019,16
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,485,1760,FALSE,12/25/2019,17
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,521,1760,FALSE,12/27/2019,18
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,417,1760,FALSE,12/28/2019,19
+84326,Tel Aviv,Ben Gurion Intl,TLV,Israel,73076,766,1375,FALSE,12/31/2019,20
+50101,Essaouira,Essaouira,ESU,Morocco,73076,743,1760,FALSE,12/18/2019,1
+43141,Brussels,Brussels International,BRU,Belgium,73076,382,1760,FALSE,12/1/2019,1
+43141,Brussels,Brussels International,BRU,Belgium,73076,382,1760,FALSE,12/2/2019,2
+43141,Brussels,Brussels International,BRU,Belgium,73076,403,1707,FALSE,12/3/2019,3
+43141,Brussels,Brussels International,BRU,Belgium,73076,739,1710,TRUE,12/3/2019,4
+43141,Brussels,Brussels International,BRU,Belgium,73076,729,1033,FALSE,12/5/2019,5
+43141,Brussels,Brussels International,BRU,Belgium,73076,307,1760,FALSE,12/6/2019,6
+43141,Brussels,Brussels International,BRU,Belgium,73076,804,1710,TRUE,12/6/2019,7
+43141,Brussels,Brussels International,BRU,Belgium,73076,477,1707,FALSE,12/13/2019,8
+43141,Brussels,Brussels International,BRU,Belgium,73076,938,1710,TRUE,12/13/2019,9
+43141,Brussels,Brussels International,BRU,Belgium,73076,729,1033,FALSE,12/14/2019,10
+43141,Brussels,Brussels International,BRU,Belgium,73076,367,870,FALSE,12/15/2019,11
+43141,Brussels,Brussels International,BRU,Belgium,73076,938,1710,TRUE,12/15/2019,12
+43141,Brussels,Brussels International,BRU,Belgium,73076,404,1707,FALSE,12/18/2019,13
+43141,Brussels,Brussels International,BRU,Belgium,73076,1024,1710,TRUE,12/18/2019,14
+43141,Brussels,Brussels International,BRU,Belgium,73076,975,1760,FALSE,12/20/2019,15
+43141,Brussels,Brussels International,BRU,Belgium,73076,1195,1760,FALSE,12/21/2019,16
+43141,Brussels,Brussels International,BRU,Belgium,73076,420,1707,FALSE,12/22/2019,17
+43141,Brussels,Brussels International,BRU,Belgium,73076,1089,1710,TRUE,12/22/2019,18
+43141,Brussels,Brussels International,BRU,Belgium,73076,578,1760,FALSE,12/23/2019,19
+43141,Brussels,Brussels International,BRU,Belgium,73076,403,1707,FALSE,12/25/2019,20
+43141,Brussels,Brussels International,BRU,Belgium,73076,739,1710,TRUE,12/25/2019,21
+43141,Brussels,Brussels International,BRU,Belgium,73076,645,1755,FALSE,12/26/2019,22
+43141,Brussels,Brussels International,BRU,Belgium,73076,2891,1793,TRUE,12/26/2019,23
+43141,Brussels,Brussels International,BRU,Belgium,73076,457,1760,FALSE,12/28/2019,24
+43141,Brussels,Brussels International,BRU,Belgium,73076,821,1710,TRUE,12/28/2019,25
+43141,Brussels,Brussels International,BRU,Belgium,73076,382,1760,FALSE,12/30/2019,26
+40492,Auckland,Auckland International,AKL,New Zealand,73076,815,1429,FALSE,12/1/2019,1
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1071,1482,TRUE,12/1/2019,2
+40492,Auckland,Auckland International,AKL,New Zealand,73076,803,1429,FALSE,12/2/2019,3
+40492,Auckland,Auckland International,AKL,New Zealand,73076,796,851,FALSE,12/6/2019,4
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1063,1482,TRUE,12/6/2019,5
+40492,Auckland,Auckland International,AKL,New Zealand,73076,715,1189,FALSE,12/10/2019,6
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1513,851,FALSE,12/14/2019,7
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1880,1793,TRUE,12/14/2019,8
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1666,952,FALSE,12/15/2019,9
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1887,1793,TRUE,12/15/2019,10
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1269,1429,FALSE,12/16/2019,11
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1527,1482,TRUE,12/16/2019,12
+40492,Auckland,Auckland International,AKL,New Zealand,73076,970,1082,FALSE,12/17/2019,13
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1354,1467,FALSE,12/18/2019,14
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1610,1482,TRUE,12/18/2019,15
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1214,1082,FALSE,12/19/2019,16
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1348,1429,FALSE,12/20/2019,17
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1664,1482,TRUE,12/20/2019,18
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1582,1482,TRUE,12/21/2019,19
+40492,Auckland,Auckland International,AKL,New Zealand,73076,2456,1755,FALSE,12/22/2019,20
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1517,833,FALSE,12/23/2019,21
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1814,1482,TRUE,12/23/2019,22
+40492,Auckland,Auckland International,AKL,New Zealand,73076,961,1082,FALSE,12/24/2019,23
+40492,Auckland,Auckland International,AKL,New Zealand,73076,950,1429,FALSE,12/25/2019,24
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1527,1482,TRUE,12/25/2019,25
+40492,Auckland,Auckland International,AKL,New Zealand,73076,962,1082,FALSE,12/26/2019,26
+40492,Auckland,Auckland International,AKL,New Zealand,73076,868,1429,FALSE,12/27/2019,27
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1571,1482,TRUE,12/27/2019,28
+40492,Auckland,Auckland International,AKL,New Zealand,73076,976,1429,FALSE,12/28/2019,29
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1572,1482,TRUE,12/28/2019,30
+40492,Auckland,Auckland International,AKL,New Zealand,73076,868,1429,FALSE,12/29/2019,31
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1572,1482,TRUE,12/29/2019,32
+40492,Auckland,Auckland International,AKL,New Zealand,73076,872,1429,FALSE,12/30/2019,33
+40492,Auckland,Auckland International,AKL,New Zealand,73076,1527,1482,TRUE,12/30/2019,34
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,5275,1464,FALSE,12/1/2019,1
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,484,1464,FALSE,12/7/2019,2
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,787,1464,FALSE,12/8/2019,3
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,1004,988,FALSE,12/9/2019,4
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,816,1464,FALSE,12/13/2019,5
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,847,1793,FALSE,12/14/2019,6
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,836,1464,FALSE,12/15/2019,7
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,774,1464,FALSE,12/16/2019,8
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,799,1464,FALSE,12/17/2019,9
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,967,1464,FALSE,12/18/2019,10
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,937,1464,FALSE,12/20/2019,11
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,1018,1464,FALSE,12/21/2019,12
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,1004,1464,FALSE,12/22/2019,13
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,729,1755,FALSE,12/23/2019,14
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,798,1464,FALSE,12/24/2019,15
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,806,1464,FALSE,12/26/2019,16
+44907,Jakarta,Soekarno-Hatta,CGK,Indonesia,73076,838,1464,FALSE,12/27/2019,17
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,237,1760,FALSE,12/2/2019,1
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2920,1368,TRUE,12/2/2019,2
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2947,1368,TRUE,12/3/2019,3
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,241,1760,FALSE,12/4/2019,4
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,756,1368,TRUE,12/4/2019,5
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,473,835,FALSE,12/5/2019,6
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2949,1368,TRUE,12/5/2019,7
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,248,1760,FALSE,12/7/2019,8
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2947,1793,TRUE,12/7/2019,9
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,194,1760,FALSE,12/9/2019,10
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2951,1793,TRUE,12/9/2019,11
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,439,1065,FALSE,12/10/2019,12
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2945,1368,TRUE,12/10/2019,13
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,307,1760,FALSE,12/11/2019,14
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2945,1368,TRUE,12/11/2019,15
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,473,1707,FALSE,12/13/2019,16
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,998,1368,TRUE,12/13/2019,17
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,835,1081,FALSE,12/15/2019,18
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,407,1707,FALSE,12/17/2019,19
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1359,1751,TRUE,12/17/2019,20
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,407,1707,FALSE,12/18/2019,21
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1272,1368,TRUE,12/18/2019,22
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,471,1707,FALSE,12/19/2019,23
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1451,1751,TRUE,12/19/2019,24
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,747,1033,FALSE,12/21/2019,25
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,3000,1793,TRUE,12/21/2019,26
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,413,1707,FALSE,12/22/2019,27
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1528,1751,TRUE,12/22/2019,28
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,410,1707,FALSE,12/23/2019,29
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,1336,1751,TRUE,12/23/2019,30
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,490,1760,FALSE,12/24/2019,31
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,902,1751,TRUE,12/24/2019,32
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,388,1760,FALSE,12/25/2019,33
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2940,1368,TRUE,12/25/2019,34
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,643,1755,FALSE,12/26/2019,35
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2937,1793,TRUE,12/26/2019,36
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,501,1760,FALSE,12/27/2019,37
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2937,1793,TRUE,12/27/2019,38
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,404,1760,FALSE,12/28/2019,39
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,2949,1793,TRUE,12/28/2019,40
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,294,1760,FALSE,12/29/2019,41
+52337,Frankfurt,Frankfurt am Main,FRA,Germany,73076,979,1751,TRUE,12/29/2019,42
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,357,1760,FALSE,12/1/2019,1
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2509,1707,TRUE,12/1/2019,2
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2355,881,FALSE,12/5/2019,3
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2355,881,FALSE,12/12/2019,4
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2355,881,FALSE,12/13/2019,5
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2355,881,FALSE,12/14/2019,6
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2355,881,FALSE,12/15/2019,7
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,325,1467,FALSE,12/16/2019,8
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2392,1707,TRUE,12/16/2019,9
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2405,881,FALSE,12/17/2019,10
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,557,1760,FALSE,12/18/2019,11
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2528,1707,TRUE,12/18/2019,12
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,722,1755,FALSE,12/19/2019,13
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2512,1707,TRUE,12/19/2019,14
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,605,1081,FALSE,12/20/2019,15
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2390,1707,TRUE,12/20/2019,16
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2413,881,FALSE,12/21/2019,17
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,657,1760,FALSE,12/22/2019,18
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2528,1707,TRUE,12/22/2019,19
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,412,1324,FALSE,12/23/2019,20
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,994,1707,TRUE,12/23/2019,21
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2339,881,FALSE,12/27/2019,22
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,2339,881,FALSE,12/28/2019,23
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,341,1760,FALSE,12/29/2019,24
+40830,Stockholm,Stockholm Arlanda,ARN,Sweden,73076,972,1707,TRUE,12/29/2019,25
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,548,870,FALSE,12/9/2019,1
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,540,870,FALSE,12/11/2019,2
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,625,870,FALSE,12/13/2019,3
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,731,870,FALSE,12/14/2019,4
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,593,870,FALSE,12/15/2019,5
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,615,870,FALSE,12/17/2019,6
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,676,870,FALSE,12/19/2019,7
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,880,870,FALSE,12/20/2019,8
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,850,1658,FALSE,12/21/2019,9
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,594,1324,FALSE,12/22/2019,10
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,812,1482,FALSE,12/25/2019,11
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,812,1482,FALSE,12/26/2019,12
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,677,870,FALSE,12/27/2019,13
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,812,1482,FALSE,12/28/2019,14
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,812,1482,FALSE,12/29/2019,15
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,626,857,FALSE,12/30/2019,16
+54215,Rio De Janeiro,Rio De Janeiro Internacional,GIG,Brazil,73076,614,1324,FALSE,12/31/2019,17
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,601,835,FALSE,12/3/2019,1
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,630,870,FALSE,12/4/2019,2
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,667,835,FALSE,12/7/2019,3
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,854,988,FALSE,12/9/2019,4
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,638,1065,FALSE,12/13/2019,5
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,736,850,FALSE,12/14/2019,6
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,763,1065,FALSE,12/15/2019,7
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,731,850,FALSE,12/16/2019,8
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,4263,988,FALSE,12/17/2019,9
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,762,1361,FALSE,12/18/2019,10
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,829,941,FALSE,12/19/2019,11
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,828,941,FALSE,12/20/2019,12
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,789,1126,FALSE,12/21/2019,13
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,696,835,FALSE,12/24/2019,14
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,687,835,FALSE,12/27/2019,15
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,849,988,FALSE,12/29/2019,16
+50421,Buenos Aires,Buenos Aires Ministro Pistarini,EZE,Argentina,73076,849,988,FALSE,12/30/2019,17
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,229,833,TRUE,12/1/2019,1
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,168,833,FALSE,12/5/2019,2
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,1793,TRUE,12/5/2019,3
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,169,833,FALSE,12/16/2019,4
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,199,833,TRUE,12/16/2019,5
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,833,TRUE,12/19/2019,6
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,313,1793,TRUE,12/21/2019,7
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,382,870,FALSE,12/22/2019,8
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,1793,TRUE,12/23/2019,9
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,198,833,TRUE,12/25/2019,10
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,300,988,FALSE,12/26/2019,11
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,311,1793,TRUE,12/26/2019,12
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,281,988,FALSE,12/27/2019,13
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,311,1793,TRUE,12/27/2019,14
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,833,TRUE,12/28/2019,15
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,199,1793,TRUE,12/29/2019,16
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,199,833,TRUE,12/30/2019,17
+40065,Albuquerque,Albuquerque,ABQ,United States,73076,197,833,TRUE,12/31/2019,18
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/1/2019,1
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/2/2019,2
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,156,988,FALSE,12/3/2019,3
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,TRUE,12/3/2019,4
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,156,988,FALSE,12/4/2019,5
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/4/2019,6
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,162,988,FALSE,12/5/2019,7
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,833,TRUE,12/5/2019,8
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/6/2019,9
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,197,1467,FALSE,12/7/2019,10
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,240,835,TRUE,12/7/2019,11
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/8/2019,12
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/9/2019,13
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,156,988,FALSE,12/10/2019,14
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,TRUE,12/10/2019,15
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/11/2019,16
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,161,988,FALSE,12/12/2019,17
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/12/2019,18
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,156,988,FALSE,12/13/2019,19
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,833,TRUE,12/13/2019,20
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/14/2019,21
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,188,851,FALSE,12/15/2019,22
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/15/2019,23
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,162,988,FALSE,12/16/2019,24
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/16/2019,25
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,204,1793,TRUE,12/17/2019,26
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,162,988,FALSE,12/18/2019,27
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,TRUE,12/18/2019,28
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,162,988,FALSE,12/19/2019,29
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,TRUE,12/19/2019,30
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,187,1658,FALSE,12/21/2019,31
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,218,1482,TRUE,12/21/2019,32
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,188,851,FALSE,12/22/2019,33
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,219,1482,TRUE,12/22/2019,34
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,TRUE,12/24/2019,35
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,TRUE,12/25/2019,36
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,217,1907,FALSE,12/26/2019,37
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,219,1482,TRUE,12/26/2019,38
+96268,Montreal,Montreal Pierre Elliott Trudeau,YUL,Canada,73076,205,1793,TRUE,12/28/2019,39
+75572,Providence,Providence,PVD,United States,73076,333,1793,TRUE,12/1/2019,1
+75572,Providence,Providence,PVD,United States,73076,107,833,TRUE,12/17/2019,2
+75572,Providence,Providence,PVD,United States,73076,116,833,TRUE,12/18/2019,3
+75572,Providence,Providence,PVD,United States,73076,235,1721,FALSE,12/19/2019,4
+75572,Providence,Providence,PVD,United States,73076,231,1793,TRUE,12/28/2019,5
+75572,Providence,Providence,PVD,United States,73076,220,1721,FALSE,12/31/2019,6
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3680,1324,FALSE,12/1/2019,1
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,617,1126,FALSE,12/2/2019,2
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,715,1049,TRUE,12/2/2019,3
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3682,838,FALSE,12/3/2019,4
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3681,1324,FALSE,12/4/2019,5
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3685,838,FALSE,12/5/2019,6
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3682,1324,FALSE,12/6/2019,7
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3681,838,FALSE,12/7/2019,8
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3681,1324,FALSE,12/8/2019,9
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3681,838,FALSE,12/9/2019,10
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3682,838,FALSE,12/10/2019,11
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3681,1324,FALSE,12/11/2019,12
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3682,838,FALSE,12/12/2019,13
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,791,881,FALSE,12/13/2019,14
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,811,1049,TRUE,12/13/2019,15
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,861,1049,TRUE,12/14/2019,16
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,789,1049,FALSE,12/15/2019,17
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,904,1049,TRUE,12/15/2019,18
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3681,1324,FALSE,12/16/2019,19
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3682,838,FALSE,12/17/2019,20
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3678,988,FALSE,12/18/2019,21
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3707,838,FALSE,12/19/2019,22
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,838,1416,FALSE,12/20/2019,23
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,929,1049,TRUE,12/20/2019,24
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,838,1416,FALSE,12/21/2019,25
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,929,1049,TRUE,12/21/2019,26
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,748,1049,FALSE,12/22/2019,27
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,1119,1049,TRUE,12/22/2019,28
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,777,1049,TRUE,12/26/2019,29
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,846,1049,TRUE,12/27/2019,30
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,846,1049,TRUE,12/28/2019,31
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,3679,1324,FALSE,12/29/2019,32
+40968,Abu Dhabi,Abu Dhabi International,AUH,United Arab Emirates,73076,777,1049,TRUE,12/31/2019,33
+45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,456,881,FALSE,12/4/2019,1
+45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,1516,1618,FALSE,12/14/2019,2
+45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,679,881,FALSE,12/15/2019,3
+45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,907,881,FALSE,12/16/2019,4
+45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,1654,1618,FALSE,12/18/2019,5
+45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,1653,1618,FALSE,12/19/2019,6
+45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,749,881,FALSE,12/21/2019,7
+45186,Colombo,Colombo Bandaranayake,CMB,Sri Lanka,73076,996,1618,FALSE,12/24/2019,8
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,TRUE,12/1/2019,1
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,TRUE,12/2/2019,2
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,113,870,FALSE,12/3/2019,3
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,118,833,TRUE,12/3/2019,4
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,118,1793,TRUE,12/4/2019,5
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,150,988,FALSE,12/5/2019,6
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,TRUE,12/5/2019,7
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,119,833,TRUE,12/7/2019,8
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,144,870,FALSE,12/8/2019,9
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/8/2019,10
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,104,870,FALSE,12/9/2019,11
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/9/2019,12
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,116,833,FALSE,12/10/2019,13
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,1793,TRUE,12/10/2019,14
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,156,988,FALSE,12/13/2019,15
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,TRUE,12/13/2019,16
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,156,988,FALSE,12/15/2019,17
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,TRUE,12/15/2019,18
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,98,870,FALSE,12/16/2019,19
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,TRUE,12/16/2019,20
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,116,988,FALSE,12/17/2019,21
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,119,1793,TRUE,12/17/2019,22
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,98,870,FALSE,12/18/2019,23
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,154,1793,TRUE,12/18/2019,24
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,185,870,FALSE,12/19/2019,25
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/20/2019,26
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/21/2019,27
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,204,1793,TRUE,12/22/2019,28
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,155,833,FALSE,12/23/2019,29
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/23/2019,30
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,98,870,FALSE,12/24/2019,31
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,203,1793,TRUE,12/24/2019,32
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,116,833,FALSE,12/25/2019,33
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,1793,TRUE,12/25/2019,34
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/26/2019,35
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,155,833,FALSE,12/27/2019,36
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/27/2019,37
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/28/2019,38
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,164,833,FALSE,12/29/2019,39
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,169,1793,TRUE,12/29/2019,40
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/30/2019,41
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,116,833,FALSE,12/31/2019,42
+47009,Washington,Washington Ronald Reagan,DCA,United States,73076,168,833,TRUE,12/31/2019,43
