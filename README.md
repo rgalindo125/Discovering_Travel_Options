@@ -35,11 +35,11 @@ In the Resources/Presentation folder you will see how we answer some of the foll
 
 ## Files Navigation 
 
-1. Final Files Jupyter Notebook - Five Files
-	a. Final Flight Analysis Code
-	b. Cleaning Data
-	c. Maps
-	d. Data Plots
+1. Final Files Jupyter Notebook - Five Files\
+	a. Final Flight Analysis Code\
+	b. Cleaning Data\
+	c. Maps\
+	d. Data Plots\
 	e. Statistical Analysis
 ####
 2. Resources Folder\
