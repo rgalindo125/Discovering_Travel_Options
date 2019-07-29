@@ -42,11 +42,11 @@ In the Resources/Presentation folder you will see how we answer some of the foll
 	d. Data Plots
 	e. Statistical Analysis
 ####
-2. Resources Folder
-a. CSV Files of each departure city and combined table
-b. Airport codes files
-c. PTable analysi
-d. Summary of Findings
+2. Resources Folder\
+a. CSV Files of each departure city and combined table\
+b. Airport codes files\
+c. PTable analysis\
+d. Summary of Findings\
 e. Presentation
 ####
 3. Images
