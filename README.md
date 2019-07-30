@@ -24,7 +24,7 @@ In the Resources/Presentation folder you will see how we answer some of the foll
 4. Deep dive - Data Analysis and Visualization 
 
 
-### Results - Most Visited Cities in the World during December 2019
+### Results - Most Visited Cities in the World during December 2019 with respect to number of quotes received
 
 #### SATELLITE Heat-Map
 ![](https://github.com/pablojordan/Project_1/blob/master/images/heatmapsattellitemapvisitedcities.png)
